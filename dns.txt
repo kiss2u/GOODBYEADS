@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-29 20:36:01（北京时间）
+! Version: 2024-07-30 09:21:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101678
+! Total count: 101693
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -511,6 +511,7 @@
 ||122.bestinterestings.com^
 ||1221e236c3f8703.com^
 ||123-movies.bz^
+||123-stream.org^
 ||123.dorimnews.com^
 ||123.manga1001.top^
 ||1234.sosqboh85.com^
@@ -1057,6 +1058,7 @@
 ||2138.79j68qav2.com^
 ||2143.pandasuite.io^
 ||214ef3ad99.ab728d9dc8.com^
+||2153bf35df.com^
 ||2158novffp.com^
 ||2162.5clo0xmbf.com^
 ||2178.5clo0xmbf.com^
@@ -1246,6 +1248,7 @@
 ||29d65cebb82ef9f.com^
 ||29dc237c9b.com^
 ||29s55bf2.de^
+||2a17f5b615.com^
 ||2a1b1657c6.com^
 ||2a1b3d0e95.com^
 ||2a2k3aom6.de^
@@ -2583,6 +2586,7 @@
 ||7fb.ru^
 ||7fc0966988.com^
 ||7fcb44bf36.cc176a49cd.com^
+||7ff25e57d1.com^
 ||7ff83b4a34.com^
 ||7fkm2r4pzi.com^
 ||7fva8algp45k.com^
@@ -4964,6 +4968,7 @@
 ||a35910.actonservice.com^
 ||a35933.actonservice.com^
 ||a3595ccd38.com^
+||a35e803f21.com^
 ||a36025.actonservice.com^
 ||a36117.actonservice.com^
 ||a36162.actonservice.com^
@@ -8070,6 +8075,7 @@
 ||acridtaxiworking.com^
 ||acridtubsource.com^
 ||acro.egghead.link^
+||acrobaticdesire.com^
 ||acronichoblike.top^
 ||acronkkky.com^
 ||acronymfinder.com/*/housebanners^
@@ -10676,6 +10682,7 @@
 ||ae0ab46046.6ce02869b9.com^
 ||ae1a1e258b8b016.com^
 ||ae2a82cf20.62ca04e27a.com^
+||aeace15a82.com^
 ||aeaw.cn^
 ||aeb92e4b9d.com^
 ||aebvay.mesinspirationsculinaires.com^
@@ -12513,7 +12520,6 @@
 ||analytics.favcy.com^
 ||analytics.fcgtalent.fi^
 ||analytics.ferguson.com^
-||analytics.ff.avast.com^
 ||analytics.firespring.com^
 ||analytics.firstbankcardcenter.com^
 ||analytics.firstbankcardplcc.com^
@@ -18175,6 +18181,7 @@
 ||bf0a4afaf5.com^
 ||bf18c2661e.com^
 ||bf34714db5.eafb9d5abc.com^
+||bf3572595c.com^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bfast.com^
 ||bfbchr.xyz^
@@ -20416,6 +20423,7 @@
 ||bxjhlhk.xyz^
 ||bxlmrl.xyz^
 ||bxlsct.ex-shop.net^
+||bxmazls.icu^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
 ||bxoaeju.icu^
@@ -29030,6 +29038,7 @@
 ||design.nanawall.com^
 ||designatejay.com^
 ||designerdeclinedfrail.com^
+||designernoise.com^
 ||designeropened.com^
 ||designingbadlyhinder.com^
 ||designingpupilintermediary.com^
@@ -32794,7 +32803,6 @@
 ||elgreco.openapp.link^
 ||elgust.com^
 ||elhdxexnra.xyz^
-||elhimurral.top^
 ||elia.thermofisher.com^
 ||eliaoutbawl.com^
 ||elicaowl.com^
@@ -35164,6 +35172,7 @@
 ||f.revotas.com^
 ||f.xyu.tv^
 ||f0070733b3.07c6b39b80.com^
+||f029332141.com^
 ||f02b61sgc617.es.themoneytizer.com^
 ||f05afeecf9.e2fa67be2a.com^
 ||f0657e4fd5.com^
@@ -40959,6 +40968,7 @@
 ||guxedsuba.com^
 ||guxiezhuang.top^
 ||guybaafvpv.com^
+||guyhok.xyz^
 ||guysfair.com^
 ||guywireincorp.com^
 ||gvbhae0.com^
@@ -42736,6 +42746,7 @@
 ||houthaub.xyz^
 ||houtouchekan.space^
 ||houyi.baofeng.net^
+||hov15.icu^
 ||hoverclassicalroused.com^
 ||hoverfly.1pageimpact.com.au^
 ||hoverfly.cdengine.co.uk^
@@ -43933,6 +43944,7 @@
 ||illusiveremarkstreat.com^
 ||illustcutesy.com^
 ||illustrateartery.com^
+||illustrious-challenge.pro^
 ||illustriousmind.pro^
 ||illustriousoatmeal.com^
 ||ilmtudcgmqxa.com^
@@ -47094,6 +47106,7 @@
 ||japw.cloud^
 ||jaqgkyfupna.com^
 ||jaqwtyajwp.com^
+||jaqxaqoxwhce.com^
 ||jargonwillinglybetrayal.com^
 ||jarguvie.xyz^
 ||jarldomtemplar.top^
@@ -48352,6 +48365,7 @@
 ||jwcnjv.xlmoto.eu^
 ||jweoe.xyz^
 ||jweqai.amen.fr^
+||jwerilxa.top^
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
@@ -61999,11 +62013,11 @@
 ||nxwniq.aboutyou.ie^
 ||nxwpxtaik.xyz^
 ||nxwrgrymkfp.com^
+||nxxkxr.xyz^
 ||nxymehwu.com^
 ||ny77jj.washingtonpost.com^
 ||nyadmcncserve-05y06a.com^
 ||nyadra.com^
-||nyanjavalva.click^
 ||nycixrayvbowpue.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||nycwfz.kigili.com^
@@ -69763,6 +69777,7 @@
 ||qvsfrk.stephane-christian.com^
 ||qvtcigr.com^
 ||qvwick.mister-auto.de^
+||qvxtzi.xyz^
 ||qvznqz.mekster.se^
 ||qvzrde.mensagenscomamor.com^
 ||qw9cu.cyou^
@@ -84344,7 +84359,6 @@
 ||subnodeoaring.digital^
 ||suborecho.com^
 ||subot.hellobacsi.com^
-||subpassacorea.shop^
 ||subpixel.4players.de^
 ||subquerieshenceforwardtruthfully.com^
 ||subqueryrewinddiscontented.com^
@@ -86196,6 +86210,7 @@
 ||target.health.childrenswi.org^
 ||target.healthengine.com.au^
 ||target.helsana.ch^
+||target.hidabroot.org^
 ||target.hostech.co.uk^
 ||target.hsn.com^
 ||target.hyundaiusa.com^
