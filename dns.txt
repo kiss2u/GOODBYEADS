@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-31 09:08:11（北京时间）
+! Version: 2024-07-31 20:36:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101716
+! Total count: 101732
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -16519,6 +16519,7 @@
 ||azoaltou.com^
 ||azoogleads.com^
 ||azorbe.com^
+||azotatehooven.top^
 ||azotizeloofas.com^
 ||azotvby.com^
 ||azpresearch.club^
@@ -20596,6 +20597,7 @@
 ||c.vogue.com^
 ||c.vrt.be^
 ||c.vrvm.com^
+||c.webp2p.letv.com^
 ||c.wen.ru^
 ||c.werally.com^
 ||c.wired.com^
@@ -23250,6 +23252,7 @@
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
 ||cllctr.any.run^
+||cllctr.roistat.com^
 ||clmbtech.com^
 ||clmcom.com^
 ||clmkwi.xyz^
@@ -28339,6 +28342,7 @@
 ||dc.banggood.com^
 ||dc.bluecoat.com^
 ||dc.kfz-steuercheck.de^
+||dc.letv.com^
 ||dc.luzygas.ahorraconrepsol.com^
 ||dc.madridistas.com^
 ||dc.realmadrid.com^
@@ -30759,6 +30763,7 @@
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
+||doujs03.shop^
 ||doujs03.xyz^
 ||doujs05.xyz^
 ||doujs06.xyz^
@@ -35704,6 +35709,7 @@
 ||fdtlfl.xyz^
 ||fdubbogbean.guru^
 ||fdxtbs.meeters.org^
+||fe-go.letv.com^
 ||fe313be9ba.61598081d6.com^
 ||fe7qygqi2p2h.com^
 ||fe95a992e6afb.com^
@@ -48644,6 +48650,7 @@
 ||kauvoaph.xyz^
 ||kauzishy.com^
 ||kavanga.ru^
+||kaxjtkvgo.com^
 ||kaxlfq.testingwithtestcafe.com^
 ||kaxnoyxs.com^
 ||kaydonus.promo.skf.com^
@@ -58191,6 +58198,7 @@
 ||mewlstomolo.top^
 ||mexicantransmission.com^
 ||mexico.balluff.com^
+||mexoacmaidu.com^
 ||meylercapital.actonservice.com^
 ||meyopuae.com^
 ||meypeg.videdressing.com^
@@ -58246,7 +58254,6 @@
 ||mgixgn.wittchen.com^
 ||mgjgqztw.com^
 ||mgjnmfhyis.xyz^
-||mgln.ai^
 ||mglvfetiub.com^
 ||mgmuye.xyz^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
@@ -66179,6 +66186,7 @@
 ||pintlecylix.top^
 ||pintoutcryplays.com^
 ||pinttalewag.com^
+||pinukim.net^
 ||pinwalerompers.com^
 ||pioneercomparatively.com^
 ||pioneerhardshipfarewell.com^
@@ -69980,7 +69988,6 @@
 ||r42tag.com^
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
-||r5.dir.bg^
 ||r5apiliopolyxenes.com^
 ||r5dfwjtb.icu^
 ||r6.galya.ru^
@@ -72959,6 +72966,7 @@
 ||s-onetag.com^
 ||s-sitecatalyst.work.shiseido.co.jp^
 ||s-t.topya.com^
+||s-webp2p.letv.com^
 ||s.18ramp.com^
 ||s.344eva.com^
 ||s.360.cn^
@@ -76103,7 +76111,9 @@
 ||shazauds.net^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzkkj.cn^
 ||shbzngs.cn^
+||shbznkj.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -81980,6 +81990,7 @@
 ||ssrv7.com^
 ||sssvd.china.com^
 ||sst.cooperativa.cl^
+||sst.thebanker.com^
 ||sstat.3pagen.at^
 ||sstat.detelefoongids.nl^
 ||sstat.gilt.com^
@@ -82568,6 +82579,7 @@
 ||stat.lamyetudiant.fr^
 ||stat.lamyline.fr^
 ||stat.landingpro.pl^
+||stat.le.com^
 ||stat.legalintelligence.com^
 ||stat.lex.pl^
 ||stat.lexhub.tech^
@@ -84997,6 +85009,7 @@
 ||swepfa.com^
 ||sweptbroadarchly.com^
 ||sweptgrimace.com^
+||swerilxb.top^
 ||sweriob.top^
 ||swervercutup.top^
 ||swesomepop.com^
@@ -87024,6 +87037,7 @@
 ||testtarget.jeep.com^
 ||tesupervis.hair^
 ||tethsrump.com^
+||tetlwsi.top^
 ||tetrdracausa.com^
 ||tetrylscullion.com^
 ||tettrro.info^
@@ -97019,6 +97033,7 @@
 ||whoustoa.net^
 ||whoutchi.net^
 ||whoutsog.net^
+||whouvoart.com^
 ||whowhipi.net^
 ||whqgyo.xyz^
 ||whqkyq.leasingmarkt.de^
@@ -101422,6 +101437,7 @@
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^
 ||zombisarake.top^
+||zombyfairfax.com^
 ||zomcz.cyou^
 ||zone.pornlovo.co^
 ||zone1.bestbdsm24.com^
