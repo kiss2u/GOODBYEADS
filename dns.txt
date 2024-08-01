@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-31 20:36:24（北京时间）
+! Version: 2024-08-01 09:35:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101732
+! Total count: 101761
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8060,6 +8060,7 @@
 ||acquitfamouscavity.com^
 ||acquitjeans.com^
 ||acrasiatickles.com^
+||acrelicenseblown.com^
 ||acrepantherrecite.com^
 ||acrevenene.com^
 ||acrh.be^
@@ -15676,6 +15677,7 @@
 ||atgthkqt.com^
 ||athbzeobts.com^
 ||athecsz.cn^
+||atheegrun.net^
 ||atheismcard.com^
 ||atheismperplex.com^
 ||athena-ads.wikia.com^
@@ -20597,7 +20599,6 @@
 ||c.vogue.com^
 ||c.vrt.be^
 ||c.vrvm.com^
-||c.webp2p.letv.com^
 ||c.wen.ru^
 ||c.werally.com^
 ||c.wired.com^
@@ -24867,6 +24868,7 @@
 ||coreportions.com^
 ||coresepyllia.com^
 ||corgompaup.com^
+||corgouzaptax.com^
 ||corialthanes.life^
 ||corixaraphide.top^
 ||corneey.com^
@@ -26927,6 +26929,7 @@
 ||d2p3vqj5z5rdwv.cloudfront.net^
 ||d2pdbggfzjbhzh.cloudfront.net^
 ||d2pnacriyf41qm.cloudfront.net^
+||d2pozfvrp52dk4.cloudfront.net^
 ||d2pppxxtaciku9.cloudfront.net^
 ||d2psf55e0gm6yv.cloudfront.net^
 ||d2psma0az3acui.cloudfront.net^
@@ -27579,6 +27582,7 @@
 ||damozelmikvahs.com^
 ||dampapproach.com^
 ||dampdock.com^
+||dampedvisored.com^
 ||dampwarabi.com^
 ||damselfly.clk.click^
 ||damselfly.vegenook.com^
@@ -35985,6 +35989,7 @@
 ||fgkqaatlzhgn.com^
 ||fglrgt.ruggable.com^
 ||fgmaal.u-canshop.jp^
+||fgn-plausible.serverable.com^
 ||fgn.cdn.serverable.com/common/images/nfr2ie0nd1s9^
 ||fgoqnva.com^
 ||fgosob.unhcr.it^
@@ -53146,6 +53151,7 @@
 ||lqpzdi.coppel.com^
 ||lqsbqjuld.com^
 ||lqsowt.mona-mode.fr^
+||lqtiwevsan.com^
 ||lqvfkk.sosyopix.com^
 ||lqvm.lvbeybbkovqar.top^
 ||lqwswjwpmaih.com^
@@ -53972,6 +53978,7 @@
 ||mainting-minues.xyz^
 ||maio.jp^
 ||maioux.xyz^
+||maipheeg.com^
 ||maipofok.net^
 ||maiptica.com^
 ||mairbeets.com^
@@ -58781,6 +58788,7 @@
 ||mlllllllmmm.ovh^
 ||mllllllmmm.ovh^
 ||mlllllmmmm.ovh^
+||mllqfiucttnuzn.com^
 ||mlm-tracking-service.meinestadt.de^
 ||mlm.de^
 ||mlmswk.janpara.co.jp^
@@ -61612,6 +61620,7 @@
 ||novem.pl^
 ||novemberadventures.com^
 ||novemberadventures.name^
+||novemberassimilate.com^
 ||novemberseatsuccession.com^
 ||novembersightsoverhear.com^
 ||novemberslantwilfrid.com^
@@ -61734,6 +61743,7 @@
 ||nrtubi.sobrico.com^
 ||nrunmoldy.com^
 ||nrvbadypy.com^
+||nrxdmssm.com^
 ||nryanocytqc.com^
 ||nrztjbpish.com^
 ||nrzzaep.xyz^
@@ -62746,6 +62756,7 @@
 ||ojomrgmhbbpkpz.com^
 ||ojoodoaptouz.com^
 ||ojpem.com^
+||ojrq.net^
 ||ojsxtysilofk.com^
 ||ojtarsdukk.com^
 ||ojtatygrl.xyz^
@@ -63486,6 +63497,7 @@
 ||opbllqzsmfoxq.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
+||opclck.com^
 ||opdavplcufic.com^
 ||opdowvamjv.com^
 ||opealleven.com^
@@ -66881,6 +66893,7 @@
 ||pmegulnunf.com^
 ||pmetorealiukze.xyz^
 ||pmeuehivfps.com^
+||pmi.flowplayer.com^
 ||pmi1yarhxx.com^
 ||pmieprlpq.com^
 ||pmimdcjx.com^
@@ -71542,6 +71555,7 @@
 ||rev4rtb.com^
 ||revampcdn.com^
 ||revbigo.com^
+||revboostprocdnadsprod.azureedge.net^
 ||revcontent.com^
 ||revdepo.com^
 ||reveal.clearbit.com^
@@ -74421,6 +74435,7 @@
 ||scornphiladelphiacarla.com^
 ||scorpion.clare.ink^
 ||scotianosed290noelind.com^
+||scotizeoperae.com^
 ||scotsmaut.top^
 ||scounter.rambler.ru^
 ||scousepneuma.com^
@@ -74477,6 +74492,7 @@
 ||script.anura.io^
 ||script.hotjar.com^
 ||script.ioam.de^
+||script302.top^
 ||scriptcdn.net^
 ||scripte-monster.de^
 ||scripts-repo.reelevant.com^
@@ -75668,6 +75684,8 @@
 ||services.cairn.info^
 ||services.eclerx.com^
 ||services.edc.ca^
+||services.haaretz.co.il^
+||services.haaretz.com^
 ||services.hearstmags.com^
 ||services.princes-trust.org.uk^
 ||services.releasepoint.com^
@@ -80505,6 +80523,7 @@
 ||solocpm.com^
 ||solodar.ru^
 ||soloisthaulchoir.com^
+||solrtrqaitnjy.com^
 ||soltaixa.com^
 ||solucionesreales.americanexpress.es^
 ||solution.agc-chemicals.com^
@@ -81452,6 +81471,7 @@
 ||sprkl.io^
 ||sprocket-ping.s3.amazonaws.com^
 ||sproose.com^
+||sprtnd.com^
 ||sprucymundic.digital^
 ||spruecutworm.com^
 ||spruegibbles.com^
@@ -87164,6 +87184,7 @@
 ||thaucmozsurvey.space^
 ||thaudray.com^
 ||thauftoa.net^
+||thauhoux.com^
 ||thaujauk.net^
 ||thaujaukr.com^
 ||thaust.com^
@@ -87215,6 +87236,7 @@
 ||theelrou.net^
 ||theenfu.com^
 ||theepsie.com^
+||theeptoah.com^
 ||theetholri.xyz^
 ||theextensionexpert.com^
 ||thefacux.com^
@@ -91873,6 +91895,7 @@
 ||trmnsite.com^
 ||trmobc.com^
 ||trockedtawpy.top^
+||trodspivery.com^
 ||troduc.com^
 ||trojangfw.xyz^
 ||trokemar.com^
@@ -92766,6 +92789,7 @@
 ||ues.kicker.de^
 ||uessnah.icu^
 ||uestat.video.qiyi.com^
+||uetlwst.top^
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^
 ||ueuqui.esprit.nl^
@@ -92986,6 +93010,7 @@
 ||ulinyo.bandito.com.tr^
 ||uljoifw.cn^
 ||ulktyi.xyz^
+||ullucupuces.click^
 ||ulmmmvjfbbmk.com^
 ||ulmoyc.com^
 ||ulmujev.com^
@@ -94454,6 +94479,7 @@
 ||veaiyl.icu^
 ||vebadu.com^
 ||vebv8me7q.com^
+||vecggfp.icu^
 ||vecohgmpl.info^
 ||vectisamerica.com^
 ||vectisruntier.top^
@@ -96507,6 +96533,7 @@
 ||webmine.cz^
 ||webminepool.com^
 ||webminerpool.com^
+||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
 ||webpsts.com^
@@ -97171,6 +97198,7 @@
 ||willingnessaggravationfits.com^
 ||willingnesslookheap.com^
 ||willtissuetank.com^
+||wilrimowpaml.com^
 ||wilslide.com^
 ||wimpeelt.com^
 ||wimplesbooklet.com^
@@ -99774,6 +99802,7 @@
 ||xukang09.cn^
 ||xukevxdf.com^
 ||xukou.net^
+||xukpqemfs.com^
 ||xukpresesmr.info^
 ||xuldtcip.icu^
 ||xulizui6.com^
