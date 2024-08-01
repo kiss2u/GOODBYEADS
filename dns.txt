@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-01 09:35:12（北京时间）
+! Version: 2024-08-01 20:36:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101761
+! Total count: 101765
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3090,7 +3090,6 @@
 ||a-reporting.nytimes.com^
 ||a-t.topya.com^
 ||a-waiting.com^
-||a.0day.kiev.ua^
 ||a.10tianqi.com^
 ||a.1800gotjunk.com^
 ||a.1appup.com^
@@ -8420,6 +8419,7 @@
 ||ad.kisscartoon.nz^
 ||ad.kisscartoon.sh^
 ||ad.kisscartoon.su^
+||ad.kisstvshow.es^
 ||ad.kisstvshow.ru^
 ||ad.kubiccomps.icu^
 ||ad.land.to^
@@ -9735,6 +9735,7 @@
 ||ads.multimania.lycos.fr^
 ||ads.museum.or.jp^
 ||ads.music.126.net^
+||ads.mxhnkn.pro^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
 ||ads.newmedia.cz^
@@ -10774,6 +10775,7 @@
 ||aff.bstatic.com^
 ||aff.trackinglibrary.prodperfect.com^
 ||aff1xstavka.com^
+||aff2.linksht.online^
 ||affa8.hikkoshi-master.com^
 ||affabilitydisciple.com^
 ||affableindigestionstruggling.com^
@@ -20622,6 +20624,7 @@
 ||c0me-get-s0me.net^
 ||c0n.tubestash.com^
 ||c0p.cepsum.umontreal.ca^
+||c1-stats.shopifysvc.com^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
 ||c1.china.cn^
@@ -20992,7 +20995,6 @@
 ||candiedvolatilepeep.com^
 ||candleannihilationretrieval.com^
 ||candledvenesia.com^
-||candlinglather.com^
 ||candlingtremble.com^
 ||candouraggravate.com^
 ||candy-network.com^
@@ -21809,7 +21811,6 @@
 ||cdn.zxclan.com^
 ||cdn1.lp.saboom.com^
 ||cdn1.memojav.com^
-||cdn1.pebx.pl^
 ||cdn1.skrill.com^
 ||cdn1.xvideohub.top^
 ||cdn12359286.ahacdn.me^
@@ -31686,6 +31687,7 @@
 ||e.sexygirlscontact.com^
 ||e.shop.app^
 ||e.synchronybank.com^
+||e.truedata.co^
 ||e.tw.cx^
 ||e.unchealthcare.org^
 ||e.vcty.co^
@@ -34454,6 +34456,7 @@
 ||event.api.drift.com^
 ||event.boozallen.com^
 ||event.chitai-gorod.ru^
+||event.clientgear.com^
 ||event.clubcorp.com^
 ||event.condenastdigital.com^
 ||event.csdn.net^
@@ -47355,6 +47358,7 @@
 ||jeejujou.net^
 ||jeekomih.com^
 ||jeelmuyusa.com^
+||jeeng-api-prod.azureedge.net^
 ||jeephiney.net^
 ||jeepsaut.com^
 ||jeerinfluencemedical.com^
@@ -58785,6 +58789,7 @@
 ||mlkklg.suncamp.de^
 ||mlkpbktmqrsry.com^
 ||mllatydz.com^
+||mlldrlujqg.com^
 ||mlllllllmmm.ovh^
 ||mllllllmmm.ovh^
 ||mlllllmmmm.ovh^
@@ -58966,7 +58971,6 @@
 ||mobads4app.com^
 ||mobalert.net^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
-||mobatory.com^
 ||mobbersinwalls.com^
 ||mobdel2.com^
 ||mobdrom.ru^
@@ -66381,6 +66385,7 @@
 ||pixels.ingbank.com.tr^
 ||pixels.livingsocial.com^
 ||pixelspivot.com^
+||pixeltrack.clientgear.com^
 ||pixelzirkus.gameforge.com^
 ||pixfuture.net^
 ||pixiedust.buzzfeed.com^
@@ -68954,7 +68959,6 @@
 ||pwxmwmoyuobgku.com^
 ||pwxtock.com^
 ||px-intl.ucweb.com^
-||px.adfulplatform.com^
 ||px.adhigh.net^
 ||px.derstandard.at^
 ||px.dmp.zaloapp.com^
@@ -69696,7 +69700,6 @@
 ||querysteer.com^
 ||quesid.com^
 ||quest.epoise.com^
-||questaffiliates.net^
 ||questintegrity.actonservice.com^
 ||question.hot-step-mom.com^
 ||question.snapiio.com^
@@ -93053,6 +93056,7 @@
 ||um-public-panel-prod.s3.amazonaws.com^
 ||um.contentstudio.io^
 ||um5xcgngmart.xyz^
+||umami.aigenerations.net^
 ||umami.wakarimasen.moe^
 ||umassmemorial.hrm.healthgrades.com^
 ||umazvs.raybiotech.com^
