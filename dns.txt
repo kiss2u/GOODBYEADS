@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-02 09:21:30（北京时间）
+! Version: 2024-08-02 20:35:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101786
+! Total count: 101759
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -591,7 +591,6 @@
 ||1417571542.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1438976156.recolution.de^
-||143f0a3452.com^
 ||1441085683.rsc.cdn77.org^
 ||1448063843.rsc.cdn77.org^
 ||1472.79j68qav2.com^
@@ -1773,7 +1772,6 @@
 ||46bd8e62a2.com^
 ||46d24c436e.4a9517991d.com^
 ||46f4vjo86.com^
-||46febd8df8.com^
 ||46rtpw.ru^
 ||4716.5clo0xmbf.com^
 ||47216dc00b.com^
@@ -2093,7 +2091,6 @@
 ||5c5991d906.9a857c6721.com^
 ||5ca59a669a.com^
 ||5caa478343.com^
-||5cb068fb21.com^
 ||5cbbdb4434.com^
 ||5cd06b6ef4.com^
 ||5ceeef63ba.a899228ebf.com^
@@ -2394,6 +2391,7 @@
 ||7033.833enmhob.com^
 ||7046.5clo0xmbf.com^
 ||704g8xh7qfzx.www.intercity.technology^
+||7060.la^
 ||7073.5clo0xmbf.com^
 ||70b25fad84.ecaecc3e17.com^
 ||70d4a0bb45.e82ae52eec.com^
@@ -2409,7 +2407,6 @@
 ||71dd1ff9fd.com^
 ||71ec0646e6.com^
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||71ffca393f.com^
 ||721ffc3ec5.com^
 ||722717a3db.1ab9ee01cb.com^
 ||722cba612c.com^
@@ -7680,7 +7677,6 @@
 ||aboveboardstunning.com^
 ||aboveredirect.top^
 ||abovethecityo.com^
-||aboybvnm.com^
 ||abparasr.com^
 ||abpicsrc.com^
 ||abpjs23.com^
@@ -7725,7 +7721,6 @@
 ||abslroan.com^
 ||absoft.actonservice.com^
 ||absolosisa.com^
-||absolute-honey.pro^
 ||absolutebarbarafashioned.com^
 ||absolutechapelequation.com^
 ||absolutelyconfession.com^
@@ -8424,7 +8419,6 @@
 ||ad.kubiccomps.icu^
 ||ad.land.to^
 ||ad.lapa.pub^
-||ad.leadboltapps.net^
 ||ad.leap.app^
 ||ad.lgappstv.com^
 ||ad.line-scdn.net^
@@ -9630,7 +9624,6 @@
 ||ads.forbes.net^
 ||ads.fortunecity.com^
 ||ads.fotosidan.se^
-||ads.foxnetworks.com^
 ||ads.fpt.vn^
 ||ads.fptplay.net.vn^
 ||ads.free-to.download^
@@ -11971,7 +11964,6 @@
 ||amazonaws.com/beacon^
 ||amazonlogistics.jp^
 ||ambaab.com^
-||ambassadorvaultvisited.com^
 ||ambeartictor.com^
 ||amberfrontierdust.com^
 ||ambfdkucm.com^
@@ -12227,6 +12219,7 @@
 ||analysis.chinaiiss.com^
 ||analysis.fi^
 ||analysis.polarisoffice.com^
+||analysis.prod.joyfru.jiji.com^
 ||analysis.yozocloud.cn^
 ||analystrati.com^
 ||analysys.cn^
@@ -15299,7 +15292,6 @@
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
 ||asds.hentaitimes.com^
-||asdxntvjpsyl.com^
 ||asdyui16.cn^
 ||asecv.xyz^
 ||aseegrib.com^
@@ -17682,7 +17674,6 @@
 ||bearinggall.com^
 ||bearingted.com^
 ||bears.daigostudio.com^
-||beastbuying.com^
 ||beastintruder.com^
 ||beastsmalefic.uno^
 ||beastssmuggleimpatiently.com^
@@ -18004,7 +17995,6 @@
 ||besc.baidustatic.com^
 ||bescourpeined.top^
 ||beseechaircraftorange.com^
-||beseechpill.com^
 ||beserte.pro^
 ||besguses.pro^
 ||beshellspitous.com^
@@ -24791,7 +24781,6 @@
 ||cookingsorting.com^
 ||cooknfit.com^
 ||cookoval.com^
-||cookpad-ads.com^
 ||cool.gaygo.tv^
 ||cool.sunporno.com^
 ||cool.tubous.com^
@@ -29230,7 +29219,6 @@
 ||dfejqmh.cn^
 ||dfepsqnbje.com^
 ||dffa09cade.com^
-||dffb69a70f.com^
 ||dffhhqka.com^
 ||dffpxg.targus.com^
 ||dffrahax.com^
@@ -33360,7 +33348,6 @@
 ||embknh.perriconemd.com^
 ||embodimentpronounrunway.com^
 ||embodygoes.com^
-||embodyopenlyoppose.com^
 ||embogsoarers.com^
 ||embolipokies.com^
 ||embosknitos.com^
@@ -33569,7 +33556,6 @@
 ||enews10.yxlady.net^
 ||enfantbroll.top^
 ||enframetump.com^
-||enfreine.com^
 ||enftvgnkylijcp.xyz^
 ||engage-emea.jll.com^
 ||engage.3m.co.cr^
@@ -36546,7 +36532,6 @@
 ||flexlinks.com^
 ||flexpod.ynsecureserver.net^
 ||flfegwxrctclm.com^
-||flghgvlsdhetim.com^
 ||flickerbridge.com^
 ||flickeringintention.pro^
 ||flickerworlds.com^
@@ -36614,7 +36599,6 @@
 ||flowerdicks.com^
 ||flowers.moex.com^
 ||flowgo.com^
-||flowhot.info^
 ||flowitchdoctrine.com^
 ||flowln.com^
 ||flowsearch.info^
@@ -39112,6 +39096,7 @@
 ||gleeglis.net^
 ||gleegloo.net^
 ||gleejoad.net^
+||gleempithep.com^
 ||gleemsomto.com^
 ||gleemsub.com^
 ||gleeneep.com^
@@ -43949,7 +43934,6 @@
 ||illfriendship.com^
 ||illfvowjayo.com^
 ||illicitdandily.cam^
-||illinformedgreen.com^
 ||illinformednative.com^
 ||illishrastus.com^
 ||illiterate-estate.pro^
@@ -44629,7 +44613,6 @@
 ||imgazure.com/888_super.php^
 ||imgcdnbet.com^
 ||imgfeedget.com^
-||imgg.dt00.net^
 ||imghost.pics^
 ||imghst-de.com^
 ||imgict.dwtcmarketing.com^
@@ -46980,7 +46963,6 @@
 ||iyfbodn.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
-||iygke.com^
 ||iyisloo.top^
 ||iykig.cn^
 ||iymbywma.com^
@@ -47022,7 +47004,6 @@
 ||j0ss4np1c5.site^
 ||j1.ax.xrea.com^
 ||j1.piaobing.com^
-||j158.hearstmediact.com^
 ||j178.wmur.com^
 ||j198.registercitizen.com^
 ||j2i0.mathon.fr^
@@ -48450,6 +48431,7 @@
 ||jygotubvpyguak.com^
 ||jyhxhsdgxbvcnj.com^
 ||jyisloa.top^
+||jyjbdwox.com^
 ||jyjhjopmq.com^
 ||jyjmpatmgk.com^
 ||jylgvkxgfy.com^
@@ -50431,6 +50413,7 @@
 ||leadadvert.info^
 ||leadbolt.net^
 ||leadboltads.net^
+||leadboltapps.net^
 ||leadcertain.actonservice.com^
 ||leadclick.com^
 ||leadcola.com^
@@ -50455,7 +50438,6 @@
 ||leadzupc.com^
 ||leadzutw.com^
 ||leafagebaume.com^
-||leafingcoitus.website^
 ||leafletcensorrescue.com^
 ||leafletluckypassive.com^
 ||leafletsmakesunpleasant.com^
@@ -50678,7 +50660,6 @@
 ||letitnews.com^
 ||letitredir.com^
 ||letmewatchthis.pl^
-||letopdusexe.net^
 ||letopreseynatc.org^
 ||letqejcjo.xyz^
 ||lets-dev.irl.com^
@@ -52100,7 +52081,6 @@
 ||lkhfkjp.com^
 ||lkhmkmhlqst.xyz^
 ||lkhrtf.beveragefactory.com^
-||lkj-lijn.com^
 ||lkj23jlkajsa.realestate.help^
 ||lkjgdyhtdrnau.com^
 ||lkjjhrwrcmvtl.com^
@@ -70969,6 +70949,7 @@
 ||reklam.turkmmo.com^
 ||reklam.yonlendir.com^
 ||reklama.mironet.cz^
+||reklama.shinden.eu^
 ||reklama.teenfuckhd.com^
 ||reklama.warforum.cz^
 ||reklamcsere.hu^
@@ -80350,7 +80331,6 @@
 ||snoobi.com^
 ||snoolszingano.com^
 ||snoopundesirable.com^
-||snoopy-incident.com^
 ||snoopytown.pro^
 ||snoreempire.com^
 ||snorefamiliarsiege.com^
@@ -89848,7 +89828,6 @@
 ||trac.oferting.fr^
 ||trac.oferting.it^
 ||trac.oferting.net^
-||trac.oferting.org^
 ||trac.roomster.com^
 ||traccoon.intellectsoft.net^
 ||trace.51jingying.com^
@@ -92090,7 +92069,6 @@
 ||tswyxkasqago.com^
 ||tsyfnhd.com^
 ||tsyndicate.com^
-||tsyndolls.com^
 ||tszoxhtk.xyz^
 ||tszuhznuteoxkx.com^
 ||tt.biquge.la^
@@ -93306,7 +93284,6 @@
 ||unifini.de^
 ||uniformheartlesssneaking.com^
 ||uniformyeah.com^
-||unimportant-pleasure.com^
 ||uninkedsamucu.guru^
 ||uninvitednobody.com^
 ||union*.365inews.com^
@@ -94220,7 +94197,6 @@
 ||vacwrite.com^
 ||vadokfkulzr.com^
 ||vads.net.vn^
-||vads.vn^
 ||vaebard.com^
 ||vaehxkhbhguaq.xyz^
 ||vaekkfv.cn^
@@ -95368,7 +95344,6 @@
 ||volform.online^
 ||volleyballachiever.site^
 ||volna2babla1dh1.com^
-||voltads.com^
 ||volts.shopping.naver.com^
 ||volumedpageboy.com^
 ||volumesundue.com^
@@ -97663,7 +97638,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldkolf.info^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
@@ -101034,7 +101008,6 @@
 ||zanox.com^
 ||zantainet.com^
 ||zantpvrsmninvx.com^
-||zantracker.com^
 ||zap-srv.com^
 ||zap-webspace.com^
 ||zap.cdn.zynga.com^
