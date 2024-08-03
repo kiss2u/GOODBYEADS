@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-03 09:20:43（北京时间）
+! Version: 2024-08-03 20:32:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101764
+! Total count: 101752
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -287,7 +287,6 @@
 ||0f3887f8af.com^
 ||0f461325bf56c3e1b9.com^
 ||0f81aafd60.c0887b5285.com^
-||0fa972d0d7.com^
 ||0fc7ac6ea7.com^
 ||0ffdaa4778.5a9b74f2cd.com^
 ||0fmm.com^
@@ -579,7 +578,6 @@
 ||1396762586.rsc.cdn77.org^
 ||13b3403320.com^
 ||13b696a4c1.com^
-||13c65864bc.com^
 ||13e109f68a.03bdb617ed.com^
 ||13e72f87ba.com^
 ||13f8c0b498.com^
@@ -2391,7 +2389,6 @@
 ||7033.833enmhob.com^
 ||7046.5clo0xmbf.com^
 ||704g8xh7qfzx.www.intercity.technology^
-||7060.la^
 ||7073.5clo0xmbf.com^
 ||70b25fad84.ecaecc3e17.com^
 ||70d4a0bb45.e82ae52eec.com^
@@ -12269,6 +12266,7 @@
 ||analytics-dataplane.invideo.io^
 ||analytics-egain.com^
 ||analytics-events.inshorts.com^
+||analytics-fe.digital-cloud.medallia.eu^
 ||analytics-gateway.delta.dp.lightricks.com^
 ||analytics-gw.games.wanmei.com^
 ||analytics-hub.3plearning.com^
@@ -12800,6 +12798,7 @@
 ||analytics.redlink.com.ar^
 ||analytics.regex101.com^
 ||analytics.reliant.com^
+||analytics.rev.iq^
 ||analytics.rever.vn^
 ||analytics.reyrey.net^
 ||analytics.rivaliq.com^
@@ -17074,7 +17073,6 @@
 ||bannerhealth.hrm.healthgrades.com^
 ||bannerhost.com^
 ||bannerimage.com^
-||bannerlandia.com.ar^
 ||bannermall.com^
 ||bannermarkt.nl^
 ||bannermorninginterference.com^
@@ -21050,7 +21048,6 @@
 ||capping.sirius.press^
 ||capplanllc.actonservice.com^
 ||cappleacouchy.com^
-||cappuccinoeliza.com^
 ||capricedes.com^
 ||capricetheme.com^
 ||capricewailinguniversity.com^
@@ -25654,7 +25651,6 @@
 ||cskh-hcm.fpt.edu.vn^
 ||cskh.onlinecrm.vn^
 ||cslbahf.top^
-||csm-e.cds1.yospace.com^
 ||csm.magnetintell.com^
 ||csmads.gameclick.vn^
 ||csmetrics.wilton.com^
@@ -29518,6 +29514,7 @@
 ||digital.opsbase.com^
 ||digital.setpointis.com^
 ||digital2cloud.com^
+||digitaladv.despar.it^
 ||digitaldsp.com^
 ||digitalmarketing.gogsg.com^
 ||digitalmarketing.smu.edu.sg^
@@ -34061,6 +34058,7 @@
 ||errnewlog.umeng.com^
 ||errolandtessa.com^
 ||error-collector.ted.com^
+||error-tracking.reddit.com^
 ||error.videonow.ru^
 ||errorpalpatesake.com^
 ||errorparasol.com^
@@ -40119,9 +40117,7 @@
 ||golsaiksi.net^
 ||gomain.pro^
 ||gomain2.pro^
-||gomajor1.com^
 ||gomajorik1.com^
-||gomajorlink.com^
 ||gomastabrat.com^
 ||gombotrubu.com^
 ||gomerchant.groupon.com^
@@ -41981,7 +41977,6 @@
 ||hgirsxsgetv.com^
 ||hgjjk45.com^
 ||hgjxjis.com^
-||hgkuafsvkrn.xyz^
 ||hgngrf.xyz^
 ||hgpdoa.cn^
 ||hgpmbfkxmrw.xyz^
@@ -46276,7 +46271,6 @@
 ||intorterraon.com^
 ||intothespirits.com^
 ||intowow.com^
-||intproject.xyz^
 ||intrafic22.com^
 ||intranet.dcorp.com.vn^
 ||intriguingsuede.com^
@@ -46529,7 +46523,6 @@
 ||iq7grexsvo.su^
 ||iqbjqv.airarabia.com^
 ||iqcjuetaudtj.com^
-||iqcxhe04fnic.com^
 ||iqcxki.johosokuhou.com^
 ||iqede.xyz^
 ||iqfmvj.com^
@@ -47626,7 +47619,6 @@
 ||jjkwrqjklaaqa.top^
 ||jjmxksqyfagljmg.com^
 ||jjobuyratjc.com^
-||jjoewnxeqt.com^
 ||jjolbaew.com^
 ||jjpgbisdg.xyz^
 ||jjqbvqoyo.com^
@@ -53560,7 +53552,6 @@
 ||lzxdx24yib.com^
 ||m-game.book.qq.com^
 ||m-m.actonservice.com^
-||m-metrics.capitalone.com^
 ||m-rtb.com^
 ||m-setup.net^
 ||m-t.topya.com^
@@ -60217,7 +60208,6 @@
 ||n1.webedia.fr^
 ||n1307adserv.xyz^
 ||n1g459ky7y.com^
-||n1gopush.com^
 ||n1pusher.com^
 ||n26-trusted.n26.com^
 ||n2faw.site^
@@ -62393,7 +62383,6 @@
 ||ocfhdcmwekmjf.com^
 ||ocflkcgwjem.com^
 ||ocggec.xyz^
-||ochbegja.com^
 ||ocheebou.xyz^
 ||ochoawhou.com^
 ||ochre-app.hotdoc.com.au^
@@ -87060,7 +87049,6 @@
 ||testsite34.com^
 ||testsocial.eduthrill.com^
 ||testtarget.jeep.com^
-||tesupervis.hair^
 ||tethsrump.com^
 ||tetlwsi.top^
 ||tetrdracausa.com^
@@ -89827,7 +89815,6 @@
 ||trac.clicplan.fr^
 ||trac.clicplan.it^
 ||trac.couponandgo.co.uk^
-||trac.couponandgo.com^
 ||trac.oferting.co.uk^
 ||trac.oferting.es^
 ||trac.oferting.fr^
@@ -100062,6 +100049,7 @@
 ||yast.rutube.ru^
 ||yatab.net^
 ||yatemy.cn^
+||yatr.ru^
 ||yaupersjejunum.top^
 ||yausbprxfft.xyz^
 ||yavli.com^
