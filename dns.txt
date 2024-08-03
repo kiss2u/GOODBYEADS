@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-02 20:35:18（北京时间）
+! Version: 2024-08-03 09:20:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101759
+! Total count: 101764
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7103,7 +7103,6 @@
 ||a9c44e3c7e.com^
 ||a9ce112bde.com^
 ||a9d8e7b6i5s.andgino.jp^
-||a9dfcdeee8.com^
 ||a9o.youlikeboys.com^
 ||aa-aem.hamamatsu.com^
 ||aa-metrics.aircard.jp^
@@ -8946,7 +8945,6 @@
 ||adfootprints.com^
 ||adforcast.com^
 ||adforce.com^
-||adforce.kinokong.net^
 ||adforgames.com^
 ||adforgeinc.com^
 ||adfork.co.kr^
@@ -15925,6 +15923,7 @@
 ||aulsidakr.com^
 ||aulteeby.net^
 ||aultesou.net^
+||aultopurg.xyz^
 ||aultseemedto.xyz^
 ||aumarketing.sedgwick.com^
 ||aumaupoy.net^
@@ -17956,6 +17955,7 @@
 ||bepapersurmise.space^
 ||beparaspr.com^
 ||bepartof.wechain.eu^
+||bepawrepave.com^
 ||bephungoagno.com^
 ||bepilelaities.com^
 ||bepolite.eu^
@@ -19645,6 +19645,7 @@
 ||bravia.dl.playstation.net^
 ||bravo.israelweather.co.il^
 ||bravotrk.com^
+||brawerverism.com^
 ||brawlperennialcalumny.com^
 ||braxyunfelt.top^
 ||brazenwholly.com^
@@ -19809,7 +19810,6 @@
 ||brnc.seidecor.com.br^
 ||bro.kim^
 ||bro4.biz^
-||broadboundary.com^
 ||broadliquorsecretion.com^
 ||broadsheetblaze.com^
 ||broadsheetcounterfeitappeared.com^
@@ -21223,7 +21223,6 @@
 ||cashbeet.com^
 ||cashbeside.com^
 ||cashbigo.com^
-||cashcrate.com^
 ||cashengines.com^
 ||cashesdungier.com^
 ||cashewsforlife208.com^
@@ -22262,6 +22261,7 @@
 ||chaubseet.com^
 ||chauckee.net^
 ||chauckoo.xyz^
+||chaudoubeets.net^
 ||chaudrep.net^
 ||chaugroo.net^
 ||chauinubbins.com^
@@ -29197,6 +29197,7 @@
 ||deybshwg.com^
 ||deyubo.uno^
 ||df-long.cn^
+||df.huya.com^
 ||df.tanx.com^
 ||df03704292.acbc68e83c.com^
 ||df0pmigc8xs70.cloudfront.net^
@@ -30479,7 +30480,6 @@
 ||dockboulevardshoes.com^
 ||dockdeity.com^
 ||dockdigestion.com^
-||docksalmon.com^
 ||doclec.supersmart.com^
 ||doclen.hypedc.com^
 ||docomo-analytics.com^
@@ -31434,6 +31434,7 @@
 ||dvhcob.jtrip.co.jp^
 ||dvigutying.top^
 ||dvjkmskks.xyz^
+||dvkxchzb.com^
 ||dvl8xapgpqgc1.cloudfront.net^
 ||dvmdwmnyj3u4h.cloudfront.net^
 ||dvmira.keskisenkello.fi^
@@ -31686,6 +31687,7 @@
 ||e04dbd6f50.3128e920ab.com^
 ||e0593385f7.f59408d48d.com^
 ||e0a79821ec.com^
+||e0ad1f3ca8.com^
 ||e0b01755ef.da77842b9c.com^
 ||e0e5bc8f81.com^
 ||e0ed824f8b.9bbbabcb26.com^
@@ -33549,6 +33551,7 @@
 ||energeticrecognisepostcard.com^
 ||energy.eneco.be^
 ||energypopulationpractical.com^
+||eneughghaffir.com^
 ||eneverals.biz^
 ||eneverseen.org^
 ||enews.alfaromeo.it^
@@ -36828,6 +36831,7 @@
 ||foomaque.net^
 ||foomjy.teacollection.com^
 ||foone.com.br^
+||foonerne.com^
 ||fooptoat.com^
 ||foot.wiki^
 ||footageaccomplishment.com^
@@ -43034,6 +43038,7 @@
 ||hugenicholas.com^
 ||hugfromoctopus.com^
 ||huggedpumpers.com^
+||huggerslycaena.com^
 ||hughjonah.com^
 ||hugodeservedautopsy.com^
 ||hugoinexperiencedsat.com^
@@ -43053,6 +43058,7 @@
 ||hulabipptemux.com^
 ||hulichuang.mobi^
 ||hulledaries.top^
+||hulocvvma.com^
 ||hulyagedikci.com^
 ||humaffableconsulate.com^
 ||humandiminutionengaged.com^
@@ -45422,7 +45428,6 @@
 ||info.mccloudservices.com^
 ||info.mdsol.com^
 ||info.med-iq.com^
-||info.medtronicdiabetes.com^
 ||info.membercoverage.com^
 ||info.memberzone.com^
 ||info.mergertech.com^
@@ -49939,6 +49944,7 @@
 ||l.voalearningenglish.in^
 ||l.voici.fr^
 ||l.voleousa.com^
+||l.web.huya.com^
 ||l.whizzl.com^
 ||l.workoutparty.co^
 ||l.ykimg.com^
@@ -53826,7 +53832,6 @@
 ||maghoutwell.com^
 ||magic.freetrade.io^
 ||magic1.biz^
-||magic2.biz^
 ||magicalbending.com^
 ||magicalfurnishcompatriot.com^
 ||magicallyitalian.com^
@@ -59692,8 +59697,6 @@
 ||mthvjim.com^
 ||mtienlx.top^
 ||mtj.baidu.com^
-||mtjrhfww.com^
-||mtjwxcdjierrmw.com^
 ||mtkure.gazin.com.br^
 ||mtlog.droid4x.cn^
 ||mtm.qdqmedia.com^
@@ -61945,6 +61948,7 @@
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||nutgxfwechkcuf.com^
+||nutiipwkk.com^
 ||nutletcorvees.com^
 ||nutmegshow.com^
 ||nutrientassumptionclaims.com^
@@ -63838,6 +63842,7 @@
 ||orrisesdepute.com^
 ||orrmmdsdc.com^
 ||orrvucstaxip.com^
+||orrwavakgqr.com^
 ||orsmfg.notino.de^
 ||orssengseen.com^
 ||orthitepetrous.com^
@@ -67066,9 +67071,9 @@
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
 ||polypak.actonservice.com^
+||polypedoutkeep.com^
 ||pomaceunbloom.com^
 ||pomegranateheroin.com^
-||pomerous.info^
 ||pomeroyhagdown.com^
 ||pompadawe.com^
 ||pompeywantinggetaway.com^
@@ -67492,7 +67497,6 @@
 ||prairiedog.hashnode.com^
 ||praluent-e.regeneron.com^
 ||pramenterpriseamy.com^
-||pramviable.com^
 ||pranavafolksey.com^
 ||pranklecaque.com^
 ||prascfaf.com^
@@ -84109,7 +84113,6 @@
 ||stoveword.com^
 ||stowamends.com^
 ||stowbelievable.com^
-||stowingwhelks.com^
 ||stowjupnkwlic.com^
 ||stpd.cloud^
 ||stpeopleshouldthi.com^
@@ -85608,6 +85611,7 @@
 ||t.herdzone.com^
 ||t.hmwy.io^
 ||t.hokiesports.com^
+||t.home.news.cn^
 ||t.hornetsports.com^
 ||t.huskers.com^
 ||t.hypers.com.cn^
@@ -87681,6 +87685,7 @@
 ||tinbuadserv.com^
 ||tingeedy.xyz^
 ||tingexcelelernodyden.info^
+||tingisincused.com^
 ||tingleswhisker.top^
 ||tinkermockingmonitor.com^
 ||tinkerwidth.com^
@@ -92730,6 +92735,7 @@
 ||udb3n.icu^
 ||udbaa.com^
 ||udbdf-v2.nimo.tv^
+||udblog.huya.com^
 ||udc.msn.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
@@ -94744,7 +94750,6 @@
 ||viatechonline.com^
 ||viatepigan.com^
 ||vibeaconstr.onezapp.com^
-||vibmhetkcedookx.com^
 ||vibrantmedia.com^
 ||vibrantvale.com^
 ||vibrateapologiesshout.com^
