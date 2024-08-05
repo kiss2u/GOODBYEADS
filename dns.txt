@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-05 09:23:47（北京时间）
+! Version: 2024-08-05 20:37:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101854
+! Total count: 101850
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4880,7 +4880,6 @@
 ||a29881.actonservice.com^
 ||a29902.actonservice.com^
 ||a29975.actonservice.com^
-||a2adjk.com^
 ||a2d99f3f21.d02d499310.com^
 ||a2da7a7023.ada91b7b0f.com^
 ||a2dfp.net^
@@ -7451,6 +7450,7 @@
 ||abiderestless.com^
 ||abiezerrotor.top^
 ||abiezertilyer.top^
+||abjalrq.cn^
 ||abjectionblame.com^
 ||abjectionomnipresent.com^
 ||abjectionpatheticcoloured.com^
@@ -16289,6 +16289,7 @@
 ||awzddev.cn^
 ||awzvpbg.com^
 ||ax.*.ifeng.com^
+||ax.amnezia.org^
 ||ax.babe.today^
 ||ax.helcoidpedicel.com^
 ||ax.idg.se^
@@ -22655,7 +22656,6 @@
 ||cifflattie.com^
 ||cifqfyafsolzb.com^
 ||cigar.pt^
-||cigaretkeelman.top^
 ||cigarette-online.com^
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
@@ -23607,7 +23607,6 @@
 ||co5n3nerm6arapo7ny.com^
 ||coaboowie.com^
 ||coacaips.com^
-||coacheehoard.top^
 ||coachingminceur.go2cloud.org^
 ||coactedtoe.top^
 ||coads.akipress.org^
@@ -28242,7 +28241,6 @@
 ||datatechdrift.com^
 ||datatechone.com^
 ||datatechonert.com^
-||datchsmack.top^
 ||date-5-c.com^
 ||date2day.pro^
 ||date4sex.pro^
@@ -36942,7 +36940,6 @@
 ||foremedia.net^
 ||forensicssociety.com^
 ||forenteion.com^
-||forerungirdles.com^
 ||foresawmartins.com^
 ||foreseegigglepartially.com^
 ||forestallbladdermajestic.com^
@@ -38474,7 +38471,6 @@
 ||geographyhonourgoddess.com^
 ||geoidalsericin.com^
 ||geoidsskift.guru^
-||geoinfo.i2w.io^
 ||geoinventory.com^
 ||geoip-lookup.vice.com^
 ||geoip.al.com^
@@ -43147,7 +43143,6 @@
 ||hungryrise.com^
 ||hunkbother.com^
 ||hunklm.com^
-||hunlikeaiolis.top^
 ||hunshop.natureflower.com^
 ||hunter-hub.com^
 ||hunterers.com^
@@ -52980,7 +52975,6 @@
 ||love-world.me^
 ||love.furenkeji.com^
 ||love.romanticcollection.ru^
-||lovedayimplial.com^
 ||lovedcorrectionsuffix.com^
 ||loveeveryday.brighterkind.com^
 ||lovehiccuppurple.com^
@@ -73719,7 +73713,6 @@
 ||sageanalyst.net^
 ||sagearmamentthump.com^
 ||sagedeportflorist.com^
-||saggararage.shop^
 ||saggrowledetc.com^
 ||sagrew.com^
 ||sagumnlx.com^
@@ -74775,6 +74768,7 @@
 ||searchmulty.com^
 ||searchramp.com^
 ||searchrespectivelypotency.com^
+||searchresultsadblocker.com^
 ||searchsecurer.com^
 ||seashorelikelihoodreasonably.com^
 ||seashoremessy.com^
@@ -76163,7 +76157,6 @@
 ||shareitpp.com^
 ||sharelink.oppvenuz.com^
 ||sharen.oyorooms.com^
-||sharepointads.com^
 ||shareresults.com^
 ||sharesceral.uno^
 ||sharethrough.com^
@@ -88133,6 +88126,7 @@
 ||tmlwvxae.xyz^
 ||tmnbocewmddu.com^
 ||tmnsstf.com^
+||tmoclbf.icu^
 ||tmpbr.getgifted.com^
 ||tmrhpl.nurse-agent.com^
 ||tmrjaghtledm.com^
@@ -92744,7 +92738,6 @@
 ||ub.finanzfrage.net^
 ||ub1.job592.com^
 ||ubadzufyfjcd.com^
-||ubar-pro4.ru^
 ||ubbfpm.com^
 ||ubdiysvv.com^
 ||ubdjdtraxe.com^
@@ -94126,6 +94119,7 @@
 ||uvwelvnydoy.com^
 ||uvwtmppnbqgzha.com^
 ||uvxclrl.com^
+||uvyuqzx.cn^
 ||uvzomxvbpbgo.com^
 ||uvzrtq.livingspaces.com^
 ||uvzsmwfxa.com^
@@ -96341,6 +96335,7 @@
 ||weaverdispensepause.com^
 ||weayrvvkvvalk.top^
 ||web-analytic.ghtk.vn^
+||web-analytics.lastpass.com^
 ||web-analytics.mona.host^
 ||web-device-id.banggood.com^
 ||web-guardian.xyz^
@@ -100470,6 +100465,7 @@
 ||ykskhw.candytm.pl^
 ||yktj.yzz.cn^
 ||ykujch.icu^
+||ykwykw.xyz^
 ||ykxafzdu.xyz^
 ||ykxfoj.purchasingpower.com^
 ||ykxscghselpj.com^
