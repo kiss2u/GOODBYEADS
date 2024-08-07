@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-07 09:23:02（北京时间）
+! Version: 2024-08-07 20:36:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101687
+! Total count: 101686
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -62,7 +62,6 @@
 ||00it.com^
 ||00px.net^
 ||00webcams.com^
-||01-sex-amateur.info^
 ||0118.5clo0xmbf.com^
 ||012024jhvjhkozekl.space^
 ||01220b75a7.com^
@@ -753,7 +752,6 @@
 ||1969301294.rsc.cdn77.org^
 ||1971.833enmhob.com^
 ||1979087343.rsc.cdn77.org^
-||197ab55c5d.com^
 ||1988.5clo0xmbf.com^
 ||199.180.100.185/love44^
 ||1991.5clo0xmbf.com^
@@ -7680,7 +7678,6 @@
 ||ac.prism-world.jp.net^
 ||ac.rnm.ca^
 ||ac1.pingpingw.com^
-||ac14b9b34e.com^
 ||ac35e1ff43.com^
 ||ac9kpxbans1l.staging.unstoppabledomains.com^
 ||acacdn.com^
@@ -16574,6 +16571,7 @@
 ||b3ra6hmstrioek54er.com^
 ||b3stcond1tions.com^
 ||b3z29k1uxb.com^
+||b41732fb1b.com^
 ||b42rracj.com^
 ||b439570158.29dc237c9b.com^
 ||b44261ea37.1be76e820d.com^
@@ -19125,7 +19123,6 @@
 ||bosselinorrummage.com^
 ||bossemphasize.com^
 ||bossyinternal.pro^
-||bossymassive.com^
 ||bostonwall.com^
 ||bostopago.com^
 ||bot-checker.com^
@@ -20351,6 +20348,7 @@
 ||byteinstitution.com^
 ||bytesdictatescoop.com^
 ||bytesreunitedcedar.com^
+||bytmfj.xyz^
 ||bytogeticr.com^
 ||bytupkvc.xyz^
 ||byuwkbv.top^
@@ -31546,7 +31544,6 @@
 ||e0e5bc8f81.com^
 ||e0ed824f8b.9bbbabcb26.com^
 ||e10.verticurl.com^
-||e11956.x.akamaiedge.net^
 ||e12a49f01f.7abf0af03c.com^
 ||e1cea7c952.4ffecd1ee4.com^
 ||e1e.io^
@@ -32685,7 +32682,6 @@
 ||ellmtlvlpihr.com^
 ||elltheprecise.org^
 ||ellypsio.net.jumia.com.ng^
-||elmkrljyaaqlq.top^
 ||elmonopolicycr.info^
 ||elneagog.com^
 ||elogic-learning.actonservice.com^
@@ -33698,6 +33694,7 @@
 ||eoapxl.com^
 ||eoasxirquewfyn.com^
 ||eobvppi.com^
+||eoedchucdtkep.com^
 ||eofjtw.jjshouse.se^
 ||eofripvanwin.org^
 ||eofst.com^
@@ -37685,6 +37682,7 @@
 ||fzgpzp.opodo.de^
 ||fzgrpqktmq.com^
 ||fzipipalkri.com^
+||fzivunnigra.com^
 ||fzllis.cn^
 ||fzlnk.com^
 ||fznpq.com^
@@ -47011,6 +47009,7 @@
 ||javbeat.fun^
 ||javcost.fun^
 ||javdawn.fun^
+||javgenetic11.fun^
 ||javgg.eu^
 ||javgulf.fun^
 ||javguru.gggsss.site^
@@ -49413,6 +49412,7 @@
 ||ktobedirectu.xyz^
 ||ktocpw.silabg.com^
 ||ktoioo.xyz^
+||ktpcsqnij.com^
 ||ktqiyjojiya.com^
 ||ktrackdata.com^
 ||ktracker.kumparan.com^
@@ -55647,6 +55647,7 @@
 ||masqueradeflashy.com^
 ||massacreintentionalmemorize.com^
 ||massacresurrogate.com^
+||massagefumaria.click^
 ||massariuscdn.com^
 ||massbrag.care^
 ||massecephid.uno^
@@ -55759,7 +55760,6 @@
 ||maximumductpictorial.com^
 ||maximumimmortality.com^
 ||maximumingrow.com^
-||maxiprog.xyz^
 ||maxocdgras.com^
 ||maxonclick.com^
 ||maxprofitcontrol.com^
@@ -59429,7 +59429,6 @@
 ||mqwqas.marketbio.pl^
 ||mqznjujv.xyz^
 ||mqzoid.vintorte.com^
-||mr-in.com^
 ||mr-rank.de^
 ||mr.homedepot.ca^
 ||mr.pudgilygrazes.com^
@@ -61264,6 +61263,7 @@
 ||nohaxn.damattween.com^
 ||nohezu.xyz^
 ||noiselessvegetables.com^
+||noisesperusemotel.com^
 ||noisybeforemorton.com^
 ||noisyjoke.pro^
 ||noisyoursarrears.com^
@@ -63665,7 +63665,6 @@
 ||oreyeshe.info^
 ||orfa1st5.de^
 ||orgagetnization.org^
-||orgalso.com^
 ||organaamnions.com^
 ||organiccopiedtranquilizer.com^
 ||organiccrap.com^
@@ -86842,7 +86841,6 @@
 ||terciogouge.com^
 ||teredoknoit.com^
 ||terelinkman.info^
-||tergitepeters.com^
 ||termerspatrice.com^
 ||terminalcomrade.com^
 ||terminusbedsexchanged.com^
@@ -92765,7 +92763,6 @@
 ||ugopkl.com^
 ||ugpibtpk.xyz^
 ||ugrarvy.com^
-||ugrastes.uk^
 ||ugricmoist.com^
 ||ugripaid.com^
 ||ugroocuw.net^
@@ -92884,6 +92881,7 @@
 ||ukgfxw.satofull.jp^
 ||uki2.secureforms.mcafee.com^
 ||ukidiayddbshfl.com^
+||ukindwouldmeu.com^
 ||ukizeiasninan.info^
 ||ukjphn.vitaminler.com^
 ||ukjwyv.icu^
@@ -94526,7 +94524,6 @@
 ||vertexcs.actonservice.com^
 ||verticallydeserve.com^
 ||verticallyrational.com^
-||vertysbos.top^
 ||veruta.com^
 ||vervewireless.com^
 ||verwh.com^
@@ -95339,6 +95336,7 @@
 ||vpipi.com^
 ||vpivyf.meshki.com.au^
 ||vpixrlkggv.com^
+||vpkdrxyx.com^
 ||vpl.voyage-prive.pl^
 ||vplayer.newseveryday.com^
 ||vplgggd.com^
@@ -98934,6 +98932,7 @@
 ||xbshje.smartbag.com.br^
 ||xbtjupfy.xyz^
 ||xbtw.com^
+||xbuycgcae.com^
 ||xbwiykqxeiqb.com^
 ||xbwpfs.fotocasa.es^
 ||xbxmdlosph.xyz^
@@ -100880,7 +100879,6 @@
 ||z89yxner8h.datsumou-beauty-times.com^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z91f4.top^
-||z929.fuelfix.com^
 ||za-go.experian.com^
 ||za.agiay.vn^
 ||za.baomoi.com^
@@ -101191,6 +101189,7 @@
 ||zhyivocrjeplby.com^
 ||zhzclbysg.com^
 ||zi.kissbluest.com^
+||zi3nna.xyz^
 ||zi8ivy4b0c7l.com^
 ||zibaweva.com^
 ||ziblo.cloud^
