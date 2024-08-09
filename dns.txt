@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-09 09:23:44（北京时间）
+! Version: 2024-08-09 20:36:00（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101814
+! Total count: 101817
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -19101,6 +19101,7 @@
 ||boplgt.icu^
 ||bopmkf.lolahome.es^
 ||boptegre.com^
+||boqmjxtkwn.com^
 ||boqsxdpx.xyz^
 ||boqufs.2nn.jp^
 ||bordeaux.futurecdn.net^
@@ -25478,6 +25479,7 @@
 ||crushingconflict.pro^
 ||crusilyparonym.com^
 ||cruthdivisi.life^
+||crutvncf.top^
 ||crvayw.kagunosato.com^
 ||crvbnac.xyz^
 ||crvxhuxcel.com^
@@ -81378,7 +81380,6 @@
 ||splintmuses.com^
 ||splitexpenses.oworld.fr^
 ||splittingpick.com^
-||sploshgteau.top^
 ||spmaeu.gumtree.com.au^
 ||spmyma.moscowfresh.ru^
 ||spo-play.live^
@@ -90127,6 +90128,7 @@
 ||track.sparta-tracking.xyz^
 ||track.spothero.com^
 ||track.starmakerstudios.com^
+||track.starmobmedia.com^
 ||track.storm.mg^
 ||track.strife.com^
 ||track.sunmedia.tv^
@@ -95059,6 +95061,7 @@
 ||vinfdv6b4j.com^
 ||vingartistictaste.com^
 ||vinosedermol.com^
+||vinsgcs.com^
 ||vintageperk.com^
 ||vintagerespectful.com^
 ||violatedroppompey.com^
