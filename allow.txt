@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-10 09:23:27（北京时间）
+! Version: 2024-08-10 20:34:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14601
+! Total count: 14597
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -3003,7 +3003,6 @@
 @@||cdn.pubfuture-ad.com/v2/unit/pt.js^$domain=techedubyte.com
 @@||cdn.pubnub.com/pubnub-3.14.5.min.js$domain=my.pltw.org
 @@||cdn.qgraph.io/dist/aiqua-wp.js$domain=cw.com.tw
-@@||cdn.qooqlevideo.com/key=*.mp4$domain=avgle.com
 @@||cdn.questionpro.com/stylesheets/$domain=surveyanalytics.com
 @@||cdn.questionpro.com^$domain=questionpro.*
 @@||cdn.radiantmediatechs.com^$domain=kora-online.tv
@@ -3134,8 +3133,6 @@
 @@||cdn.wwads.cn/js/makemoney.js$domain=docsmall.com
 @@||cdn.wwads.cn/js/makemoney.js$domain=nodejs.cn
 @@||cdn.yamibuy.net^$stealth
-@@||cdn.ziffstatic.com/pg/ign.js$domain=ign.com
-@@||cdn.ziffstatic.com/pg/ign.prebid.js$domain=ign.com
 @@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn122.com/embed/$stealth
 @@||cdn13.com/*.mp4?$domain=xhamster.com
@@ -11023,7 +11020,6 @@
 @@||qoaaa.com/*/?placementName=$domain=vpslog.net
 @@||qobuz.com^$generichide
 @@||qoe-*.yottaa.net/*/configure.rapid.js$domain=northerntool.com
-@@||qooqlevideo.com/videoplayback?sparams=*&source=$domain=avgle.com
 @@||qooqlevideo.com^$stealth
 @@||qq.com/ads/js/$domain=privacy.qq.com
 @@||qq.com/bossweb/jifen/

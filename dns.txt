@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-10 09:23:27（北京时间）
+! Version: 2024-08-10 20:34:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101815
+! Total count: 101847
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -9775,7 +9775,6 @@
 ||ads.xtra.co.nz^
 ||ads.yahoo.com^
 ||ads.yimg.com^
-||ads.yourfreedvds.com^
 ||ads.youtube.com^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
@@ -11467,6 +11466,7 @@
 ||algerianembassy.co.in^
 ||algg.site^
 ||algiczonated.top^
+||algistemigre.shop^
 ||algjqsuzialktg.com^
 ||algodon.net^
 ||algolduckan.com^
@@ -15237,6 +15237,7 @@
 ||ashamefin.com^
 ||ashameoctaviansinner.com^
 ||ashasafety.actonservice.com^
+||ashasvsucocesis.com^
 ||ashcdn.com^
 ||ashcroft.actonservice.com^
 ||ashemaletube.com/banner-iframe^
@@ -17928,6 +17929,7 @@
 ||bestcontentproject.top^
 ||bestcontentprovider.top^
 ||bestcontentservice.top^
+||bestcontentsite.top^
 ||bestcontenttrade.top^
 ||bestcontentuse.top^
 ||bestcontentweb.top^
@@ -18140,6 +18142,7 @@
 ||bhgmlryalkwx.xyz^
 ||bhhzlax.xyz^
 ||bhiagi.xyz^
+||bhijizlez.com^
 ||bhjuy10.com^
 ||bhktalt.cn^
 ||bhlntz.xyz^
@@ -19966,6 +19969,7 @@
 ||buckersregiven.com^
 ||buckeyekantars.com^
 ||buckleadjustedwise.com^
+||buckumoore.com^
 ||buckwheatchipwrinkle.com^
 ||bucojjqcica.com^
 ||budapebluest.com^
@@ -20429,6 +20433,7 @@
 ||c.bannerflow.net^
 ||c.bazo.io^
 ||c.bidtoolads.com^
+||c.bigcomics.bid^
 ||c.bigcomics.win^
 ||c.bigmir.net^
 ||c.cgmission.com^
@@ -22144,6 +22149,7 @@
 ||chauksoam.xyz^
 ||chaulsan.com^
 ||chaunsoops.net^
+||chaupsoz.net^
 ||chaursug.xyz^
 ||chaussew.net^
 ||chautcho.com^
@@ -26124,6 +26130,7 @@
 ||d.adroll.com^
 ||d.adtriba.com^
 ||d.adultporn.tv^
+||d.analyticsmania.com^
 ||d.applvn.com^
 ||d.cybtel.com^
 ||d.delahorro.app^
@@ -32474,7 +32481,6 @@
 ||eghrbf.immowelt.at^
 ||egidskiw.top^
 ||egipsbvlgn.xyz^
-||egissoma.top^
 ||eglaitou.com^
 ||egldvmz.com^
 ||eglimoumy.net^
@@ -32610,6 +32616,7 @@
 ||ekgloczbsblg.com^
 ||eklexu.kibuba.com^
 ||eklfuctjbwddgn.com^
+||ekltes.xyz^
 ||ekmas.com^
 ||eknrctah.com^
 ||ekovfgtgcjqg.com^
@@ -35863,6 +35870,7 @@
 ||ffyvsn.evisu.com^
 ||fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz^
 ||fgadsqdma.top^
+||fgbnnholonge.info^
 ||fgbthrsxnlo.xyz^
 ||fgcxdr.cn^
 ||fgdxwpht.com^
@@ -40711,6 +40719,8 @@
 ||gtm.kglteater.dk^
 ||gtm.kiwitaxi.com^
 ||gtm.korodrogerie.de^
+||gtm.lercio.it^
+||gtm.mandesager.dk^
 ||gtm.moneybird.nl^
 ||gtm.mouseflow.com^
 ||gtm.perfectlybasics.nl^
@@ -42814,6 +42824,7 @@
 ||hruk.prikupok.com^
 ||hruk.prikupok.icu^
 ||hruoxg.5vorflug.de^
+||hrutvncu.top^
 ||hruyiq.auction.co.kr^
 ||hrwgsq.loesdau.de^
 ||hrxjqyxvdqidpv.com^
@@ -46174,6 +46185,7 @@
 ||interstitial-07.com^
 ||interstitial-08.com^
 ||intervention304.fun^
+||intervention423.fun^
 ||interviewabonnement.com^
 ||interviewearnestlyseized.com^
 ||interviewidiomantidote.com^
@@ -49575,7 +49587,6 @@
 ||kvfdpbad.com^
 ||kvfumh.fairwaystyles.com^
 ||kvfunf.factorydirect.ca^
-||kvhaaa.top^
 ||kvhee.com^
 ||kvhtsvy.xyz^
 ||kvjjhwkqhehkv.com^
@@ -53358,6 +53369,7 @@
 ||lvlmhyjzdan.com^
 ||lvnlrmn.xyz^
 ||lvnnqdgxdlhj.com^
+||lvnzrh.xyz^
 ||lvodomo.info^
 ||lvojjayaaovry.top^
 ||lvomenbxbyl.com^
@@ -56561,6 +56573,7 @@
 ||messard.com^
 ||messenger-notify.digital^
 ||messenger-notify.xyz^
+||messengeridentifiers.com^
 ||messiahspoot.com^
 ||messy-concentrate.com^
 ||messyfuck.com^
@@ -61393,6 +61406,7 @@
 ||nonfictionrobustchastise.com^
 ||nonfictiontickle.com^
 ||nongamemealman.guru^
+||nongrayrestis.com^
 ||nonprofit.aon.com^
 ||nonremid.com^
 ||nonsensethingresult.com^
@@ -70113,6 +70127,7 @@
 ||rambograntee.com^
 ||rameattot.com^
 ||rameejour.com^
+||ramieuretal.com^
 ||rammagepatagia.com^
 ||rammersdarvon.com^
 ||rammishruinous.com^
@@ -70876,6 +70891,7 @@
 ||registercherryheadquarter.com^
 ||registerswoop.com^
 ||registration.promatis.com^
+||registration423.fun^
 ||registro.omegacrmconsulting.com^
 ||reglazetentie.com^
 ||reglowgleyde.com^
@@ -75897,6 +75913,8 @@
 ||sgtm.handyhuellen.de^
 ||sgtm.sefamerve.com^
 ||sgtm.simoahava.com^
+||sgtm.tagmanageritalia.it^
+||sgtm.tennis-point.de^
 ||sgunqfpjtxfndtt.com^
 ||sgvdqykfjuk.com^
 ||sgw-analytics.panasonic.com^
@@ -76132,6 +76150,7 @@
 ||shawljeans.com^
 ||shazauds.net^
 ||shbxugs.cn^
+||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzkkj.cn^
@@ -80402,6 +80421,7 @@
 ||soalonie.com^
 ||soaperdeils.com^
 ||soapfighters.com^
+||soaphoupsoas.xyz^
 ||soapingbourgs.top^
 ||soawousa.xyz^
 ||sobakapi2sa8la09.com^
@@ -81693,6 +81713,7 @@
 ||srzpsbf.xyz^
 ||srzzohlms.com^
 ||ss.azuremagazine.com^
+||ss.esade.edu^
 ||ss.mndsrv.com^
 ||ss.mrmnd.com^
 ||ss.musthird.com^
@@ -82022,7 +82043,9 @@
 ||ssrlot.lotoquebec.com^
 ||ssrv7.com^
 ||sssvd.china.com^
+||sst.colemanfurniture.com^
 ||sst.cooperativa.cl^
+||sst.shopware.com^
 ||sst.thebanker.com^
 ||sstat.3pagen.at^
 ||sstat.detelefoongids.nl^
@@ -84212,6 +84235,7 @@
 ||streakattempt.com^
 ||stream-all.com^
 ||stream.9now.com.au^
+||stream.corporatefinanceinstitute.com^
 ||stream.snssdk.com^
 ||stream.spongead.com^
 ||streamall-search.com^
@@ -89786,6 +89810,7 @@
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^
 ||tr.wa.wordappeal.com^
+||tr.wbstraining.de^
 ||tr.webantenna.info^
 ||tr.welcome.easyviaggio.com^
 ||tr.welcome.easyviajar.com^
@@ -91290,6 +91315,7 @@
 ||translatingimport.com^
 ||translationbuddy.com^
 ||transmapp.com^
+||transmission423.fun^
 ||transmissionapp.jacoblegrone.com^
 ||transmitterincarnatebastard.com^
 ||transplant.care.uhssa.com^
@@ -91393,6 +91419,7 @@
 ||trcka8net.irobot-jp.com^
 ||trcka8net.lenszero.com^
 ||trcka8net.qieto.net^
+||trckng.dainese.com^
 ||trckr.nordiskemedier.dk^
 ||trcksp.cordial.io^
 ||trcksplt.miro.com^
@@ -92128,6 +92155,7 @@
 ||ttnwxhjv.xyz^
 ||ttoc8ok.com^
 ||ttpsdk.info^
+||ttquix.xyz^
 ||ttrcegmkccshey.com^
 ||ttrruq749.shop^
 ||ttsbtdgdo.com^
@@ -93432,6 +93460,7 @@
 ||unskilfulwalkerpolitician.com^
 ||unskilledexamples.com^
 ||unslimtugger.top^
+||unsnareparroty.com^
 ||unsoggynek.life^
 ||unspeakablefreezing.com^
 ||unspeakablepurebeings.com^
@@ -96247,6 +96276,7 @@
 ||wdukge.midwayusa.com^
 ||wduqxbvhpwd.xyz^
 ||wdvlqbo.com^
+||wdxxx.top^
 ||we-love-privacy.humane.club^
 ||we.care.oswegohealth.org^
 ||we.kurly.com^
@@ -99066,6 +99096,7 @@
 ||xc.mydrivers.com^
 ||xcams.net^
 ||xccadc.com^
+||xcdkxayfqe.com^
 ||xcec.ru^
 ||xcedwa.contactsdirect.com^
 ||xcejarignt.com^
@@ -101469,6 +101500,7 @@
 ||zmonei.com^
 ||zmpvij.bonprix.fr^
 ||zmwbrza.com^
+||zmyjessp.com^
 ||zmyopn.babadotop.com.br^
 ||zmzkyj.agrieuro.com^
 ||zn.glucinasileni.com^
