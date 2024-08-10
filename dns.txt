@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-09 20:36:00（北京时间）
+! Version: 2024-08-10 09:23:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101817
+! Total count: 101815
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14056,6 +14056,7 @@
 ||app.ksuowls.com^
 ||app.kuathletics.com^
 ||app.kumu.ph^
+||app.kuvio.io^
 ||app.lacr.motorolasolutions.com^
 ||app.lamy-liaisons.fr^
 ||app.lark.com^
@@ -15549,6 +15550,7 @@
 ||aterhouseoyop.com^
 ||aterhouseoyop.info^
 ||aterroppop.com^
+||atethebenefitsshe.com^
 ||atevaccination.com^
 ||ateveq.street-beat.ru^
 ||atfhtqjeflq.com^
@@ -16557,7 +16559,6 @@
 ||b12c138b39.com^
 ||b13.penzainform.ru^
 ||b16a07996c.com^
-||b17.8794.cn^
 ||b18a21ab3c9cb53.com^
 ||b194c1c862.com^
 ||b1bf05979e.com^
@@ -21164,7 +21165,6 @@
 ||cat.thisminute.app^
 ||cat.tinylittlebusinesses.com^
 ||cat.weddingsabroad.com^
-||cataianviruela.top^
 ||catalog.fjwhcbsh.com^
 ||catalogs.printplace.com^
 ||catalogueinfectionbarbarian.com^
@@ -27127,6 +27127,7 @@
 ||d3ngt858zasqwf.cloudfront.net^
 ||d3numuoibysgi8.cloudfront.net^
 ||d3nvrqlo8rj1kw.cloudfront.net^
+||d3nz96k4xfpkvu.cloudfront.net^
 ||d3o9njeb29ydop.cloudfront.net^
 ||d3oep4gb91kpuv.cloudfront.net^
 ||d3ohee25hhsn8j.cloudfront.net^
@@ -28846,7 +28847,6 @@
 ||depictdeservedtwins.com^
 ||depirsmandk5.com^
 ||depitfondues.top^
-||deplaceshowily.shop^
 ||depleteappetizinguniverse.com^
 ||deplorablefaintest.com^
 ||deploremythsound.com^
@@ -34592,6 +34592,7 @@
 ||evt-api.ntm.eu^
 ||evt.24.com^
 ||evt.houzz.com^
+||evt.ilovepdf.com^
 ||evtkugaoxhwegi.com^
 ||evtwkkh.com^
 ||evupmg.olehenriksen.com^
@@ -35310,7 +35311,6 @@
 ||falseframe.com^
 ||falsifybrightly.com^
 ||falsifylilac.com^
-||faltchedumber.top^
 ||fameuseterns.top^
 ||familialsimulation.com^
 ||familiar3452.fun^
@@ -38266,7 +38266,6 @@
 ||genesismedia.com^
 ||geneticesteemreasonable.com^
 ||geneticocuby.com^
-||genetorpennons.com^
 ||genfpm.com^
 ||gengenmegatest.top^
 ||geniad.net^
@@ -38630,6 +38629,7 @@
 ||gf7t.cheques-cadeaux-culturels.fr^
 ||gfbdb1.com^
 ||gfbpijvtoxpit.com^
+||gfchck.xyz^
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
@@ -47539,7 +47539,6 @@
 ||jivvjl.xyz^
 ||jiwire.com^
 ||jixffuwhon.com^
-||jiyan.net^
 ||jizzarchives.com^
 ||jizzensirrah.com^
 ||jizzez.net/ai/s^
@@ -49026,7 +49025,6 @@
 ||kjyouhp.com^
 ||kk.dintshectar.com^
 ||kkacrgx.icu^
-||kkam.com/rest/high/api/cogitoergosum^
 ||kkbbjtfp.xyz^
 ||kkcmcp.printemps.com^
 ||kkeojk.xyz^
@@ -49217,6 +49215,7 @@
 ||knqpyaholceobc.com^
 ||knubbyripens.uno^
 ||knudsenunmast.top^
+||knuinws.icu^
 ||knutenegros.pro^
 ||knymhv.ariat.com^
 ||knziesxepvaina.com^
@@ -60644,7 +60643,6 @@
 ||nergyflexibilit.pics^
 ||nerldv.ullapopken.pl^
 ||nerojimsee.xyz^
-||nerolistussahs.top^
 ||nerolsdraymen.com^
 ||nervegus.com^
 ||nervingbensh.com^
@@ -64839,7 +64837,6 @@
 ||palibs.tech^
 ||palibzh.tech^
 ||paliglaiks.life^
-||palleddipolar.com^
 ||pallonenuda.top^
 ||palmcodliverblown.com^
 ||palmfulcultivateemergency.com^
@@ -76509,6 +76506,7 @@
 ||signalsparfum.uno^
 ||signalspotsharshly.com^
 ||signalsuedejolly.com^
+||signamentswithded.com^
 ||signatureoutskirts.com^
 ||significantnuisance.com^
 ||significantoperativeclearance.com^
