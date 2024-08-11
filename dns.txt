@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-11 09:35:28（北京时间）
+! Version: 2024-08-11 20:34:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101832
+! Total count: 101818
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -472,6 +472,7 @@
 ||1199403312.rsc.cdn77.org^
 ||119c0c90cd.e46271be93.com^
 ||11b6n4ty2x3.taxliencode.com^
+||11dyw.com^
 ||11g1ip22h.de^
 ||11supjav.xyz^
 ||12.com^
@@ -840,7 +841,6 @@
 ||1fa028dea6.com^
 ||1fa7752ccb.com^
 ||1facd1b75f.com^
-||1fastredownload.com^
 ||1fd92n6t8.de^
 ||1fdcc75a35.722cba612c.com^
 ||1ff191713b.a11d3c1b4d.com^
@@ -11352,7 +11352,6 @@
 ||alaot.com^
 ||alapita.openapp.link^
 ||alarash.com^
-||alarbuscymry.top^
 ||alardruther.top^
 ||alargeredrubygsw.info^
 ||alarmobninsk.ru^
@@ -11759,7 +11758,6 @@
 ||altpubli.com^
 ||altrk.net^
 ||altronopubacc.com^
-||alty.fun^
 ||altynamoan.com^
 ||aluationiamk.info^
 ||alulaeegbert.top^
@@ -19534,7 +19532,6 @@
 ||bravotrk.com^
 ||brawerverism.com^
 ||brawlperennialcalumny.com^
-||braxyunfelt.top^
 ||brazenwholly.com^
 ||brazzerssurvey.com^
 ||brbristoltruckrentals.eccocar.com^
@@ -19990,7 +19987,6 @@
 ||buffetreboundfoul.com^
 ||bug.aestheticpixels.io^
 ||bug.onlinedating.de^
-||bugabooreynard.top^
 ||bugattest.com^
 ||bugdsm.buffalo-boots.com^
 ||bugeyedfloral.com^
@@ -20941,7 +20937,6 @@
 ||capricetheme.com^
 ||capricewailinguniversity.com^
 ||capricornplay.com^
-||caprintulu.top^
 ||caprizecaprizedogcollar.com^
 ||caprizecaprizerepeatedly.com^
 ||caprizecaprizeretrievaltattoo.com^
@@ -29638,7 +29633,6 @@
 ||diopousg.com^
 ||dioqto.totaljobs.com^
 ||dioxidtoluyls.com^
-||dipcoatkhakied.top^
 ||diplic.com^
 ||diplnk.com^
 ||diplomahawaii.com^
@@ -30406,7 +30400,6 @@
 ||doggyunderline.com^
 ||doghasta.com^
 ||dogiedimepupae.com^
-||doglegshrinks.top^
 ||dogliscoran.com^
 ||dogolurkr.com^
 ||dogprocure.com^
@@ -33792,7 +33785,6 @@
 ||epigyneleonora.digital^
 ||epimetheus.navigator.web.de^
 ||epipialbeheira.com^
-||epirotedrayman.guru^
 ||epitelahistone.shop^
 ||epitokealraun.top^
 ||epiv.cardlytics.com^
@@ -35305,7 +35297,6 @@
 ||falseframe.com^
 ||falsifybrightly.com^
 ||falsifylilac.com^
-||fameuseterns.top^
 ||familialsimulation.com^
 ||familiar3452.fun^
 ||familiarpyromaniasloping.com^
@@ -42535,7 +42526,6 @@
 ||hordeumtooken.com^
 ||hordingracquet.com^
 ||horgoals.com^
-||horimspeck.top^
 ||horizon-track.globo.com^
 ||horizon.globo.com^
 ||horizoneurope.ukri.org^
@@ -46546,6 +46536,7 @@
 ||irtyc.com^
 ||irtyf.com^
 ||irurng.wondershare.jp^
+||irutvnco.top^
 ||irvato.com^
 ||irvingreeds.com^
 ||is.lg.com^
@@ -48802,7 +48793,6 @@
 ||kgidskid.top^
 ||kglqjacmqmns.com^
 ||kgmmfk.galcomi.jp^
-||kgnohpvawhef.com^
 ||kgouzrranqt.com^
 ||kgqcse.xyz^
 ||kgqipyttin.com^
@@ -59249,7 +59239,6 @@
 ||moreinfo.powerpro360.com^
 ||moreinfo.sdmyers.com^
 ||moreinfo.support^
-||moreishstipule.top^
 ||morenonfictiondiscontent.com^
 ||moreoverwheelbarrow.com^
 ||moretestimonyfearless.com^
@@ -62410,7 +62399,6 @@
 ||odegumsane.com^
 ||odepcf.modetour.com^
 ||odipsumk.top^
-||odiumdrawlip.com^
 ||odjdpy.jobware.de^
 ||odjweddfuh.com^
 ||odkvrg.pedrodelhierro.com^
@@ -76738,7 +76726,6 @@
 ||six9e.canal.fr^
 ||sixassertive.com^
 ||sixcombatberries.com^
-||sixfoldmarkeb.click^
 ||sixft-apart.com^
 ||sixingmudland.top^
 ||sixsigmatraffic.com^
@@ -93547,7 +93534,6 @@
 ||upbrininghandy.com^
 ||upbriningleverforecast.com^
 ||upbuoyearfuls.com^
-||upburstunfence.guru^
 ||upchokedehort.top^
 ||upcomingmonkeydolphin.com^
 ||upcurlsreid.website^
