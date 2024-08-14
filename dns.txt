@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-14 09:23:25（北京时间）
+! Version: 2024-08-14 20:36:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99102
+! Total count: 99103
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -706,6 +706,7 @@
 ||19273817.com^
 ||193bde9ab1.com^
 ||193eva.cosmicnewspulse.com^
+||194.26.232.61^
 ||194.59.220.161^
 ||1941.34gwl8v1a.com^
 ||1942.5clo0xmbf.com^
@@ -20965,7 +20966,6 @@
 ||caveestate.com^
 ||cavewrap.care^
 ||caviarconcealed.com^
-||caviarechomp.top^
 ||cawedburial.com^
 ||cawlavzzap.com^
 ||caxist.com^
@@ -31663,7 +31663,6 @@
 ||eeptempy.xyz^
 ||eeptoabs.com^
 ||eeptushe.xyz^
-||eeqzrllznkvkb.top^
 ||eergithi.com^
 ||eergortu.net^
 ||eeriemediocre.com^
@@ -73609,6 +73608,7 @@
 ||settlepineapple.com^
 ||settrogens.com^
 ||setup.physiapp.com^
+||setupad.net^
 ||setupdeliveredteapot.com^
 ||setupslum.com^
 ||seullocogimmous.com^
@@ -74013,6 +74013,7 @@
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
+||shbzkgs.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -79433,6 +79434,7 @@
 ||srtrak.com^
 ||sruk.srglobal.com^
 ||srumifuroqkuoi.com^
+||srutvncb.top^
 ||sruzefwboxu.com^
 ||srv.dynamicyield.com^
 ||srv.plesk.com^
@@ -91497,6 +91499,7 @@
 ||uuidksinc.net^
 ||uuishsa.com^
 ||uujtmrxf.xyz^
+||uumnxiet.top^
 ||uunczm.lescon.com.tr^
 ||uunfybw.cn^
 ||uuoizbtl.xyz^
@@ -92069,7 +92072,6 @@
 ||verify.spin.app^
 ||verify.test.spin.app^
 ||verifyconnection.org^
-||veritemeldrop.click^
 ||veritiesgarlejobade.com^
 ||veritrol.com^
 ||verizon-branch.locationlabs.com^
@@ -92655,7 +92657,6 @@
 ||vjzjpt.xyz^
 ||vjzlgtnaov.com^
 ||vk-ads.ru^
-||vk-analytics.ru^
 ||vk.immureuvanite.com^
 ||vkanalytics.net^
 ||vkarrc.com^
