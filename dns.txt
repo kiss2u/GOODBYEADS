@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-15 09:18:50（北京时间）
+! Version: 2024-08-15 20:36:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99028
+! Total count: 99030
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -11009,7 +11009,6 @@
 ||agnes.waz.de^
 ||agngplsooascil.com^
 ||agnrcrpwyyn.com^
-||agonizing-price.pro^
 ||agooxouy.net^
 ||agoqaa.stockmann.com^
 ||agossuoeach.com^
@@ -33194,6 +33193,7 @@
 ||erucbaillie.top^
 ||eruthoxup.com^
 ||erutinmos.snagajob.com^
+||erutvncw.top^
 ||erutxdk.cn^
 ||ervqqtdjdxvgh.com^
 ||erxdq.com^
@@ -35597,6 +35597,7 @@
 ||floraopinionsome.com^
 ||florapitchy.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flotech.actonservice.com^
 ||flotsanrantan.com^
@@ -40053,6 +40054,7 @@
 ||halibut.codehooks.io^
 ||halibut.phytype.com^
 ||halileo.com^
+||hallanjerbil.com^
 ||hallmarkhealth.hrm.healthgrades.com^
 ||hallohaus.co^
 ||hallucinatecompute.com^
@@ -51927,7 +51929,6 @@
 ||lxoemc.tuttocitta.it^
 ||lxqcgj.com^
 ||lxryhx.xyz^
-||lxsodqyysz.com^
 ||lxstat.com^
 ||lxsway.alltforforaldrar.se^
 ||lxsway.blogg.se^
@@ -62260,6 +62261,7 @@
 ||oulsools.com^
 ||oulukdliketo.shop^
 ||oumainseeba.xyz^
+||oumnxiek.top^
 ||oumpashy.net^
 ||oumtirsu.com^
 ||ounceanalogous.com^
@@ -63068,6 +63070,7 @@
 ||pannamdashee.com^
 ||pannumregnal.com^
 ||panorama.wixapps.net^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -64224,7 +64227,6 @@
 ||pimenttoryfy.top^
 ||pimg2023.com^
 ||pimpleinterference.com^
-||pimplyhauling.com^
 ||pimpoint.inriver.com^
 ||pimproll.com^
 ||pinaffectionatelyaborigines.com^
@@ -69680,6 +69682,7 @@
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||riflesurfing.xyz^
 ||riftharp.com^
@@ -74015,7 +74018,6 @@
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
 ||shhbrjs.com^
-||shhh.lol^
 ||shhoix0fuonj0hz6.net.fidor.de^
 ||shhxyebbvy.com^
 ||shiaflsteaw.com^
@@ -74587,6 +74589,7 @@
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -90757,7 +90760,6 @@
 ||unifini.de^
 ||uniformheartlesssneaking.com^
 ||uniformyeah.com^
-||unimportant-pleasure.com^
 ||uninvitednobody.com^
 ||union*.365inews.com^
 ||union-wifi.com^
