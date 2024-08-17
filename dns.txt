@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-17 09:20:31（北京时间）
+! Version: 2024-08-17 20:32:44（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99034
+! Total count: 99061
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -90,6 +90,7 @@
 ||01916a3ce8.8b1e836a75.com^
 ||0193.4puuqeh41.com^
 ||019a6180a6.com^
+||01apple.com^
 ||01c70a2a06.com^
 ||01counter.com^
 ||01d0c91c0d.com^
@@ -98,6 +99,7 @@
 ||0223.5clo0xmbf.com^
 ||0224.4puuqeh41.com^
 ||0239.4puuqeh41.com^
+||023hysj.com^
 ||0265280ef1.308d13be14.com^
 ||0265331.com^
 ||0275.79j68qav2.com^
@@ -235,6 +237,7 @@
 ||0a0d-d3l1vr.b-cdn.net^
 ||0a22eeac91.e46ece0a18.com^
 ||0a2b3c4d5e.com^
+||0a65b6165b.com^
 ||0a8d87mlbcac.top^
 ||0ab8344566.51cd57d70c.com^
 ||0af2a962b0102942d9a7df351b20be55.com^
@@ -575,6 +578,7 @@
 ||154.7.80.158^
 ||1548164934.rsc.cdn77.org^
 ||154886c13e.com^
+||1551235f72.com^
 ||1553.4puuqeh41.com^
 ||1556.4puuqeh41.com^
 ||1558334541.rsc.cdn77.org^
@@ -1353,6 +1357,7 @@
 ||3120jpllh.de^
 ||3127e9ed17.bd6afd7ab5.com^
 ||3128e920ab.com^
+||31385ffb82.com^
 ||314gqd3es.de^
 ||3161acfe21.7010888f85.com^
 ||316feq0nc.de^
@@ -2230,6 +2235,7 @@
 ||68d6b65e65.com^
 ||68d8a29658.059e71004b.com^
 ||69-74.net.jumia.sn^
+||691c37268a.com^
 ||6927.5clo0xmbf.com^
 ||692881.com^
 ||6968.4puuqeh41.com^
@@ -2961,6 +2967,7 @@
 ||9c9281c723.fd39024d2a.com^
 ||9ca976adbb.com^
 ||9cbj41a5.de^
+||9cc064a523.com^
 ||9cc9ckp.com^
 ||9cd76b4462bb.com^
 ||9content.com^
@@ -8884,6 +8891,7 @@
 ||adgardener.com^
 ||adgear.com^
 ||adgebra.co.in^
+||adghndou0sdh.ru^
 ||adglare.net^
 ||adglare.org^
 ||adglaze.com^
@@ -9637,6 +9645,7 @@
 ||ads.mediaodyssey.com^
 ||ads.mediastinct.com^
 ||ads.medienhaus.de^
+||ads.mercadoclics.com^
 ||ads.metropolis.co.jp^
 ||ads.mgnetwork.com^
 ||ads.mmania.com^
@@ -19787,6 +19796,7 @@
 ||bumlabhurt.live^
 ||bummerdeducthandshake.com^
 ||bummerentertain.com^
+||bumnxiev.top^
 ||bumog.xyz^
 ||bumpersubmarine.com^
 ||bumpexchangedcadet.com^
@@ -21335,6 +21345,7 @@
 ||cdn.zxclan.com^
 ||cdn1.lp.saboom.com^
 ||cdn1.memojav.com^
+||cdn1.pebx.pl^
 ||cdn1.skrill.com^
 ||cdn1.xvideohub.top^
 ||cdn12359286.ahacdn.me^
@@ -25829,6 +25840,7 @@
 ||d1g4493j0tcwvt.cloudfront.net^
 ||d1g4xgvlcsj49g.cloudfront.net^
 ||d1g8forfjnu2jh.cloudfront.net^
+||d1get58iwmjrxx.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1gwclp1pmzk26.cloudfront.net^
 ||d1ha41wacubcnb.cloudfront.net^
@@ -29060,7 +29072,6 @@
 ||directtrck.com^
 ||directuklyecon.pics^
 ||dirlink.net^
-||diromalxx.com^
 ||dirtrecurrentinapptitudeinapptitude.com^
 ||dirty.games^
 ||dirtyasmr.com^
@@ -30062,6 +30073,7 @@
 ||downparanoia.com^
 ||downpayment.fernsby.com^
 ||downstairsnegotiatebarren.com^
+||downtowndirection.com^
 ||downtowndisapproval.com^
 ||downtownit.actonservice.com^
 ||downtransmitter.com^
@@ -30917,6 +30929,7 @@
 ||e702fa7de9d35c37.com^
 ||e732bfae2a.com^
 ||e733abaa55.884de19f2b.com^
+||e76e75ed51.com^
 ||e77lmzbqou0n-a.akamaihd.net^
 ||e7cb8e602c.05b960757b.com^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
@@ -31297,7 +31310,6 @@
 ||ebsbqexdgb.xyz^
 ||ebscb0l.xyz^
 ||ebtxxz.travellink.se^
-||ebuyreeqnol.com^
 ||ebuzzing.com^
 ||ebwonro.cn^
 ||ebwupu.superbrightleds.com^
@@ -37067,6 +37079,7 @@
 ||garvum.julesb.co.uk^
 ||gas-sensing.spec-sensors.com^
 ||gasasphrad.com^
+||gaseitycreed.com^
 ||gaskinneepour.com^
 ||gasolinefax.com^
 ||gasolinerent.com^
@@ -37604,7 +37617,6 @@
 ||getpdaiddaily.com^
 ||getpopunder.com^
 ||getpxq.rivolishop.com^
-||getrpahqya.com^
 ||getrunbestlovemy.info^
 ||getrunkhomuto.info^
 ||gets.myoyster.mx^
@@ -38901,6 +38913,7 @@
 ||goazlf.mytoys.de^
 ||gobacktothefuture.biz^
 ||gobeerta.net^
+||gobettygo.com^
 ||gobetweencomment.com^
 ||gobetweengroan.com^
 ||gobetweensmartlyattic.com^
@@ -40190,6 +40203,7 @@
 ||harvesttheory.com^
 ||harzpzbsr.com^
 ||hasdarot.info^
+||hasdjksndjk.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
 ||hashbitewarfare.com^
@@ -43664,6 +43678,7 @@
 ||infestpunishment.com^
 ||infindiasernment.com^
 ||infinite-ads.com^
+||infinite-bottom.com^
 ||infinitelyrainmultiple.com^
 ||infinity-info.com^
 ||infinityads.com^
@@ -48189,6 +48204,7 @@
 ||kvfdpbad.com^
 ||kvfumh.fairwaystyles.com^
 ||kvfunf.factorydirect.ca^
+||kvhaaa.top^
 ||kvhee.com^
 ||kvhtsvy.xyz^
 ||kvjkkwyomjrx.com^
@@ -48247,7 +48263,6 @@
 ||kxeredrhsummac.xyz^
 ||kxhbyjljkmyp.xyz^
 ||kxhmyeedwkbgrh.xyz^
-||kximxxzsva.com^
 ||kxjanwkatrixltf.xyz^
 ||kxkqqycs.xyz^
 ||kxkqxdgp.com^
@@ -54173,6 +54188,7 @@
 ||marvellouspeaches.com^
 ||marvellousperforming.com^
 ||marybskitchen.com^
+||mas-e.cds1.yospace.com^
 ||mas.hronboard.me^
 ||mas.marsh.com^
 ||mas.nth.ch^
@@ -56351,6 +56367,7 @@
 ||metrics.teveten-us.com^
 ||metrics.texas.aaa.com^
 ||metrics.tgifridays.com^
+||metrics.th.gl^
 ||metrics.theaustralian.com.au^
 ||metrics.thechronicle.com.au^
 ||metrics.thedailybeast.com^
@@ -56713,6 +56730,7 @@
 ||miarroba.com^
 ||miav-cse.avlyun.com^
 ||miayarus.com^
+||mibmcbm.com^
 ||micastpyridic.com^
 ||micechillyorchard.com^
 ||micghiga2n7ahjnnsar0fbor.com^
@@ -60217,6 +60235,7 @@
 ||nvchhzg.com^
 ||nvdtdsd.xyz^
 ||nvgelwnecuw.com^
+||nvidiacenter.com^
 ||nvjgmugfqmffbgk.xyz^
 ||nvjqm.com^
 ||nvjqtz.xyz^
@@ -65305,8 +65324,6 @@
 ||poshsenseless.com^
 ||poshsplitdr.com^
 ||poshyouthfulton.com^
-||positional-bucket.com^
-||positional.ai^
 ||positionavailreproach.com^
 ||positioner.info^
 ||positive-ads.com^
@@ -66368,6 +66385,7 @@
 ||pstreetma.com^
 ||pstt.mtb-news.de^
 ||psuaqpz.com^
+||psucmulr.net^
 ||psuftoum.com^
 ||psughooy.com^
 ||psugkfqmys.com^
@@ -66682,7 +66700,6 @@
 ||purgoaho.xyz^
 ||purifybaptism.guru^
 ||purinscauter.top^
-||purmogak.com^
 ||purp.sukaporn.com^
 ||purple.mongodb.com^
 ||purpleads.io^
@@ -67968,6 +67985,7 @@
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
 ||r5.dir.bg^
+||r541.houstonchronicle.com^
 ||r5apiliopolyxenes.com^
 ||r5dfwjtb.icu^
 ||r6.galya.ru^
@@ -73898,6 +73916,7 @@
 ||shareitpp.com^
 ||sharelink.oppvenuz.com^
 ||sharen.oyorooms.com^
+||sharepointads.com^
 ||shareresults.com^
 ||sharesceral.uno^
 ||sharethrough.com^
@@ -79592,6 +79611,7 @@
 ||ssc.vozdeamerica.com^
 ||ssc.wa.gto.db.com^
 ||ssc.zeriamerikes.com^
+||sscefsol.com^
 ||ssdc.bawag.com^
 ||ssdc.easybank.at^
 ||ssdcloudindia.net^
@@ -82875,6 +82895,7 @@
 ||symiwxemwgxtpj.com^
 ||symmorybewept.com^
 ||symoqecnefjj.com^
+||sympathetic-frame.com^
 ||sympatheticclue.com^
 ||sympatheticfling.com^
 ||sympathizecopierautobiography.com^
@@ -89693,6 +89714,7 @@
 ||tuffoonincaged.com^
 ||tugngs.tui.com^
 ||tuhwjkesxo.com^
+||tui07.shop^
 ||tuitionpancake.com^
 ||tujofclqgazqa.com^
 ||tujourda.net^
@@ -89896,6 +89918,7 @@
 ||twkcbfwam.com^
 ||twlcyc.cn^
 ||twlmq.space^
+||twlmzwaec.com^
 ||twnrydt.com^
 ||two.fsylr.com^
 ||two.tracedock.com^
@@ -90093,6 +90116,7 @@
 ||u47.pnc.com^
 ||u4ccj.icu^
 ||u55011.com^
+||u566.chron.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u652.myplainview.com^
@@ -92165,6 +92189,7 @@
 ||vid.me^
 ||vidalak.com^
 ||vidcpm.com^
+||videndambalolo.com^
 ||video-ad-stats.googlesyndication.com^
 ||video-ad.sm.cn^
 ||video-adblocker.com^
@@ -93305,6 +93330,7 @@
 ||waouss.xyz^
 ||wap.mpush.qq.com^
 ||wap.mylifetime.com^
+||wap.x4399.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wapatoobethel.com^
@@ -96287,6 +96313,7 @@
 ||xait.actonservice.com^
 ||xajibur.ru^
 ||xajqhrrrnxmy.com^
+||xakfdicg.com^
 ||xalienstreamx.com^
 ||xambxhihx.com^
 ||xameleonads.com^
