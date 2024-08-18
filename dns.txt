@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-18 09:33:49（北京时间）
+! Version: 2024-08-18 20:35:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99076
+! Total count: 99084
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -113,6 +113,7 @@
 ||0300.4puuqeh41.com^
 ||0310.79j68qav2.com^
 ||0322cfmtl.cc^
+||033ajy.xyz^
 ||0340.k3718qw08.com^
 ||0342b40dd6.com^
 ||0344.5clo0xmbf.com^
@@ -35282,6 +35283,7 @@
 ||fingerprinter-production.herokuapp.com^
 ||fingerprintoysters.com^
 ||fingertipsquintinclusion.com^
+||fingkndk.com^
 ||finickyregreet.com^
 ||finishcomplicate.com^
 ||finisheddaysflamboyant.com^
@@ -36786,6 +36788,7 @@
 ||fytaopeurb.com^
 ||fytpft.xyz^
 ||fyvdxqufaxkli.com^
+||fywaaox.icu^
 ||fywfld.fjellsport.no^
 ||fyznhp8inq9x.jaywilsonwebsolutions.com^
 ||fzamtef.com^
@@ -39868,6 +39871,7 @@
 ||gx101.com^
 ||gxbrowser.net^
 ||gxcaxz.cresus.fr^
+||gxcdgm.xyz^
 ||gxcqhawgc.com^
 ||gxcvxdeda.com^
 ||gxdzfyg.com^
@@ -50733,6 +50737,7 @@
 ||lnlkmr.xyz^
 ||lnlxhsjjqfjs.com^
 ||lnmreidn.com^
+||lnnsvj.xyz^
 ||lnntnt.hsastore.com^
 ||lntrigulngdates.com^
 ||lntvby.banggood.com^
@@ -58145,6 +58150,7 @@
 ||mumgenericcourt.com^
 ||mumintend.com^
 ||mummydiverseprovided.com^
+||mumnxiex.top^
 ||mumpingwomerah.top^
 ||munchkin.marketo.net^
 ||munilf.com^
@@ -73972,6 +73978,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzgkj.cn^
+||shbzhgs.cn^
 ||shbzhkj.cn^
 ||shbzigs.cn^
 ||shbzikj.cn^
@@ -92135,6 +92142,7 @@
 ||vgrbvi.atncorp.com^
 ||vgs-collect-keeper.apps.verygood.systems^
 ||vgsjapnjykapgq.com^
+||vgxbpf.xyz^
 ||vgzytn.xyz^
 ||vhans.siege-corp.com^
 ||vhdbohe.com^
