@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-17 20:32:44（北京时间）
+! Version: 2024-08-18 09:33:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99061
+! Total count: 99076
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2260,6 +2260,7 @@
 ||6a423ac897.81438456aa.com^
 ||6a50e3675e.3a17d27bf9.com^
 ||6a7d5a90ee.9a7f507754.com^
+||6ac78725fd.com^
 ||6acb7cce62.c01d3ac9cb.com^
 ||6af461b907c5b.com^
 ||6amateure.net^
@@ -13247,6 +13248,7 @@
 ||antwort.hager.de^
 ||antyoubeliket.info^
 ||antyoubeliketheap.com^
+||anuclsrsnbcmvf.xyz^
 ||anun.comicsarmy.com^
 ||anunciospatrocinados.com^
 ||anvhgwjy.com^
@@ -15869,6 +15871,7 @@
 ||avazutracking.net^
 ||avbtkz.locknlockmall.com^
 ||avbulb3431.fun^
+||avdebt3431.fun^
 ||ave-caesar-mas.modivo.io^
 ||avebedencathy.info^
 ||avehistoric.com^
@@ -15909,6 +15912,7 @@
 ||avjockjpiduc.com^
 ||avkktuywj.xyz^
 ||avkyu1tesnwy.com^
+||avloan3431.fun^
 ||avnet.actonservice.com^
 ||avnmjtqu.com^
 ||avoadsservices.com^
@@ -30749,7 +30753,6 @@
 ||dynamicapl.com^
 ||dynamicjsconfig.com^
 ||dynamitedata.com^
-||dynatrace.att.com^
 ||dynpaa.com^
 ||dynspt.com^
 ||dynsrvbaa.com^
@@ -35015,6 +35018,7 @@
 ||fgtnyfuk.xyz^
 ||fgttbz.xyz^
 ||fguhyg.cn^
+||fgvznrscfzsn.com^
 ||fgwerg.top^
 ||fgwuw.com^
 ||fgxfnkiojgs.com^
@@ -45098,6 +45102,7 @@
 ||ioovrf.coen.co.jp^
 ||iopiopiop.net^
 ||iopiopiop.org^
+||iople.com^
 ||iopqct.drogasil.com.br^
 ||iopxiu.wingly.io^
 ||ioredi.com^
@@ -48339,6 +48344,7 @@
 ||kzsisc.3.dk^
 ||kzt2afc1rp52.com^
 ||kzutbh.takeappeal.com^
+||kzvcggahkgm.com^
 ||kzzwi.com^
 ||l-iw.de^
 ||l-t.topya.com^
@@ -50673,6 +50679,7 @@
 ||lmgenf.ludwigbeck.de^
 ||lmgvur.scbt.com^
 ||lmj8i.pro^
+||lmkiltdmsgoiony.com^
 ||lmldvr.centauro.net^
 ||lmlmvip.com^
 ||lmmpjhvli.com^
@@ -61622,6 +61629,7 @@
 ||oodsauns.net^
 ||oodsoobe.com^
 ||ooejkd.xyz^
+||oofptbhbdb.com^
 ||oofteonaft.work^
 ||ooftounu.com^
 ||ooglouth.xyz^
@@ -62665,6 +62673,7 @@
 ||ozvnumjdncpfvt.com^
 ||ozwolnonnotv.com^
 ||ozwwawcaxoxh.com^
+||ozwxhoonxlm.com^
 ||ozykeor.icu^
 ||ozzruxazcoxc.com^
 ||p*-ad-sign.byteimg.com^
@@ -63606,6 +63615,7 @@
 ||peelecoroner.top^
 ||peelismramona.com^
 ||peelupsu.com^
+||peelxotvq.com^
 ||peemee.com^
 ||peep-auktion.de^
 ||peepholelandreed.com^
@@ -65895,6 +65905,7 @@
 ||processor.asccommunications.com^
 ||processpardon.com^
 ||processserver.abclegal.com^
+||processsky.com^
 ||processusmetier.ricoh.fr^
 ||proche2moi.com^
 ||proclamationgumadvocate.com^
@@ -81997,6 +82008,7 @@
 ||strugglingclamour.com^
 ||strungcourthouse.com^
 ||strungglancedrunning.com^
+||strvvmpu.com^
 ||strwaoz.xyz^
 ||sts.authramp.com^
 ||sts.batmobi.net^
@@ -84117,6 +84129,7 @@
 ||tatyboy.top^
 ||tauaddy.com^
 ||taughtwandamazingly.com^
+||taugookoaw.net^
 ||tauphaub.net^
 ||taurse.com^
 ||taurunperch.shop^
@@ -85576,6 +85589,7 @@
 ||tlm.adp.ca^
 ||tlolaxalxdk.com^
 ||tlootas.org^
+||tlpltwcgr.com^
 ||tlprbzoi.com^
 ||tlpyft.xyz^
 ||tlrkcj17.de^
@@ -95323,6 +95337,7 @@
 ||wvvw.infomigrants.net^
 ||wvvw.mc-doualiya.com^
 ||wvvw.rfi.fr^
+||wvwlykasqttuo.com^
 ||wvwqywz.cn^
 ||wvwxjfjjytaf.com^
 ||wvyqks.xyz^
