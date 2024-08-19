@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-18 20:35:29（北京时间）
+! Version: 2024-08-19 09:24:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99084
+! Total count: 99106
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14,6 +14,7 @@
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
 ||0.cosmicnewspulse.com^
+||0.myikas.com^
 ||0.net.easyjet.com^
 ||0.oldgyhogola.com^
 ||000.gaysexe.free.fr^
@@ -15935,7 +15936,9 @@
 ||avrom.xyz^
 ||avrqaijwdqk.xyz^
 ||avrqikbubjin.com^
+||avrrhodabbk.com^
 ||avs.adpinfo.com^
+||avsink3431.fun^
 ||avtbdnwqnwoasm.com^
 ||avthelkp.net^
 ||avtvcuofgz.com^
@@ -15945,6 +15948,7 @@
 ||avvelwamqkbjb.top^
 ||avvelwamqkzzw.top^
 ||avvfjhg.xyz^
+||avview3431.fun^
 ||avvxcexk.com^
 ||avwgzujkit.com^
 ||avwhipazsdco.com^
@@ -19680,6 +19684,7 @@
 ||bttazsyk.icu^
 ||bttmkj.diesel.com^
 ||bttrack.com^
+||btvbnrwo.icu^
 ||btvhdscr.com^
 ||btwwzqdx.xyz^
 ||btxdbuaxn.com^
@@ -20950,6 +20955,7 @@
 ||cb054d7b93.1d06891ad5.com^
 ||cb1d14ec96.c38f521ff4.com^
 ||cb4265700a.4ed196b502.com^
+||cb61190372.com^
 ||cb675f778b.com^
 ||cb7f35d82c.com^
 ||cb8fc37529.d15699e8b0.com^
@@ -24259,6 +24265,7 @@
 ||coordinatereopen.com^
 ||cooserdozens.top^
 ||cooshouz.xyz^
+||coosifyshibar.shop^
 ||coosync.com^
 ||cootlogix.com^
 ||coovouch.com^
@@ -27573,6 +27580,7 @@
 ||dating2you.org^
 ||dating4you.org^
 ||datingcentral.top^
+||datingiive.net^
 ||datingkoen.site^
 ||datingmeetnet.com^
 ||datingpush.space^
@@ -28767,6 +28775,7 @@
 ||difhil.icu^
 ||difice-milton.com^
 ||difmnd.xyz^
+||difyferukentasp.com^
 ||dig.bdurl.net^
 ||dig.lianjia.com^
 ||dig.qbao.com^
@@ -42646,6 +42655,7 @@
 ||iliketomakingpics.com^
 ||ilinks.petalcard.com^
 ||ilius.net^
+||ilkindweandthe.info^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
 ||illallwoe.com^
 ||illegaleaglewhistling.com^
@@ -50797,6 +50807,7 @@
 ||localedgemedia.com^
 ||locallycompare.com^
 ||locallyhastefowl.com^
+||localslutsnearme.com^
 ||localsnapsext.com^
 ||localsnaughty.com^
 ||localytics.com^
@@ -57968,6 +57979,7 @@
 ||ms.dzen.ru^
 ||ms.informaengage.com^
 ||ms.topschooljobs.org^
+||ms.vk.com^
 ||ms1.morganstanley.com^
 ||ms3t.club^
 ||msa-emea.secureforms.partnermcafee.com^
@@ -67320,6 +67332,7 @@
 ||qhx1h2g.com^
 ||qhxukowjgl.com^
 ||qianaecrus.top^
+||qiaoxz.xyz^
 ||qibkkioqqw.com^
 ||qickazzmoaxv.com^
 ||qifake.com^
@@ -68686,6 +68699,7 @@
 ||reductionslapsensation.com^
 ||reduxmedia.com^
 ||redvector.actonservice.com^
+||redvil.co.in^
 ||redwingforbusiness.redwingsafety.com^
 ||redwingmagazine.com^
 ||redyzlmc.xyz^
@@ -82659,6 +82673,7 @@
 ||swansinksnow.com^
 ||swapsprediet.top^
 ||swarfamlikar.com^
+||swarku.xyz^
 ||swarmpush.com^
 ||swarthsfulk.com^
 ||swarthyamong.com^
@@ -84840,6 +84855,7 @@
 ||thawheek.com^
 ||thawpublicationplunged.com^
 ||thayed.com^
+||thduyzmbtrb.com^
 ||the-ozone-project.com^
 ||theactualnewz.com^
 ||theactualstories.com^
@@ -90070,6 +90086,7 @@
 ||tzngtmzpvysh.com^
 ||tznizrhd.xyz^
 ||tzovkp.aboutyou.at^
+||tzpysvqblhn.com^
 ||tzrlfzwyicvj.com^
 ||tzuhumrwypw.com^
 ||tzvojcc.com^
@@ -90444,6 +90461,7 @@
 ||uigxgg.xyz^
 ||uiiepofl.xyz^
 ||uijciz.gunze.jp^
+||uilfmzzzu.com^
 ||uilwmi.coop.nl^
 ||uilzwzx.com^
 ||uim.tifbs.net^
@@ -91474,6 +91492,7 @@
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
 ||uusimaa.viessmann.fi^
+||uusjaq.top^
 ||uutytp.com^
 ||uuudqhialb.com^
 ||uuuutp.com^
@@ -91928,6 +91947,7 @@
 ||vdterms.samsungcloudsolution.com^
 ||vdvcjlp.cn^
 ||vdvdjf.remotepc.com^
+||vdzna.com^
 ||vdzrjr.kenminkyosai.or.jp^
 ||ve.stunkcott.com^
 ||ve.velocityclinical.com^
@@ -94069,6 +94089,7 @@
 ||weidenhammer.actonservice.com^
 ||weighertutania.com^
 ||weightfeathersoffhand.com^
+||weinas.co.in^
 ||weird-lab.pro^
 ||weixin.qq.hellocdn.top^
 ||weixin.qq.huigun.top^
@@ -96957,6 +96978,7 @@
 ||xmlapiclickredirect10102022.com^
 ||xmlfusion.com^
 ||xmlgrab.com^
+||xmlgzr.xyz^
 ||xmlking.com^
 ||xmllover.com^
 ||xmlppc.net^

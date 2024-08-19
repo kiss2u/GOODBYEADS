@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-18 20:35:29（北京时间）
+! Version: 2024-08-19 09:24:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14619
+! Total count: 14622
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -12055,6 +12055,8 @@
 @@||sickworldmusic.com^$generichide
 @@||sigma4pc.com^$generichide
 @@||sign.mojebanka.cz$elemhide,jsinject
+@@||signaler-pa.googleapis.com/punctual/*/chooseServer$stealth=3p-auth
+@@||signaler-pa.googleapis.com/punctual/multi-watch/channel$stealth=3p-auth
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||significatocanzoni.it^$generichide
 @@||signin.aws.amazon.com/signin^$stealth
@@ -13608,6 +13610,7 @@
 @@||unlockapk.com/*ads.js
 @@||unlockapk.com^$generichide
 @@||unofficialtwrp.com^$generichide
+@@||unpkg.com/@adobe/magento-storefront-event-collector@$domain=osprey.com
 @@||unpkg.com/aos@*/dist/aos.js$domain=xsanime.com
 @@||unpkg.com/just-detect-adblock@*/dist/bundle.umd.js$domain=stfly.me|stfly.xyz
 @@||unpkg.com/vue-recaptcha@*/dist/vue-recaptcha.js$domain=vidoza.net
