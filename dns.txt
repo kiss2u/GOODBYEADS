@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-20 09:22:30（北京时间）
+! Version: 2024-08-20 20:36:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99300
+! Total count: 99289
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -530,7 +530,6 @@
 ||12d4d007e5.d4e5ad4b41.com^
 ||12dfd50511.77c4175fc7.com^
 ||12ezo5v60.com^
-||12f01e3591.com^
 ||12masterov.com^
 ||12signup.com^
 ||12xgetsready12.monster^
@@ -1504,7 +1503,6 @@
 ||3854704790.com^
 ||3867.5clo0xmbf.com^
 ||3889082.dev.att.llabs.io^
-||38a2b8fa34.com^
 ||38a3a42162.25e1657c6a.com^
 ||38bw0.space^
 ||38d9953876.com^
@@ -1943,7 +1941,6 @@
 ||55.uyybde07w.com^
 ||55.wemakebestnews.com^
 ||55.y2sysv81v.com^
-||5508de0fd7.com^
 ||550a.com^
 ||552f323934.f5e03754b3.com^
 ||5538.5clo0xmbf.com^
@@ -2756,7 +2753,6 @@
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
 ||8d07a.xyz^
-||8d0d35fb77.com^
 ||8d1dce99ab.com^
 ||8d4b.pandasuite.io^
 ||8d8039a1eb.f63777e43d.com^
@@ -7357,6 +7353,7 @@
 ||abc.colayun.cn^
 ||abc.douguo.com^
 ||abc.esprit.de^
+||abc.espritshop.pl^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
 ||abc.rwpt.top^
@@ -9690,7 +9687,6 @@
 ||ads.mediaodyssey.com^
 ||ads.mediastinct.com^
 ||ads.medienhaus.de^
-||ads.mercadoclics.com^
 ||ads.metropolis.co.jp^
 ||ads.mgnetwork.com^
 ||ads.mmania.com^
@@ -16761,6 +16757,7 @@
 ||baijs06.xyz^
 ||baijs07.shop^
 ||baijs07.xyz^
+||baijs08.shop^
 ||baijs08.xyz^
 ||bailcurvehealth.com^
 ||bailedgatheringmirth.com^
@@ -18143,7 +18140,6 @@
 ||bigneptunesept.com^
 ||bignqzm.cn^
 ||bigosearch.com^
-||bigpornclips.com^
 ||bigrourg.net^
 ||bigsexvids.com^
 ||bigvids.online^
@@ -24699,7 +24695,6 @@
 ||cpm.rtbwire.com^
 ||cpm.saroadexchange.com^
 ||cpm.smoads.com^
-||cpm.superads.cn^
 ||cpm.theardent.group^
 ||cpm.thecdn.site^
 ||cpm.tris.com^
@@ -26894,6 +26889,7 @@
 ||daailynews.com^
 ||daast.digitalbox.ru^
 ||dab.rus-km.ru^
+||dabajd.xyz^
 ||dabblercissies.com^
 ||dable.io^
 ||daboovip.xyz^
@@ -30088,6 +30084,7 @@
 ||doujs06.xyz^
 ||doujs07.shop^
 ||doujs07.xyz^
+||doujs08.shop^
 ||doujs08.xyz^
 ||doujs09.xyz^
 ||doukoula.com^
@@ -33837,7 +33834,6 @@
 ||everalmefarketing.info^
 ||everausterity.com^
 ||everdreamsofc.info^
-||everestclick.com^
 ||everesttech.net^
 ||evergage1.actonservice.com^
 ||evergreenfan.pro^
@@ -40832,6 +40828,7 @@
 ||hewokhn.com^
 ||hewomenentail.com^
 ||hewonderfulst.info^
+||hewrutu.top^
 ||hexagon-analytics.com^
 ||hexcvb.xyz^
 ||hexonesimphees.top^
@@ -47191,6 +47188,7 @@
 ||jyisloa.top^
 ||jyjhjopmq.com^
 ||jyjmpatmgk.com^
+||jyjrbz.xyz^
 ||jylgvkxgfy.com^
 ||jynginedoddle.top^
 ||jynp9m209p.com^
@@ -47814,6 +47812,7 @@
 ||kjubky.xyz^
 ||kjuftmdofmsrhq.com^
 ||kjvaqbyebqarl.top^
+||kjxhd.cn^
 ||kjxmcn.eset.com^
 ||kjxztu.biz-journal.jp^
 ||kjyouhp.com^
@@ -52685,7 +52684,6 @@
 ||mandantnutter.top^
 ||mandatorycaptaincountless.com^
 ||mandrill.castingcollective.net^
-||mandrill.phiilu.com^
 ||mandrill.yellowfruit.co^
 ||mandrillapp.zola.com^
 ||mandrintamoyo.top^
@@ -54473,7 +54471,6 @@
 ||maxserving.com^
 ||maxtat.55truck.com^
 ||maxtek.it^
-||maxtradefx.info^
 ||maxucc77.top^
 ||maxun066.top^
 ||maxun103.top^
@@ -57188,6 +57185,7 @@
 ||mixpanel-proxy.ted.com^
 ||mixpo.com^
 ||mixxuo.sportys.gr^
+||miycoc.xyz^
 ||miyqoyyazdal.com^
 ||mizensdisney.com^
 ||mj-snowplow-static-js.s3.amazonaws.com^
@@ -58729,8 +58727,6 @@
 ||n69.com^
 ||n6kux3ys3lhv.com^
 ||n7181.com^
-||n7565.com^
-||n7578.com^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||n7pusher.com^
 ||n9s74npl.de^
@@ -60836,6 +60832,7 @@
 ||octopuspop.com^
 ||octrol.com^
 ||ocular.dealabs.com^
+||ocular.mydealz.de^
 ||ocular.promodescuentos.com^
 ||ocumknxm.com^
 ||ocuwyfarlvbq.com^
@@ -62160,7 +62157,6 @@
 ||originatepromotebetrayal.com^
 ||origincrayonremained.com^
 ||origintube.com^
-||origoclick.com^
 ||origunix.com^
 ||orionmarketing.actonservice.com^
 ||orisow.com^
@@ -64516,7 +64512,6 @@
 ||pityneedsdads.com^
 ||pitysuffix.com^
 ||piuyt.com^
-||pivo.tracked.one^
 ||pivotpointsecurity.actonservice.com^
 ||pivotrunner.com^
 ||piwfhzzby.com^
@@ -70603,7 +70598,6 @@
 ||rtb-useast.revlift.io^
 ||rtb-useast.rtbflairads.com^
 ||rtb-useast.stringads.com^
-||rtb-useast.superads.cn^
 ||rtb-useast.thetrafficboss.com^
 ||rtb-useast.visualads.net^
 ||rtb-useast.voisetech.com^
@@ -83897,7 +83891,6 @@
 ||take-grandincome.life^
 ||take-prize-now.com^
 ||takeallsoft.ru^
-||takebest-prizes.life^
 ||takebiggainsurvey.top^
 ||takecareproduct.com^
 ||takelnk.com^
@@ -84368,7 +84361,6 @@
 ||tbudpgepadxfoch.com^
 ||tbudz.co.in^
 ||tburmyor.com^
-||tbussyb.com^
 ||tbvjrd.gocase.com.br^
 ||tbxnhnorzujvs.com^
 ||tc-clicks.com^
@@ -85113,7 +85105,6 @@
 ||thepopads.com^
 ||theprizesenses.life^
 ||thepsimp.net^
-||thepsusiwho.com^
 ||thequickbooksteam.intuit.ca^
 ||therapistcrateyield.com^
 ||therapistla.com^
@@ -85501,6 +85492,7 @@
 ||tipstats.onepagelove.com^
 ||tiptoecentral.com^
 ||tipupgradejack.com^
+||tiq.espritshop.pl^
 ||tiqjubxy.com^
 ||tiqkfjgafckf.com^
 ||tirandoalmedio.net.anwalt.de^
@@ -89195,7 +89187,6 @@
 ||trenhsmp.com^
 ||trenpyle.com^
 ||trentjesno.com^
-||trestonclop.com^
 ||tretmumbel.com^
 ||trewnhiok.com^
 ||treycircle.com^
@@ -96691,7 +96682,6 @@
 ||xfqynrp.cn^
 ||xfrahb.xyz^
 ||xftrtljc.xyz^
-||xfuck.com^
 ||xfuckonline.com/eureka^
 ||xfujihakbk.com^
 ||xfvkxbouozw.com^
@@ -97064,7 +97054,6 @@
 ||xml.dollopsdigital.com^
 ||xml.domains-traffic.com^
 ||xml.dtxplatform.net^
-||xml.epeex.com^
 ||xml.eureekkaa.com^
 ||xml.exdirectopl.com^
 ||xml.expialidosius.com^

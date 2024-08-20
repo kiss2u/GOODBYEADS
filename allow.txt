@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-20 09:22:30（北京时间）
+! Version: 2024-08-20 20:36:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14641
+! Total count: 14642
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -605,7 +605,7 @@
 @@||2cheat.net^$generichide
 @@||2kspecialist.net^$generichide
 @@||2mdn.net/instream/
-@@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|techrepublic.com|zdnet.com
+@@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|zdnet.com
 @@||2o7.net^$domain=audiusa.com
 @@||2oceansvibe.com/?custom=takeover&callback=jQuery$domain=uiz.io
 @@||31vcd.com/player/kuyun.js
@@ -1321,7 +1321,7 @@
 @@||ahhhhfs.com^$generichide
 @@||ahmedabadmirror.indiatimes.com/ads.cms
 @@||aiarticlespinner.co^$generichide
-@@||aiasahi.jp/ads/$image,domain=japan.techrepublic.com|japan.zdnet.com
+@@||aiasahi.jp/ads/$image,domain=japan.zdnet.com
 @@||aii.sh^$generichide
 @@||aiimgvlog.fun^$generichide
 @@||aimasummd.blog.fc2.com^$generichide
@@ -11208,7 +11208,7 @@
 @@||redian.news^$generichide
 @@||redirect.disqus.com^
 @@||redirector.gvt1.com/videoplayback/id/*/source/gfp_video_ads/$media,domain=poki-gdn.com|repuls.io
-@@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
+@@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|zdnet.com
 @@||reels2watch.com/hls/$stealth
 @@||refi-reklama.razitko.cz^$domain=refi-reklama.razitko.cz
 @@||regapi.37.com/api/p_register.php?login_account=
@@ -13345,6 +13345,7 @@
 @@||track.adform.net/*serving/opt/iab
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
 @@||track.adform.net/serving/scripts/trackpoint/async/$domain=ethias.be
+@@||track.adtraction.com/t/t?a*epi=*url=
 @@||track.ksta.de/cre-*/tracking/call.js
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track.nzz.ch/*/api/auth_v*/
