@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-19 20:36:28（北京时间）
+! Version: 2024-08-20 09:22:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99284
+! Total count: 99300
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1708,6 +1708,7 @@
 ||4513.4puuqeh41.com^
 ||452tapgn.de^
 ||453130fa9e.com^
+||45ba1be349.com^
 ||45cf2c258c.a272118d17.com^
 ||45d31559c9.26fc91ec79.com^
 ||45f2a90583.com^
@@ -19491,6 +19492,7 @@
 ||britishgrease.com^
 ||britishinquisitive.com^
 ||brittleraising.com^
+||brittlesturdyunlovable.com^
 ||brixel.cn^
 ||brjjkd.calzedonia.com^
 ||brjyhgebqwl.com^
@@ -33641,6 +33643,7 @@
 ||event.chitai-gorod.ru^
 ||event.clientgear.com^
 ||event.clubcorp.com^
+||event.collector.scopely.io^
 ||event.condenastdigital.com^
 ||event.csdn.net^
 ||event.dengage.com^
@@ -33748,6 +33751,7 @@
 ||events.forddirectdealers.com^
 ||events.framer.com^
 ||events.funnelish.com^
+||events.getmodemagic.com^
 ||events.getsitectrl.com^
 ||events.glory-global.com^
 ||events.gogoair.com^
@@ -38400,6 +38404,7 @@
 ||gnkvyn.freeportstore.com^
 ||gnnkrz.josbank.com^
 ||gnozmx.locasun.fr^
+||gnqsvrafjtoa.com^
 ||gnqtageoyy.com^
 ||gnrmty.eurovaistine.lt^
 ||gnssivagwelwspe.xyz^
@@ -39565,6 +39570,7 @@
 ||gripspigyard.com^
 ||grirault.net^
 ||grirtouy.com^
+||grislyrooing.click^
 ||gristleupanaya.com^
 ||gritaware.com^
 ||grixaghe.xyz^
@@ -46114,6 +46120,7 @@
 ||jeannezenith.com^
 ||jeannvalmvwza.top^
 ||jeanspurrcleopatra.com^
+||jebhnmggi.xyz^
 ||jeccmq.wehkamp.nl^
 ||jechusou.com^
 ||jeckear.com^
@@ -62780,6 +62787,7 @@
 ||oypucuqsuwabnxy.com^
 ||oyretuk.top^
 ||oyssqe.easyvoyage.com^
+||oysterbywordwishful.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
 ||oytoworkwithcatuk.com^
@@ -63563,6 +63571,7 @@
 ||payslipselderly.com^
 ||paysqueak.com^
 ||pazashevy.com^
+||pazials.xyz^
 ||pazzfun.com^
 ||pb.i.sogou.com^
 ||pb.plat.services^
@@ -64639,6 +64648,7 @@
 ||pjhbyaaadlw.com^
 ||pjivapiumeb.com^
 ||pjjpp.com^
+||pjkyxrd15e.ru^
 ||pjlufuwtxv.com^
 ||pjmryh.zapatos.es^
 ||pjnwmbz.com^
@@ -67203,6 +67213,7 @@
 ||pzqqstb.icu^
 ||pztezl.xyz^
 ||pzwdtz.com^
+||pzwigrnuimeh.com^
 ||pzxhyp.aeropostale.com^
 ||q.azcentral.com^
 ||q.broes.xyz^
@@ -85730,6 +85741,7 @@
 ||tkbo.com^
 ||tkcatrun.aotter.net^
 ||tkcatwalk.aotter.net^
+||tkeatlra.com^
 ||tkelq.genesys.com^
 ||tkgaws.seokplant.com^
 ||tkhwslqsmjwingf.com^
@@ -90806,6 +90818,7 @@
 ||umwatsonc.events.data.microsoft.com^
 ||umwuxk.hotel.cz^
 ||umxwew.hellobello.com^
+||umyeon.com^
 ||umylynsr9b.quira.sh^
 ||un.ginnleunshift.com^
 ||un.ingentdurn.com^
@@ -92807,6 +92820,7 @@
 ||vjpgm.space^
 ||vjsohgd.com^
 ||vjtskjg.com^
+||vjugz.com^
 ||vjvj.vj24co.com^
 ||vjzjpt.xyz^
 ||vjzlgtnaov.com^
@@ -95447,6 +95461,7 @@
 ||wthbjrj.com^
 ||wthroughhi.xyz^
 ||wtienle.top^
+||wtjsnlwmx.com^
 ||wtkfxoqolprv.com^
 ||wtlive.com^
 ||wtm.interhyp.de^
@@ -99048,6 +99063,7 @@
 ||zprelandappslab.com^
 ||zprelanding.com^
 ||zprelandings.com^
+||zprofuqkssny.com^
 ||zpsovpgyk.xyz^
 ||zpvfsrb.xyz^
 ||zpvsuniqkhj.com^
