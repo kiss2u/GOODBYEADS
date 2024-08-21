@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-21 09:22:50（北京时间）
+! Version: 2024-08-21 20:34:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14646
+! Total count: 14647
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1928,6 +1928,7 @@
 @@||applosungen.com^$generichide
 @@||appnee.com/clever_ads.js
 @@||appnee.com^$generichide
+@@||apps.bazaarvoice.com/apps/vendors/bv-ui-core_logger@*_bv_chunk.js$domain=lenovo.com
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
 @@||apps.geodan.nl^$stealth=referrer
 @@||apps.skype.com$jsinject
@@ -2713,10 +2714,10 @@
 @@||cbsistatic.com/fly/bundles/flyjs/js/managers/clicktale-1.0.js$domain=cbsnews.com
 @@||cbsistatic.com/fly/js/libs/ads/bidbarrel-*.js$domain=cnet.com
 @@||cbsistatic.com/scripts/NativeAdManager.js^$domain=cbsnews.com
+@@||cc-collab.adobe.io^$stealth=3p-auth
 @@||cc.zorores.com/ad/*.vtt$domain=rapid-cloud.co
 @@||ccb.com^*^ad
-@@||cchome.adobe.io/prof/graphql$domain=adobe.io,stealth=3p-auth
-@@||cchome.adobe.io/srch/*/users/$domain=adobe.io,stealth=3p-auth
+@@||cchome.adobe.io^$stealth=3p-auth
 @@||ccllaa.com^$generichide
 @@||ccna6.com^$generichide
 @@||ccnav6.com^$generichide
