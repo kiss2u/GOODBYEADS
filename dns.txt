@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-20 20:36:41（北京时间）
+! Version: 2024-08-21 09:22:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99289
+! Total count: 99286
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1297,7 +1297,6 @@
 ||2mycomputer.com^
 ||2n2qlh5hqcwrvo.net^
 ||2nn7r6bh1.de^
-||2o34.com^
 ||2om93s33n.de^
 ||2p1kreiqg.de^
 ||2pc6q54ga.de^
@@ -2388,7 +2387,6 @@
 ||73-j-pinnable.com^
 ||7325.79j68qav2.com^
 ||7326.sosqboh85.com^
-||733ecf9148.com^
 ||7345023508.fxm9485766783.com^
 ||7345023508.fxmconnect.com^
 ||7349.cosmicnewspulse.com^
@@ -2981,7 +2979,6 @@
 ||9a7f507754.com^
 ||9a8123bbe5.73a70e581b.com^
 ||9a857c6721.com^
-||9a876646fa.com^
 ||9a9c55f07d.665166e5a9.com^
 ||9aad7115.amy.gs^
 ||9aba99956a.eb480dde95.com^
@@ -11468,6 +11465,7 @@
 ||alchemeeten.com^
 ||alchemysocial.com^
 ||alchimybegins.com^
+||alcidkits.com^
 ||alclick.com^
 ||alcovesoftenedenthusiastic.com^
 ||alcroconawa.com^
@@ -11569,7 +11567,6 @@
 ||alightbornbell.com^
 ||alightdrugwith.com^
 ||alightmiraculous.com^
-||alightmysteriouswheels.com^
 ||alignmentflattery.com^
 ||alimama.alicdn.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
@@ -11709,7 +11706,6 @@
 ||almareepom.com^
 ||almasatten.com^
 ||almetanga.com^
-||almightycubeimpolite.com^
 ||almightyexploitjumpy.com^
 ||almightypush.com^
 ||almightyroomsimmaculate.com^
@@ -13254,7 +13250,6 @@
 ||antico.openapp.link^
 ||anticodistretto.com^
 ||anticosm.com^
-||anticrouched.com^
 ||antidiskcaught.com^
 ||antidotefoepersecution.com^
 ||antidotesexualityorderly.com^
@@ -15159,7 +15154,6 @@
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
 ||asds.hentaitimes.com^
-||asdxntvjpsyl.com^
 ||asdyui16.cn^
 ||asecv.xyz^
 ||aseegrib.com^
@@ -15878,6 +15872,7 @@
 ||autozone.actonservice.com^
 ||autspe.notino.hr^
 ||autumncamping.com^
+||autumndrum.com^
 ||autyxdek.xyz^
 ||auvenebu.xyz^
 ||auvohoxm.xyz^
@@ -17628,6 +17623,7 @@
 ||beheldconformoutlaw.com^
 ||beheldnaive.com^
 ||beheldsled.com^
+||behesttitus.com^
 ||behim.click^
 ||behindfebruary.com^
 ||beholdcontents.com^
@@ -22246,6 +22242,7 @@
 ||circumstantialplatoon.com^
 ||circusinjunctionarrangement.com^
 ||circusmediocre.com^
+||cirrateremord.com^
 ||cirsoaksat.net^
 ||cis.schibsted.com^
 ||cisco-eagle.actonservice.com^
@@ -24607,6 +24604,7 @@
 ||cowerscrowers.top^
 ||cowhmc.docmorris.de^
 ||cowm199.com^
+||cowroidforril.click^
 ||cowtpvi.com^
 ||coxaripply.top^
 ||coxbunban.live^
@@ -25733,7 +25731,6 @@
 ||d0lzq.com^
 ||d0main.ru^
 ||d0p21g2fep.com^
-||d0wnload1x11.com^
 ||d1.1ppt.com^
 ||d1.3158.cn^
 ||d1.5h.com^
@@ -29372,7 +29369,6 @@
 ||dist.belnk.com^
 ||distainkusan.com^
 ||distancefilmingamateur.com^
-||distancefinger.com^
 ||distancemedicalchristian.com^
 ||distant-session.pro^
 ||distantbelly.com^
@@ -29497,6 +29493,7 @@
 ||dkclxi.sitkagear.com^
 ||dkesqebismkqec.com^
 ||dkgp834o9n8xl.cloudfront.net^
+||dkhffh.xyz^
 ||dkihlqwmd.com^
 ||dkjwbv.xyz^
 ||dkm6b5q0h53z4.cloudfront.net^
@@ -44871,7 +44868,6 @@
 ||inspectcol.com^
 ||inspectmergersharpen.com^
 ||inspector-collector.m.naver.com^
-||inspectorclick.com^
 ||inspectorstrongerpill.com^
 ||inspikon.com^
 ||inspirationhistorical.com^
@@ -45092,6 +45088,7 @@
 ||intrustedzone.site^
 ||intuitiontrenchproduces.com^
 ||intuitvisitorid.api.intuit.com^
+||intuseseorita.com^
 ||inuedidgmapla.com^
 ||inulaserenegue.top^
 ||inumbreonr.com^
@@ -48524,7 +48521,6 @@
 ||l.fip.fr^
 ||l.franceantilles.fr^
 ||l.francebleu.fr^
-||l.franceculture.fr^
 ||l.franceguyane.fr^
 ||l.franceinter.fr^
 ||l.francemusique.fr^
@@ -48561,7 +48557,6 @@
 ||l.lardennais.fr^
 ||l.lavoixdunord.fr^
 ||l.lefigaro.fr^
-||l.leparisien.fr^
 ||l.lepoint.fr^
 ||l.lequotidiendelart.com^
 ||l.letemps.ch^
@@ -50727,6 +50722,7 @@
 ||lkdazrtkame.com^
 ||lkdvvxvtsq6o.com^
 ||lkdybkwi.xyz^
+||lkdyft.xyz^
 ||lkenflknkd.com^
 ||lketpgwauan.com^
 ||lkeurotpmiz.com^
@@ -52033,7 +52029,6 @@
 ||lw.b.inhaabit.com^
 ||lw.cupriteshride.com^
 ||lw.musictarget.com^
-||lw2ofgc2zo.com^
 ||lwdcnz.xyz^
 ||lweriol.top^
 ||lwgadm.com^
@@ -57434,7 +57429,6 @@
 ||mnekumtrssln.com^
 ||mnetads.com^
 ||mnevjhg.com^
-||mneydirec.com^
 ||mnfhxszj.xyz^
 ||mnfqyj.corello.com.br^
 ||mnfse.cn^
@@ -59893,6 +59887,7 @@
 ||nopoloferewer.com^
 ||noproblfr.com^
 ||noptog.com^
+||norardmirror.com^
 ||nordicmarketing.sedgwick.com^
 ||nordics.atradius.com^
 ||nordics.sharpmarketing.eu^
@@ -63745,6 +63740,7 @@
 ||peaveynee.top^
 ||pebadu.com^
 ||pebafisk.com^
+||pebbledteledus.com^
 ||pebbleoutgoing.com^
 ||pebed.dm-event.net^
 ||pecdfzy.com^
@@ -65550,6 +65546,7 @@
 ||pouchadjoinmama.com^
 ||pouchaffection.com^
 ||pouchclockwise.com^
+||pouchedathelia.com^
 ||poudrinnamaste.com^
 ||poufaini.com^
 ||poufsgausses.top^
@@ -65668,7 +65665,6 @@
 ||pr.cision.co.uk^
 ||pr.cision.com^
 ||pr.cision.fi^
-||pr.ikovrov.ru^
 ||pr.nss.netease.com^
 ||pr.prnewswire.co.uk^
 ||pr.prnewswire.com^
@@ -69099,7 +69095,6 @@
 ||relevanceads.com^
 ||relevanti.com^
 ||relevanz10.de^
-||reliable-track.com^
 ||reliable.elgas.com.au^
 ||reliableceaseswat.com^
 ||reliablemiraculouscaleb.com^
@@ -72709,6 +72704,7 @@
 ||searchrespectivelypotency.com^
 ||searchresultsadblocker.com^
 ||searchsecurer.com^
+||searswalers.com^
 ||seashorelikelihoodreasonably.com^
 ||seashoremessy.com^
 ||seashorepigeonsbanish.com^
@@ -78541,7 +78537,6 @@
 ||som.sears.com^
 ||som.vrbo.com^
 ||sombes.com^
-||sombineukd.hair^
 ||somedaytrip.com^
 ||somehowlighter.com^
 ||somehowluxuriousreader.com^
@@ -85519,6 +85514,7 @@
 ||tittyptinoid.com^
 ||titulionlap.top^
 ||tiuweaser.top^
+||tivan.naver.com^
 ||tivapheegnoa.com^
 ||tivatingotherem.info^
 ||tivixv.nutribullet.com^
@@ -88552,6 +88548,7 @@
 ||tracking.pella.com^
 ||tracking.pennmedicine.princetonhcs.org^
 ||tracking.pennypublications.com^
+||tracking.peopleareeverything.com^
 ||tracking.pepsicopartners.com^
 ||tracking.petrelocation.com^
 ||tracking.pgi.com^
@@ -90316,7 +90313,6 @@
 ||u47.pnc.com^
 ||u4ccj.icu^
 ||u55011.com^
-||u566.chron.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u652.myplainview.com^
@@ -90414,7 +90410,6 @@
 ||uc9.suinidai.com.cn^
 ||ucaas.avaya.com^
 ||ucationinin.info^
-||ucationininancee.info^
 ||ucazgetyk.com^
 ||ucbedayxxqpyuo.xyz^
 ||ucconn.live^
@@ -92202,6 +92197,7 @@
 ||veosfi.woonexpress.nl^
 ||veoxphl.com^
 ||veozn3f.com^
+||vepemtuphul.net^
 ||vephowcpyvncm.com^
 ||veqvek.bnnbloomberg.ca^
 ||veqvek.ctv.ca^
@@ -94242,6 +94238,7 @@
 ||weemofee.com^
 ||ween.bid^
 ||weepauza.com^
+||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^
 ||weeprobbery.com^
@@ -95351,6 +95348,7 @@
 ||wrevenuewasadi.info^
 ||wrgjbsjxb.xyz^
 ||wrhv.education.gouv.fr^
+||wrightdirely.com^
 ||wringdecorate.com^
 ||wrinkleirritateoverrated.com^
 ||wristtrunkpublication.com^
@@ -95615,7 +95613,6 @@
 ||www.1h2h54jkw.com^
 ||www.200-rockergod.com^
 ||www.200summit.com^
-||www.20min.fr^
 ||www.22-trk-srv.com^
 ||www.24-visionaryenterprise.com^
 ||www.33-trk-srv.com^
@@ -95657,7 +95654,6 @@
 ||www.alnw3nsdi.com^
 ||www.alskd34.com^
 ||www.altabold1.com^
-||www.altereco.media^
 ||www.amos5lynn.com^
 ||www.angorch-cdr7.com^
 ||www.aonunited.com^
@@ -98327,6 +98323,7 @@
 ||yurobl.rw-co.com^
 ||yutiqf.icu^
 ||yuwenbin.host^
+||yuwqsk.xyz^
 ||yv.remountduretto.com^
 ||yv8zs.online^
 ||yvbjctqs.xyz^
