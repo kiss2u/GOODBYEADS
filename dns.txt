@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-23 09:23:23（北京时间）
+! Version: 2024-08-23 20:36:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99366
+! Total count: 99379
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12874,6 +12874,7 @@
 ||analytics.uxmetrics.com^
 ||analytics.valheimgamer.com^
 ||analytics.valiuz.com^
+||analytics.valotool.com^
 ||analytics.vanilla-project.guide^
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
@@ -16973,7 +16974,6 @@
 ||banners.livepartners.com^
 ||banners.mobile.yandex.net^
 ||banners.myads.ge^
-||banners.news1.co.il^
 ||banners.nostringsattached.com^
 ||banners.orangecoast.com^
 ||banners.outpersonals.com^
@@ -29158,6 +29158,7 @@
 ||diocgn.biltorvet.dk^
 ||diopousg.com^
 ||dioqto.totaljobs.com^
+||diosminlissome.com^
 ||dioxidtoluyls.com^
 ||diplic.com^
 ||diplnk.com^
@@ -30638,6 +30639,7 @@
 ||duesirresponsible.com^
 ||duetads.com^
 ||dufai4b1ap33z.cloudfront.net^
+||dufflesmorinel.com^
 ||dufjgdjeyo.com^
 ||dufrom.com^
 ||duftoagn.com^
@@ -31938,6 +31940,7 @@
 ||eicbgbnbvjf.com^
 ||eicyds.qoo10.jp^
 ||eidersalias.com^
+||eidoscruster.com^
 ||eiegkg.xyz^
 ||eiewwepb.com^
 ||eifeou.pandahall.com^
@@ -35019,6 +35022,7 @@
 ||femsurgo.com^
 ||fenacheaverage.com^
 ||fencerecollect.com^
+||fencersdatcha.com^
 ||fenddiscourse.com^
 ||fendeyrziz.top^
 ||feneverybodypsychological.com^
@@ -38270,6 +38274,7 @@
 ||gloogeed.xyz^
 ||gloognoogrix.com^
 ||gloogruk.com^
+||gloohozedoa.xyz^
 ||glookup.info^
 ||gloolrey.com^
 ||glooltoora.net^
@@ -40149,6 +40154,7 @@
 ||habovethecity.info^
 ||habovethecityon.info^
 ||habukaiambics.com^
+||habutaeirisate.com^
 ||habutaeunroost.com^
 ||hadajvqpha.com^
 ||haddock.affilimate.com^
@@ -47629,6 +47635,7 @@
 ||kettlemisplacestate.com^
 ||keuktyouexpe.info^
 ||kewnemhpbmzkm.com^
+||kewrutd.top^
 ||kexojito.com^
 ||key.sexymovie.name^
 ||key2.actonservice.com^
@@ -54818,6 +54825,7 @@
 ||measuredshared.com^
 ||measuremap.com^
 ||measurementaz.com^
+||measuring-pixel-service.alza.cz^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
 ||meat.midanmarketing.com^
@@ -64471,7 +64479,6 @@
 ||pintlecylix.top^
 ||pintoutcryplays.com^
 ||pinttalewag.com^
-||pinukim.net^
 ||pinwalerompers.com^
 ||pioneercomparatively.com^
 ||pioneerhardshipfarewell.com^
@@ -64916,6 +64923,7 @@
 ||plausible.nuqu.org^
 ||plausible.omgapi.org^
 ||plausible.promlens.com^
+||plausible.pronouns.cc^
 ||plausible.prufit.co^
 ||plausible.pumpkint.com^
 ||plausible.quantumcomputingexplained.com^
@@ -69443,6 +69451,7 @@
 ||resignedcamelplumbing.com^
 ||resignedsauna.com^
 ||resinherjecling.com^
+||resinkaristos.com^
 ||resionsfrester.com^
 ||resistanceouter.com^
 ||resistcorrectly.com^
@@ -74864,6 +74873,7 @@
 ||skolvortex.com^
 ||skosgrill.openapp.link^
 ||skroutza.skroutz.gr^
+||sks.mrkhub.com^
 ||skskssso.com^
 ||skuligpzifan.com^
 ||skulkspreppie.com^
@@ -90831,6 +90841,7 @@
 ||um.contentstudio.io^
 ||um5xcgngmart.xyz^
 ||umami.aigenerations.net^
+||umami.subdavis.com^
 ||umami.wakarimasen.moe^
 ||umassmemorial.hrm.healthgrades.com^
 ||umazvs.raybiotech.com^
@@ -94822,6 +94833,7 @@
 ||wilfridjargonby.com^
 ||wilfulknives.com^
 ||wilfulsatisfaction.com^
+||wililylaus.com^
 ||williamfaxarts.com^
 ||williamporterlilac.com^
 ||williednb.com^
@@ -98712,6 +98724,7 @@
 ||zebjlmmejbybz.top^
 ||zebjlmmejbzlb.top^
 ||zebrinanoteman.top^
+||zebusentour.com^
 ||zedo.com^
 ||zedoaryrejects.com^
 ||zedxknzlwyofh.com^
