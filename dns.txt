@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-22 20:36:33（北京时间）
+! Version: 2024-08-23 09:23:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99339
+! Total count: 99366
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -432,6 +432,7 @@
 ||102d.pandasuite.io^
 ||103092804.com^
 ||1048.5clo0xmbf.com^
+||1050631164.rsc.cdn77.org^
 ||1062.5clo0xmbf.com^
 ||108.uyybde07w.com^
 ||108.y2sysv81v.com^
@@ -649,6 +650,7 @@
 ||172.255.6.59^
 ||1720.4puuqeh41.com^
 ||1736253261.rsc.cdn77.org^
+||1739135659.rsc.cdn77.org^
 ||1750.sosqboh85.com^
 ||176.net.jumia.ma^
 ||17772175ab.com^
@@ -1982,6 +1984,7 @@
 ||5726303d87522d05.com^
 ||573569djd.com^
 ||573d28b35e.com^
+||574ae48fe5.com^
 ||5753.5clo0xmbf.com^
 ||57573zubo36833.com^
 ||5765.5clo0xmbf.com^
@@ -19923,6 +19926,7 @@
 ||buqajvxicma.com^
 ||buqbxdqurj.xyz^
 ||buqkrzbrucz.com^
+||buram.xyz^
 ||burbarkholpen.com^
 ||bureauelderlydivine.com^
 ||bureausdenning.com^
@@ -20051,6 +20055,7 @@
 ||bvbqyq.odalys-vacances.com^
 ||bvbypswhds.com^
 ||bvcsfcx.com^
+||bvdenx.xyz^
 ||bvepgbnjgdubvz.com^
 ||bvexmf.bigtv.ru^
 ||bvkuwv.muumuu-domain.com^
@@ -21882,6 +21887,7 @@
 ||chauckoo.xyz^
 ||chaudoubeets.net^
 ||chaudrep.net^
+||chaugnortuw.net^
 ||chaugroo.net^
 ||chauinubbins.com^
 ||chauksoam.xyz^
@@ -29196,6 +29202,7 @@
 ||dirtrecurrentinapptitudeinapptitude.com^
 ||dirty.games^
 ||dirtyasmr.com^
+||dirvimctifiz.com^
 ||disable-adverts.com^
 ||disableadblock.com^
 ||disabledincomprehensiblecitizens.com^
@@ -31176,6 +31183,7 @@
 ||eabvmue.cn^
 ||eac0823ca94e3c07.com^
 ||eac77b4889.com^
+||eacdf119.cn^
 ||eacdn.com^
 ||eacfiii.com^
 ||eachiv.com^
@@ -37790,6 +37798,7 @@
 ||gettjohytn.com^
 ||gettoknow.skookum.com^
 ||gettraffnews.com^
+||gettrf.org^
 ||gettunable.affinityblue.com^
 ||getvideoz.click^
 ||getxml.org^
@@ -40705,6 +40714,7 @@
 ||heistedmarybud.top^
 ||heixidor.com^
 ||hej.henriksommerfeld.se^
+||hejqtbnmwze.com^
 ||hejrspjwu.com^
 ||hekhnn.turnkeyvr.com^
 ||hekowutus.com^
@@ -47408,6 +47418,7 @@
 ||kangaroo.triplightfantastic.com^
 ||kangaroohiccups.com^
 ||kanoodle.com^
+||kansacklfrjr.com^
 ||kanteletippet.com^
 ||kantiwl.com^
 ||kaoelsng.com^
@@ -48316,6 +48327,7 @@
 ||ktrust.site^
 ||ktskxm.smartphoto.nl^
 ||ktu.sv2.biz^
+||ktureukworekto.com^
 ||ktvjpmi.xyz^
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
@@ -48868,6 +48880,7 @@
 ||largernauseous.com^
 ||laridaetrionfo.top^
 ||lark.pollie.dev^
+||larkenjoyedborn.com^
 ||larkyabandum.com^
 ||larontale.com^
 ||laronwinepot.top^
@@ -49507,6 +49520,7 @@
 ||lifetds.com^
 ||lifetimeagriculturalproducer.com^
 ||lifetimeroyaltybestial.com^
+||lifewaykisan.click^
 ||liffic.com^
 ||lifiads.com^
 ||lifict.com^
@@ -57822,6 +57836,7 @@
 ||morict.com^
 ||morinavotarius.top^
 ||morionsluigini.digital^
+||moriscogabbles.com^
 ||mormonindianajones.com^
 ||mormont.gamer-network.net^
 ||morningamidamaruhal.com^
@@ -60401,6 +60416,7 @@
 ||nvvqrv.xyz^
 ||nvxcvyfedg.com^
 ||nvxlag.liligo.fr^
+||nvzaezebhow.com^
 ||nvzcoggh.com^
 ||nwajdf.zakzak.co.jp^
 ||nwbmvq.jockey.com^
@@ -61584,6 +61600,7 @@
 ||oncahh.boxlunch.com^
 ||oncavst.com^
 ||oncdiranwrus.com^
+||oncesets.com^
 ||onclarck.com^
 ||onclasrv.com^
 ||onclckinp.com^
@@ -63169,6 +63186,7 @@
 ||pakdru.altrarunning.com^
 ||pal-v.actonservice.com^
 ||paladion.actonservice.com^
+||palaesavgs.com^
 ||palakahone.com^
 ||palama2.co^
 ||palama2.com^
@@ -64651,6 +64669,7 @@
 ||pjhbyaaadlw.com^
 ||pjivapiumeb.com^
 ||pjjpp.com^
+||pjkfmxvsjtyp.com^
 ||pjkyxrd15e.ru^
 ||pjlufuwtxv.com^
 ||pjmryh.zapatos.es^
@@ -68004,6 +68023,7 @@
 ||qwoyfys.com^
 ||qwrwawwmblwbb.top^
 ||qwrwawwmblybj.top^
+||qwrwhosailedbe.info^
 ||qwsanan.top^
 ||qwtag.com^
 ||qwuaqrxfuohb.com^
@@ -72019,6 +72039,7 @@
 ||sandsonair.com^
 ||sandtheircle.com^
 ||sandwich3452.fun^
+||sandwichconscientiousroadside.com^
 ||sandwichdeliveringswine.com^
 ||sandyrecordingmeet.com^
 ||sandysuspicions.com^
@@ -72080,6 +72101,7 @@
 ||saracsoxcpa.com^
 ||sarcasmidentifiers.com^
 ||sarcasticdismalconstrue.com^
+||sarcasticnotarycontrived.com^
 ||sarcelgusla.com^
 ||sarcinedewlike.com^
 ||sarcodrix.com^
@@ -84636,6 +84658,7 @@
 ||tegleebs.com^
 ||tegronews.com^
 ||teho.visma.fi^
+||tehxzz.xyz^
 ||teiankythes.top^
 ||teicdn.com^
 ||teiidsfortune.com^
@@ -84647,6 +84670,7 @@
 ||tel-tel-fie.com^
 ||tel.telegraaf.nl^
 ||telamoncom.actonservice.com^
+||telcyhlw.com^
 ||tele2.actonservice.com^
 ||telechargementdirect.net^
 ||telegraf.detmir-stats.ru^
@@ -94431,6 +94455,7 @@
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
 ||wfredir.net^
+||wfsmya.xyz^
 ||wfthumty.pm^
 ||wftyehw.cn^
 ||wfubtuatsa.com^
@@ -94946,6 +94971,7 @@
 ||wjssvg.descentekorea.co.kr^
 ||wjtekf.vidaxl.bg^
 ||wjudihl.com^
+||wjvavwjyaso.com^
 ||wjvyorreejezm.top^
 ||wjvyorreejkzw.top^
 ||wjwod.cyou^
@@ -99201,6 +99227,7 @@
 ||zugo.com^
 ||zuhempih.com^
 ||zuidema.actonservice.com^
+||zujibumlgc.com^
 ||zukary.com^
 ||zukore.com^
 ||zukxd6fkxqn.com^
