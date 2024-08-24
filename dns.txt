@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-23 20:36:13（北京时间）
+! Version: 2024-08-24 09:21:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99379
+! Total count: 99394
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7930,6 +7930,7 @@
 ||acdcmarimo.com^
 ||acdn01.vidox.net^
 ||acdn923132475.com^
+||acdrewrf711.cn^
 ||ace.naver.com^
 ||acecapprecarious.com^
 ||acediscover.com^
@@ -7948,6 +7949,7 @@
 ||acertb.com^
 ||aceshosted.top^
 ||acesse.tc.com.br^
+||acewdf118.cn^
 ||acf9a96aa8.a35e803f21.com^
 ||acfaaoaaxdqm.com^
 ||acfsxqoa.com^
@@ -16775,6 +16777,7 @@
 ||baijs07.xyz^
 ||baijs08.shop^
 ||baijs08.xyz^
+||baijs09.shop^
 ||bailcurvehealth.com^
 ||bailedgatheringmirth.com^
 ||bailedperiodic.com^
@@ -18841,6 +18844,7 @@
 ||boilwiggle.com^
 ||boinkcash.com^
 ||boisterousemblem.com^
+||bojyvp.xyz^
 ||bokeden.com^
 ||bokep.su^
 ||bokosatom.com^
@@ -26010,6 +26014,7 @@
 ||d1mob6w0cdx3a7.cloudfront.net^
 ||d1mroptkfdxko5.cloudfront.net^
 ||d1mub3aw743hsf.cloudfront.net^
+||d1muf25xaso8hp.cloudfront.net^
 ||d1my7gmbyaxdyn.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1n1ppeppre6d4.cloudfront.net^
@@ -30126,6 +30131,7 @@
 ||doujs07.xyz^
 ||doujs08.shop^
 ||doujs08.xyz^
+||doujs09.shop^
 ||doujs09.xyz^
 ||doukoula.com^
 ||doumuleet.net^
@@ -33972,6 +33978,7 @@
 ||ewikajs.com^
 ||ewioud.com^
 ||ewjhic.cn^
+||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||eworfe.babyartikel.de^
 ||ewoutosh.com^
@@ -39348,6 +39355,7 @@
 ||gpcrn.com^
 ||gpfaquowxnaum.xyz^
 ||gpiagk.xyz^
+||gpibcoogfb.com^
 ||gpiljd.thetiebar.com^
 ||gpiyhj.leopalace21.com^
 ||gpiyzwt.com^
@@ -45470,6 +45478,7 @@
 ||ironmis.com^
 ||ironymisterdisk.com^
 ||irousbisayan.com^
+||irqaci.xyz^
 ||irqewz.vilebrequin.com^
 ||irqoqr.industrywest.com^
 ||irqs.ioam.de^
@@ -49136,6 +49145,7 @@
 ||leansometime.com^
 ||leanunderstatement.com^
 ||leanwhitepinafo.org^
+||leapcompatriotjangle.com^
 ||leapretrieval.com^
 ||learn.aiu.edu.au^
 ||learn.altsourcesoftware.com^
@@ -59516,6 +59526,7 @@
 ||nh.rimoseantdom.com^
 ||nhanziohqat.com^
 ||nharghiooudi.xyz^
+||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhckxyxaiwqnssh.com^
 ||nhdhoj.ibs.it^
@@ -63803,6 +63814,7 @@
 ||peelupsu.com^
 ||peelxotvq.com^
 ||peemee.com^
+||peenuteque.net^
 ||peep-auktion.de^
 ||peepholelandreed.com^
 ||peer39.com^
@@ -86317,6 +86329,7 @@
 ||toutiao.jxnews.com.cn^
 ||toutiao.social^
 ||toutiao.xn--fiqs8s^
+||toutsneskhi.com^
 ||touzia.xyz^
 ||tovanillitechan.com^
 ||tovespiquener.com^
@@ -90867,6 +90880,7 @@
 ||umoughtcallm.com^
 ||umoxomv.icu^
 ||umpedshumal.com^
+||umphek.com^
 ||umpirectx.top^
 ||umplmoht.com^
 ||umplohzn.com^
@@ -95647,6 +95661,7 @@
 ||wwarvlorobzw.top^
 ||wwbeqrhjwnijdk.com^
 ||wwbsll.nissen.co.jp^
+||wwcpyupbrcuhcsn.com^
 ||wwemleypftdook.com^
 ||wwerioe.top^
 ||wwfx.xyz^
