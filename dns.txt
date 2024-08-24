@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-24 09:21:53（北京时间）
+! Version: 2024-08-24 20:34:34（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99394
+! Total count: 99404
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12723,6 +12723,7 @@
 ||analytics.query.yahoo.com^
 ||analytics.qushad.com^
 ||analytics.radiatemedia.com^
+||analytics.raenonx.cc^
 ||analytics.rambla.be^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
@@ -30107,6 +30108,7 @@
 ||doubleview.online^
 ||doublycharacteristic.com^
 ||doubtcigardug.com^
+||doubtedprompts.com^
 ||doubtlesshealthydocument.com^
 ||doubtmeasure.com^
 ||douceuristana.top^
@@ -36583,6 +36585,7 @@
 ||fromhttptohttps.atea.fi^
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
+||frompilis.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
 ||frontendcodingtips.com^
@@ -41981,6 +41984,7 @@
 ||hugupq.selency.fr^
 ||hugysoral.digital^
 ||huhaxvawgwa.com^
+||huhcoldish.com^
 ||huhwllvk.xyz^
 ||huichuan.sm.cn^
 ||huigt6y.xyz^
@@ -62463,6 +62467,7 @@
 ||oulukdliketo.shop^
 ||oumainseeba.xyz^
 ||oumnxiek.top^
+||oumoshomp.xyz^
 ||oumpashy.net^
 ||oumtirsu.com^
 ||ounceanalogous.com^
@@ -68449,6 +68454,7 @@
 ||raufajoo.net^
 ||raugovicoma.com^
 ||raujouca.com^
+||raunooligais.net^
 ||raupothrepe.com^
 ||raupsica.net^
 ||rausfml.com^
@@ -70879,6 +70885,7 @@
 ||rummletornese.com^
 ||rummyaffiliates.com^
 ||rumsey.actonservice.com^
+||rumsroots.com^
 ||rumstat.cdnvideo.ru^
 ||rumt-sg.com^
 ||rumt-zh.com^
@@ -73827,6 +73834,7 @@
 ||sewingunrulyshriek.com^
 ||sewmcqkulwxmrx.com^
 ||sewmerecontaining.com^
+||sewrutb.top^
 ||sewussoo.xyz^
 ||sex-and-flirt.com^
 ||sex-chat.me^
@@ -73882,6 +73890,7 @@
 ||sf1-fe-pack.pglstatp-toutiao.com^
 ||sf1-fe-tos.pglstatp-toutiao.com^
 ||sf16-static.i18n-pglstatp.com^
+||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||sf3-ttcdn-tos.pstatp.com^
@@ -82741,6 +82750,7 @@
 ||sut.iggroup.com^
 ||sutiletoroid.com^
 ||sutraf.com^
+||suturaletalage.com^
 ||suunta.visma.fi^
 ||suwotsoukry.com^
 ||suwytid.com^
@@ -90880,7 +90890,6 @@
 ||umoughtcallm.com^
 ||umoxomv.icu^
 ||umpedshumal.com^
-||umphek.com^
 ||umpirectx.top^
 ||umplmoht.com^
 ||umplohzn.com^
@@ -92457,6 +92466,7 @@
 ||viaexploudtor.com^
 ||viamariller.com^
 ||vianadserver.com^
+||viandryochavo.com^
 ||vianidorinotor.com^
 ||vianoivernom.com^
 ||viapawniarda.com^
