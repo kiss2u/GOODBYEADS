@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-25 09:36:17（北京时间）
+! Version: 2024-08-25 20:34:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99439
+! Total count: 99431
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7843,7 +7843,6 @@
 ||acceptablebleat.com^
 ||acceptablefabric.com^
 ||acceptcards.americanexpress.co.uk^
-||acceptedregionsdispose.com^
 ||acceptimpatient.com^
 ||access*.tpns.tencent.com^
 ||access-mc.com^
@@ -10740,6 +10739,7 @@
 ||afeerdah.net^
 ||afep.pivn.shop^
 ||aferpush.com^
+||afewe611.cn^
 ||aff*.kolektiva.net^
 ||aff-jp.dxlive.com^
 ||aff-online.com^
@@ -17630,7 +17630,6 @@
 ||begaudycacatua.com^
 ||beggarlyfilmingabreast.com^
 ||beggarlymeatcan.com^
-||beggarpropositiongaudy.com^
 ||beggingparagraph.com^
 ||beginfrightsuit.com^
 ||beginnerfurglow.com^
@@ -28542,7 +28541,6 @@
 ||detour.click^
 ||deturbcordies.com^
 ||detwzgl8cvciv.cloudfront.net^
-||deunamyapman.top^
 ||deupfpxwdzxs.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
@@ -30233,7 +30231,6 @@
 ||doydplivplr.com^
 ||dozenactually.com^
 ||dozententag.ni.com^
-||dozilyboorish.top^
 ||dozubatan.com^
 ||dozzlegram-duj-i-280.site^
 ||dp.shoprunner.com^
@@ -31798,6 +31795,7 @@
 ||eetzod.bemol.com.br^
 ||eewdrt.fashiontofigure.com^
 ||eewhocmi.com^
+||eewrutw.top^
 ||eeycumpmwy.com^
 ||eeywmvwaqqrrl.top^
 ||eeywmvwebqarl.top^
@@ -48396,7 +48394,6 @@
 ||kukckk.sagefinds.com^
 ||kukrosti.com^
 ||kulakiayme.com^
-||kuleqasforsal.xyz^
 ||kulsaibs.net^
 ||kultingecauyuksehi.info^
 ||kultingecauyuksehinkitw.info^
@@ -58759,7 +58756,6 @@
 ||n0gge40o.de^
 ||n0h56.site^
 ||n0v1cdn.com^
-||n1.webedia.fr^
 ||n1307adserv.xyz^
 ||n1g459ky7y.com^
 ||n1pusher.com^
@@ -70726,7 +70722,6 @@
 ||rtb.trafficfactory.com^
 ||rtb.videonow.ru^
 ||rtb.voiceads.cn^
-||rtb.wedeo.ru^
 ||rtb1bid.com^
 ||rtb2-apac.applabs.live^
 ||rtb2-apac.gravityadnetwork.io^
@@ -74794,7 +74789,6 @@
 ||situatedconventionalveto.com^
 ||situationfondlehindsight.com^
 ||situationhostilitymemorable.com^
-||situlatesty.top^
 ||siusmv.coraltravel.pl^
 ||sivaiteupfeed.com^
 ||siversbesomer.space^
@@ -91468,7 +91462,6 @@
 ||urbanproxy.eu^
 ||urechar.com^
 ||ureckeeds.com^
-||uredy.top^
 ||urehgr.halekulani.com^
 ||urekamedia.com^
 ||ureoaw.netthandelen.no^
@@ -98184,7 +98177,6 @@
 ||yoibbka.com^
 ||yoifwi.levi.com.ph^
 ||yoiku-sub.yoiku.support^
-||yojancapelin.com^
 ||yokeeroud.com^
 ||yolkhandledwheels.com^
 ||yolo.philipbjorge.com^
