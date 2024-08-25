@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-24 20:34:34（北京时间）
+! Version: 2024-08-25 09:36:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99404
+! Total count: 99439
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7041,6 +7041,7 @@
 ||a8cvhoiku.kidsmate.jp^
 ||a8cvtrack.sincere-garden.jp^
 ||a8cvtrack.tokai.jp^
+||a8d48a7d6e.com^
 ||a8dev.hikarinet-s.com^
 ||a8dns.webcircle.co.jp^
 ||a8ec34052d.fb5ab8a79a.com^
@@ -7765,6 +7766,7 @@
 ||abvghl.udn.com^
 ||abvnypoqcgmh.com^
 ||abvoltssilen.top^
+||abvptccrwiawav.com^
 ||abwhyag.com^
 ||abwlrooszor.com^
 ||abwsunml.com^
@@ -7930,6 +7932,7 @@
 ||acdcmarimo.com^
 ||acdn01.vidox.net^
 ||acdn923132475.com^
+||acdref117.cn^
 ||acdrewrf711.cn^
 ||ace.naver.com^
 ||acecapprecarious.com^
@@ -13014,6 +13017,7 @@
 ||anaxialaphonia.com^
 ||anbkzt.xyz^
 ||anbstudios.com^
+||anceenablesas.com^
 ||anceenablesas.info^
 ||ancestor3452.fun^
 ||ancestorpoutplanning.com^
@@ -14794,6 +14798,7 @@
 ||aqppwatriodz.com^
 ||aqqlwcuqtskbz.com^
 ||aqr.actonservice.com^
+||aqrawvakvca.com^
 ||aqrkrahkynta.com^
 ||aqrokdw.cn^
 ||aqroxlquvshe.com^
@@ -15803,6 +15808,7 @@
 ||aumsookr.com^
 ||aumtoost.net^
 ||aunauque.net^
+||auneechuksee.net^
 ||auneghus.net^
 ||aungudie.com^
 ||aunsagoa.xyz^
@@ -20169,6 +20175,7 @@
 ||byjpsr.bobags.com.br^
 ||bykwtf.victoriassecret.ae^
 ||byluvdiscor.com^
+||bylwtf.xyz^
 ||bymahuxv.xyz^
 ||bymnyzbkylaaw.top^
 ||bymnyzbkylvja.top^
@@ -20211,6 +20218,7 @@
 ||bzgmcqqfxd.com^
 ||bzidp.com^
 ||bzlold.machi.to^
+||bzniungh.com^
 ||bznizrhd.xyz^
 ||bznxqj.fiat.it^
 ||bzqqftz.icu^
@@ -21010,6 +21018,7 @@
 ||caufirig.com^
 ||cauldronrepellentcanvass.com^
 ||caulifloweraircraft.com^
+||cauliflowercutlerysodium.com^
 ||cauliflowertoaster.com^
 ||cauliflowervariability.com^
 ||caulisboatman.com^
@@ -25071,6 +25080,7 @@
 ||crow.gim.technology^
 ||crow.themarbleking.com^
 ||crow.voracious.dev^
+||crowdeddisk.pro^
 ||crowdgravity.com^
 ||crowdnextquoted.com^
 ||crptentry.com^
@@ -32064,6 +32074,7 @@
 ||electricalyellincreasing.com^
 ||electricfeminine.com^
 ||electricity2.tokyu-ps.jp^
+||electricphysical.com^
 ||electrifai.actonservice.com^
 ||electronicauthentic.com^
 ||electronicconstruct.com^
@@ -33213,6 +33224,7 @@
 ||eqclicks.movember.com^
 ||eqcwpeo.cn^
 ||eqdudaj.com^
+||eqffdgnpysx.com^
 ||eqingl.ivet.bg^
 ||eqkjmvkkmvrvw.top^
 ||eqktmnuojibw.com^
@@ -34756,6 +34768,8 @@
 ||fatzuclmihih.com^
 ||faucons.viessmann.fr^
 ||faudouglaitu.com^
+||faugrich.info^
+||faugstat.info^
 ||faujdarunrake.top^
 ||faukoocifaly.com^
 ||faulterdeplume.com^
@@ -37856,6 +37870,7 @@
 ||gfylyw.xyz^
 ||gfzbdtwtlw.com^
 ||gg.0598yu.com^
+||gg.7976.top^
 ||gg.blueidea.com^
 ||gg.caixin.com^
 ||gg.cs090.com^
@@ -37870,6 +37885,7 @@
 ||gg.vevor.com^
 ||gg.warmanmamelon.com^
 ||gg1.mengchongzu.com^
+||gg3a.cc^
 ||gg86.pinggu.org^
 ||gg88.bj.bcebos.com^
 ||ggcode.2345.com^
@@ -41145,6 +41161,7 @@
 ||hipub.hiwit.org^
 ||hipunaux.com^
 ||hipvaeciaqqtrhy.xyz^
+||hiredeitysibilant.com^
 ||hirelinghistorian.com^
 ||hiringairport.com^
 ||hirsung.de^
@@ -42775,6 +42792,7 @@
 ||ijhlca.lulus.com^
 ||ijhpdtiij.com^
 ||ijhweandthepe.info^
+||ijhxe.com^
 ||ijifwb.green-acres.fr^
 ||ijikhxaelqmbg.com^
 ||ijkcmm.com^
@@ -43757,6 +43775,7 @@
 ||inboxdollars.com^
 ||inbrowserplay.com^
 ||inbudewr.com^
+||inbvuhwfky.com^
 ||incapableenormously.com^
 ||incarnategrannystem.com^
 ||incarnatepicturesque.com^
@@ -46381,6 +46400,7 @@
 ||jhmkopen.minortom.net^
 ||jhnmpm.kiwoko.com^
 ||jhnnnb.xyz^
+||jhoncj.com^
 ||jhpbtp.xyz^
 ||jhprvk.skstoa.com^
 ||jhpwrn.laredoute.ch^
@@ -48325,6 +48345,7 @@
 ||ktcgqqoo.com^
 ||ktdcoy.lyst.it^
 ||ktfgfdjea.com^
+||ktfiqjqahgmi.com^
 ||ktfodkqypn.xyz^
 ||kthjuw.lyst.com.au^
 ||ktienld.top^
@@ -48997,6 +49018,7 @@
 ||lawsuniversitywarning.com^
 ||lawunfriendlyknives.com^
 ||lawyers.rigbycooke.com.au^
+||laxativestuckunclog.com^
 ||laxoaksi.net^
 ||layer-ad.de^
 ||layer-ad.org^
@@ -50982,6 +51004,7 @@
 ||lodicoandco.actonservice.com^
 ||lodlww.carcon.co.jp^
 ||lodroe.com^
+||loeilbygo.shop^
 ||lofgfokgxtr.com^
 ||lofo3l15c674.platform.replai.io^
 ||loftknowing.com^
@@ -59593,6 +59616,7 @@
 ||niecesexhaustsilas.com^
 ||niecesregisteredhorrid.com^
 ||niepaunmaned.top^
+||niersfohiplaceof.info^
 ||nieveni.com^
 ||nievetacunjer.top^
 ||nifracomtra.com^
@@ -60842,6 +60866,7 @@
 ||oclasrv.com^
 ||oclpegogoccxlw.com^
 ||ocmhood.com^
+||ocmpsfoyadwm.com^
 ||ocmtag.com^
 ||ocmxbu.hanatour.com^
 ||ocoaksib.com^
@@ -61126,6 +61151,7 @@
 ||oi.fapnow.xxx^
 ||oi.lesbianbliss.com^
 ||oi.transhero.com^
+||oianz.xyz^
 ||oiarske.com^
 ||oiat.dow.com^
 ||oiavdib.com^
@@ -67268,6 +67294,7 @@
 ||pzqfmhy.com^
 ||pzqqstb.icu^
 ||pztezl.xyz^
+||pztpygaul.com^
 ||pzwdtz.com^
 ||pzwigrnuimeh.com^
 ||pzxhyp.aeropostale.com^
@@ -67475,6 +67502,7 @@
 ||qfgtepw.com^
 ||qfhatlntjtpyit.com^
 ||qfihdr.com^
+||qfiofvovgapc.com^
 ||qfisatztut.com^
 ||qfjherc.com^
 ||qfjsliy.top^
@@ -75011,6 +75039,7 @@
 ||sllscc.com^
 ||slm.dantri.com.vn^
 ||slobgrandmadryer.com^
+||slockertummies.com^
 ||sloeri.com^
 ||slonejulyh.xyz^
 ||slopeac.com^
@@ -90565,6 +90594,7 @@
 ||udmmdl.dudalina.com.br^
 ||udmserve.net^
 ||udncoeln.com^
+||udolgy.xyz^
 ||udonjl.coopdeli.jp^
 ||udookrou.com^
 ||udoshbt.top^
@@ -90750,6 +90780,7 @@
 ||ujvh.pandasuite.io^
 ||ujvqrs.meandem.com^
 ||ujwfrf.uniformix.pl^
+||ujwfsvqcnafp.com^
 ||ujznabh.com^
 ||ujzqud.bestsecret.se^
 ||uk-business.vodafone.com^
@@ -91863,6 +91894,7 @@
 ||uzqtbthkrqq.com^
 ||uzrwqrezkx.com^
 ||uzrxoxd.xyz^
+||uztiljvaewg.com^
 ||uzzidxlvnq.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||v-collector.dp.aws.charter.com^
@@ -96514,6 +96546,7 @@
 ||wxsnsdy.video.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
+||wxsygrpxfkp.com^
 ||wxvfhgdeis.com^
 ||wxwsmt.matsmart.fi^
 ||wxymag.xyz^
@@ -98433,6 +98466,7 @@
 ||yuriembark.com^
 ||yurobl.rw-co.com^
 ||yutiqf.icu^
+||yutmelqk.com^
 ||yuwenbin.host^
 ||yuwqsk.xyz^
 ||yv.remountduretto.com^
@@ -99247,6 +99281,7 @@
 ||ztxhxby.com^
 ||ztxjutz.xyz^
 ||ztyumn.ifeng.com^
+||ztzdvv.xyz^
 ||zubajuroo.com^
 ||zubivu.com^
 ||zubkgpwuqqcreh.com^
