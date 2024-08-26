@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-25 20:34:20（北京时间）
+! Version: 2024-08-26 09:24:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99431
+! Total count: 99437
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -850,7 +850,6 @@
 ||1kpv4njzilv.community.intersystems.com^
 ||1kqfzwd.com^
 ||1l-hit.mail.ru^
-||1l-hit.vkplay.ru^
 ||1l-view.my.games^
 ||1l1.cc^
 ||1lbk62l5c.de^
@@ -1073,6 +1072,7 @@
 ||2393.5clo0xmbf.com^
 ||23andme.actonservice.com^
 ||23dhj4q.com^
+||23hssicm9.de^
 ||24-sportnews.com^
 ||24-xxx.biz^
 ||24.935ft4j96.com^
@@ -1608,6 +1608,7 @@
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||3p8801.co^
+||3pkf5m0gd.com^
 ||3plworldwide.actonservice.com^
 ||3pornstarmovies.com/*/*/*/js/ssu*.js^
 ||3q1lsj.cn^
@@ -1701,6 +1702,7 @@
 ||4497.4puuqeh41.com^
 ||44a9217f10.com^
 ||44e29c19ac.com^
+||44fc128918.com^
 ||44ffd27303.com^
 ||44jui.top^
 ||45.32.105.134^
@@ -7636,6 +7638,7 @@
 ||aboarea.com^
 ||abochro.com^
 ||abodedistributionpan.com^
+||abody.39.net^
 ||aboenab.com^
 ||abohara.com^
 ||abolaed.com^
@@ -10873,7 +10876,6 @@
 ||affmoneyy.com^
 ||affordedrasp.com^
 ||affordedseasick.com^
-||affordrefilm.com^
 ||affordspoonsgray.com^
 ||affordstrawberryoverreact.com^
 ||affordswear.com^
@@ -12849,7 +12851,6 @@
 ||analytics.tntsports.com.ar^
 ||analytics.tntsports.com.br^
 ||analytics.tntsports.com^
-||analytics.tokosia.com^
 ||analytics.tondach.pl^
 ||analytics.top10-charts.com^
 ||analytics.totalprosports.com^
@@ -14915,6 +14916,7 @@
 ||arenahoosgow.com^
 ||arenalitteraccommodation.com^
 ||arenitezill.com^
+||arewcdf116.cn^
 ||arewzvqbevrzj.top^
 ||areyoutherenow.com^
 ||arfobkorfa.com^
@@ -17021,7 +17023,6 @@
 ||banquetpettyduchess.com^
 ||banquetunarmedgrater.com^
 ||bans.bride.ru^
-||banselaunswear.casa^
 ||banshop.gruntovik.ru^
 ||banstat.nadavi.net^
 ||bantercubicle.com^
@@ -17188,7 +17189,6 @@
 ||baxotjdtesah.com^
 ||baxter.olx.org^
 ||bayamolupines.click^
-||bayctrk.com^
 ||baygallter.top^
 ||baylnk.com^
 ||bayonetbaptism.com^
@@ -17203,7 +17203,6 @@
 ||bb.lekumo.jp^
 ||bb.onjoyri.de^
 ||bb.whaupburgeon.com^
-||bb17f09ee7.com^
 ||bb3830357b.com^
 ||bb3f11de52.2ecfa1db15.com^
 ||bb73db8996.7857ab56f4.com^
@@ -17573,6 +17572,7 @@
 ||bedbaatvdc.com^
 ||bedca535f3.ba46b70722.com^
 ||bedevilglare.com^
+||bedirectuklyecon.com^
 ||bedodrioer.com^
 ||bedodrioon.com^
 ||bedrapiona.com^
@@ -20108,6 +20108,7 @@
 ||bwujxl.yoga-lava.com^
 ||bwuwirv.cn^
 ||bwvqjqmlkezjk.top^
+||bwwhcljtytrpo.com^
 ||bwzlmmqwrrnea.top^
 ||bx-cloud.com^
 ||bx5.tubemaximum.com^
@@ -20867,6 +20868,7 @@
 ||cartoon.hardalist.com^
 ||cartrigechances.com^
 ||cartrigestale.com^
+||cartx.cloud^
 ||carvagemidweek.shop^
 ||carvedcoming.top^
 ||carverfashionablegorge.com^
@@ -21020,7 +21022,6 @@
 ||cauliflowercutlerysodium.com^
 ||cauliflowertoaster.com^
 ||cauliflowervariability.com^
-||caulisboatman.com^
 ||caulisnombles.top^
 ||caunauptipsy.com^
 ||caunaurou.com^
@@ -24390,6 +24391,7 @@
 ||copieranewcaller.com^
 ||copiercarriage.com^
 ||copilot-telemetry.githubusercontent.com^
+||coppercranberrylamp.com^
 ||coptisphraser.top^
 ||copycarpenter.com^
 ||copycatnews.com^
@@ -26085,7 +26087,6 @@
 ||d1rp4yowwe587e.cloudfront.net^
 ||d1rr5z16sjcy10.cloudfront.net^
 ||d1rsh847opos9y.cloudfront.net^
-||d1rszqblq924lq.cloudfront.net^
 ||d1s18kaechs9c9.cloudfront.net^
 ||d1s4mby8domwt9.cloudfront.net^
 ||d1s5n6wuwgnxf4.cloudfront.net^
@@ -27986,7 +27987,6 @@
 ||de3hzpms0kfq9.cloudfront.net^
 ||de446b1884.573d28b35e.com^
 ||de5d3ea1c2.17772175ab.com^
-||de5d5c4a49.com^
 ||de97a02584.efb566d3fe.com^
 ||dead-put.com^
 ||deadly-variety.pro^
@@ -29267,6 +29267,7 @@
 ||discountclick.com^
 ||discounts4shops.com^
 ||discountstickersky.com^
+||discourseoxidizingtransfer.com^
 ||discover-metrics.cloud.seek.com.au^
 ||discover.10play.com.au^
 ||discover.absciex.com.cn^
@@ -33990,6 +33991,7 @@
 ||ewikajs.com^
 ||ewioud.com^
 ||ewjhic.cn^
+||ewnkfnsajr.com^
 ||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||eworfe.babyartikel.de^
@@ -34766,6 +34768,7 @@
 ||fatzuclmihih.com^
 ||faucons.viessmann.fr^
 ||faudouglaitu.com^
+||faughold.info^
 ||faugrich.info^
 ||faugstat.info^
 ||faujdarunrake.top^
@@ -36191,7 +36194,6 @@
 ||forthemoonh.com^
 ||forthnorriscombustible.com^
 ||forthright-car.pro^
-||fortiesgaudy.top^
 ||fortitudeare.com^
 ||fortnight.space^
 ||fortnitechat.site^
@@ -39380,6 +39382,7 @@
 ||gplgqqg.com^
 ||gpm-mon-sg.bytegsdk.com^
 ||gpm-mon-sg.byteoversea.com^
+||gpmzkg.xyz^
 ||gporkecpyttu.com^
 ||gpplus-app.hotdoc.com.au^
 ||gppppq.newcars.com^
@@ -40459,7 +40462,6 @@
 ||hauphoak.xyz^
 ||hauphuchaum.com^
 ||haupsoag.xyz^
-||haupsoti.net^
 ||hausasisters.com^
 ||hausoumu.net^
 ||haustoam.com^
@@ -42230,7 +42232,6 @@
 ||hyibby.lampen24.be^
 ||hyislou.top^
 ||hyistkechaukrguke.com^
-||hyjxtz.com^
 ||hykaqn.dormideo.com^
 ||hylaxngo.xyz^
 ||hymenicpirn.com^
@@ -42863,7 +42864,6 @@
 ||illegibledismiss.com^
 ||illfriendship.com^
 ||illicitdandily.cam^
-||illinformedgreen.com^
 ||illinformednative.com^
 ||illishrastus.com^
 ||illiticguiding.com^
@@ -46464,6 +46464,7 @@
 ||jinterests-1.com^
 ||jintonghua.com^
 ||jinx.skullctf.com^
+||jinxpn.xyz^
 ||jinzige.cn^
 ||jioads.akamaized.net^
 ||jioed.cyou^
@@ -47667,6 +47668,7 @@
 ||keuktyouexpe.info^
 ||kewnemhpbmzkm.com^
 ||kewrutd.top^
+||kexarvamr.com^
 ||kexojito.com^
 ||key.sexymovie.name^
 ||key2.actonservice.com^
@@ -49442,6 +49444,7 @@
 ||lfwujowkcf.com^
 ||lfxdqs.mamasandpapas.ae^
 ||lfxkgdvf.com^
+||lfxozd.xyz^
 ||lfyqsi.erborian.com^
 ||lg-release-tracking-8080.gcld-line.com^
 ||lg.feoffortapetis.com^
@@ -51621,7 +51624,6 @@
 ||lowrance.top^
 ||lowremoraidon.com^
 ||lowrihouston.pro^
-||lowseceste.com^
 ||lowseelan.com^
 ||lowsmoochumom.com^
 ||lowsteelixor.com^
@@ -54374,7 +54376,6 @@
 ||marvellouspeaches.com^
 ||marvellousperforming.com^
 ||marybskitchen.com^
-||mas-e.cds1.yospace.com^
 ||mas.hronboard.me^
 ||mas.marsh.com^
 ||mas.nth.ch^
@@ -57888,7 +57889,6 @@
 ||morrolorries.top^
 ||mors22.com^
 ||morsalurluch.com^
-||mortcord.top^
 ||mortgage.equifax.com^
 ||mortgage.inform.equifax.com^
 ||mortgage.leads360.com^
@@ -60512,7 +60512,6 @@
 ||ny77jj.washingtonpost.com^
 ||nyadmcncserve-05y06a.com^
 ||nyadra.com^
-||nyanjavalva.click^
 ||nycixrayvbowpue.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||nycwfz.kigili.com^
@@ -67336,6 +67335,7 @@
 ||qaadv.com^
 ||qaagib.icu^
 ||qaapp.forever21.com^
+||qacdf511.cn^
 ||qads.io^
 ||qadserve.com^
 ||qadservice.com^
@@ -67356,6 +67356,7 @@
 ||qamnyl.bever.nl^
 ||qange.com^
 ||qappcenterv6.3g.qq.com^
+||qapzphxvkzs.com^
 ||qarewien.com^
 ||qasforsalesrep.info^
 ||qasqhi.notino.pt^
@@ -83999,6 +84000,7 @@
 ||takeallsoft.ru^
 ||takebiggainsurvey.top^
 ||takecareproduct.com^
+||takeingnana.shop^
 ||takelnk.com^
 ||takemybackup.co^
 ||takemydesk.co^
@@ -85126,6 +85128,7 @@
 ||thawpublicationplunged.com^
 ||thayed.com^
 ||thduyzmbtrb.com^
+||thdwaterverya.info^
 ||the-ozone-project.com^
 ||theactualnewz.com^
 ||theactualstories.com^
@@ -88108,6 +88111,7 @@
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
 ||tracker.mtrtb.com^
+||tracker.multisearch.io^
 ||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nbcuas.com^
@@ -91643,6 +91647,7 @@
 ||usounoul.com^
 ||usp1.baidu.com^
 ||usquegessoes.com^
+||usr.interactiveone.com^
 ||usrkrz.zdravcity.ru^
 ||ussckwroweoyv.com^
 ||ussco-dev.actonservice.com^
@@ -96689,6 +96694,7 @@
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
+||xbcpcn.com^
 ||xbcrohmposa.com^
 ||xblonthyc.com^
 ||xbmady.daimaru-matsuzakaya.jp^
