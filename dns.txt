@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-27 09:24:53（北京时间）
+! Version: 2024-08-27 20:36:46（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99801
+! Total count: 99780
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -974,7 +974,6 @@
 ||2039.4puuqeh41.com^
 ||205.209.138.102^
 ||2052.flash2-http.qq.com^
-||20539787d1.com^
 ||2059.seponews.com^
 ||2066401308.com^
 ||206ads.com^
@@ -1444,7 +1443,6 @@
 ||3400.org^
 ||3416.5clo0xmbf.com^
 ||341k4gu76ywe.top^
-||3423b141ae.com^
 ||3427.5clo0xmbf.com^
 ||345636.rhsy174op.com^
 ||3459e0cbdc.e1bb62d865.com^
@@ -2849,7 +2847,6 @@
 ||9113.5clo0xmbf.com^
 ||91199a.xyz^
 ||9119fa4031.com^
-||911b02b03b.com^
 ||9125.79j68qav2.com^
 ||9130ec9212.com^
 ||913mj.xyz^
@@ -3044,7 +3041,6 @@
 ||9ee93ebe3a.com^
 ||9eeb47afec.678aea51c0.com^
 ||9efc2a7246.com^
-||9f30f66189.com^
 ||9faf1d5c38.94870bbbc9.com^
 ||9fgh98k.com^
 ||9fum.ifeng.com^
@@ -7940,6 +7936,7 @@
 ||accwww9.53kf.com^
 ||acdcdn.com^
 ||acdcmarimo.com^
+||acdf115.cn^
 ||acdn01.vidox.net^
 ||acdn923132475.com^
 ||acdref117.cn^
@@ -8489,7 +8486,6 @@
 ||ad.tempstaff.co.jp^
 ||ad.tencentmusic.com^
 ||ad.terra.com.mx^
-||ad.terra.com^
 ||ad.theatre.co.jp^
 ||ad.theatreacademy.jp^
 ||ad.thewheelof.com^
@@ -10601,7 +10597,6 @@
 ||adx.ads.oppomobile.com^
 ||adx.baolongan.vn^
 ||adx.chinmedia.vn^
-||adx.edutimes.com.vn^
 ||adx.hoanggia.net.vn^
 ||adx.hongtinnhanh.com^
 ||adx.kul.vn^
@@ -12808,7 +12803,6 @@
 ||analytics.sohatv.vn^
 ||analytics.soluforce.com^
 ||analytics.sona-mira.co.jp^
-||analytics.sonjj.com^
 ||analytics.southpointcasino.com^
 ||analytics.spankbang.com^
 ||analytics.spark.co.nz^
@@ -12967,6 +12961,7 @@
 ||analytics.xoomenergy.com^
 ||analytics.yahoo.com^
 ||analytics.yext-static.com^
+||analytics.yicai.com^
 ||analytics.ynap.biz^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
@@ -19921,7 +19916,6 @@
 ||bulserv.com^
 ||bultaika.net^
 ||bultongpocoson.com^
-||bultowtutulus.top^
 ||buluo.qq.com^
 ||bulyiel.com^
 ||bum7.bymycar.fr^
@@ -20026,7 +20020,6 @@
 ||businesslinenow.com^
 ||businessmaking.progress.com^
 ||businessmedia.americanexpress.com^
-||businessmencrib.com^
 ||businessmenmerchandise.com^
 ||businessmensynonymmidwife.com^
 ||businessprocess.ricoh.de^
@@ -20707,7 +20700,6 @@
 ||candiedguilty.com^
 ||candiedsquall.com^
 ||candiedtouch.com^
-||candiedvolatilepeep.com^
 ||candleannihilationretrieval.com^
 ||candlingtremble.com^
 ||candouraggravate.com^
@@ -21871,6 +21863,7 @@
 ||changingof.com^
 ||chango.com^
 ||changoscressed.top^
+||channel-analysis-js.gmw.cn^
 ||channel-impact.actonservice.com^
 ||channel.cummins.com^
 ||channel.informaengage.com^
@@ -21879,7 +21872,6 @@
 ||channelevents.partnermcafee.com^
 ||channelgardeningplaster.com^
 ||channelintelligence.com^
-||channelmarket.xyz^
 ||channelportal.netsuite.com^
 ||channelsignal.actonservice.com^
 ||channelusa.samsung.com^
@@ -23387,6 +23379,7 @@
 ||collect.cap.ch^
 ||collect.chaordicsystems.com^
 ||collect.cloudsponge.com^
+||collect.deel.com^
 ||collect.elvia.ch^
 ||collect.ezidox.com^
 ||collect.helsana-preprod.ch^
@@ -24786,7 +24779,6 @@
 ||cpm.kremsondigital.com^
 ||cpm.mediahubserver.com^
 ||cpm.metaadserving.com^
-||cpm.monetixads.com^
 ||cpm.pubgenius.io^
 ||cpm.pulsefintech.net^
 ||cpm.pureadsltd.com^
@@ -25989,7 +25981,6 @@
 ||d1czd1q73kbu32.cloudfront.net^
 ||d1d0568e46.com^
 ||d1d7hwtv2l91pm.cloudfront.net^
-||d1da55a0b9.com^
 ||d1dh1gvx7p0imm.cloudfront.net^
 ||d1diqetif5itzx.cloudfront.net^
 ||d1djrodi2reo2w.cloudfront.net^
@@ -28816,7 +28807,6 @@
 ||dhlsupplychain.dhl.com^
 ||dhmdja.trueprotein.com.au^
 ||dhobeynandi.com^
-||dhobiescerasus.top^
 ||dhobisbeiges.top^
 ||dhobybailli.com^
 ||dhobyovaloid.com^
@@ -34885,7 +34875,6 @@
 ||fb55957409.com^
 ||fb99ef9239.com^
 ||fb_servpub-a.akamaihd.net^
-||fba8a9ab60.com^
 ||fbcdn2.com^
 ||fbd077ad20.fee2ceeee7.com^
 ||fbebmgbiou.com^
@@ -38572,7 +38561,6 @@
 ||gndkcpwowxnc.com^
 ||gndyowk.com^
 ||gnemxcfermkpp.com^
-||gneutously.click^
 ||gnezdo.ru^
 ||gnfavfqifukyyl.com^
 ||gnfjvt.radpowerbikes.com^
@@ -41710,7 +41698,6 @@
 ||hoppermagazineprecursor.com^
 ||hoppershortercultivate.com^
 ||hoppersill.com^
-||hoppethamfare.top^
 ||hopsigna.com^
 ||hoptopboy.com^
 ||horacemann.actonservice.com^
@@ -48161,7 +48148,6 @@
 ||kmnhgna.com^
 ||kmnkiuqfo.com^
 ||kmodukuleqasfo.info^
-||kmp.twbymc.cn^
 ||kmqghr.bristolshop.be^
 ||kmqhmn.helen-marlen.com^
 ||kmrilock.com^
@@ -61449,7 +61435,6 @@
 ||old-go.pro^
 ||old.globalservices.arrow.com^
 ||oldassist.pro^
-||oldenedkeymove.com^
 ||olderdeserved.com^
 ||oldergaleus.com^
 ||oldersfeuars.top^
@@ -62337,7 +62322,6 @@
 ||orangutan.renovare.org^
 ||oraporn.com^
 ||oratefinauknceiwo.com^
-||oratingnagmaal.com^
 ||oratorpounds.com^
 ||orbengine.com^
 ||orbidder.otto.de^
@@ -66691,7 +66675,6 @@
 ||prpops.com^
 ||prqbdfmzjs.com^
 ||prre.ru^
-||prsitecheck.com^
 ||prtadf.xyz^
 ||prtord.com^
 ||prtrackings.com^
@@ -67703,6 +67686,7 @@
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qeuckn.icu^
+||qewruty.top^
 ||qewylqmaqezzj.top^
 ||qexbcx.olx.kz^
 ||qezehqcicx.com^
@@ -70110,7 +70094,6 @@
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
 ||rhinoceros.valeriaborgese.it^
-||rhinoceros.wus.life^
 ||rhinocerosobtrusive.com^
 ||rhinowebgroup.actonservice.com^
 ||rhjcnfypo.com^
@@ -70814,7 +70797,6 @@
 ||rtb-3.xgroovy.com^
 ||rtb-apac-v4.admozartexchange.com^
 ||rtb-apac-v4.broadadx.com^
-||rtb-apac-v4.monetixads.com^
 ||rtb-apac-v4.voisetech.com^
 ||rtb-apac.adportmedia.com^
 ||rtb-apac.broadadx.com^
@@ -70831,7 +70813,6 @@
 ||rtb-eu-v4.admozartexchange.com^
 ||rtb-eu-v4.clickmi.net^
 ||rtb-eu-v4.cpmme.com^
-||rtb-eu-v4.monetixads.com^
 ||rtb-eu-v4.servvidisplay.com^
 ||rtb-eu-v4.trackifyy.com^
 ||rtb-eu-v4.voisetech.com^
@@ -73741,7 +73722,6 @@
 ||semiinfest.com^
 ||seminarcrackingconclude.com^
 ||seminarentirely.com^
-||semitaestigme.com^
 ||semqraso.net^
 ||semsicou.net^
 ||semwtaanx.xyz^
@@ -86417,6 +86397,7 @@
 ||tongj.xilu.com^
 ||tongji-res.meizu.com^
 ||tongji.mafengwo.cn^
+||tongji.techweb.com.cn^
 ||tongji.xinmin.cn^
 ||tongkhohangnhat.abphotos.link^
 ||tongsgodforsaken.com^
@@ -90481,7 +90462,6 @@
 ||twentydisappearance.com^
 ||twentydruggeddumb.com^
 ||twentyexaggerate.com^
-||twentypastime.com^
 ||twentyqueen.com^
 ||twerilxi.top^
 ||twerioi.top^
@@ -92844,7 +92824,6 @@
 ||video-streaming.ezoic.com^
 ||video.adsninja.ca^
 ||video.bzfd.it^
-||video.cdnako.com^
 ||video.dispatch.tc.qq.com^
 ||video.funnelbox.com^
 ||video.mpush.qq.com^
