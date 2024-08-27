@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-26 20:36:52（北京时间）
+! Version: 2024-08-27 09:24:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 14660
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -753,6 +753,7 @@
 @@||a.klaviyo.com/forms/api/*/full-forms?company_id=$domain=complyfoam.com
 @@||a.klaviyo.com/media/js/onsite/onsite.js$domain=kravebeauty.com
 @@||a.klaviyo.com/onsite/api/*/modules?company_id=$domain=complyfoam.com
+@@||a.lulucdn.com/js/dnsads.js
 @@||a.magsrv.com/ad-provider.js$domain=reshare.pm
 @@||a.magsrv.com/ad-provider.js$domain=rule34porn.net
 @@||a.magsrv.com/ad-provider.js$domain=veev.to
@@ -1034,6 +1035,7 @@
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||ado.delfi.ee/files/js/ado.js$script,domain=delfi.ee
+@@||adobe.io^$domain=adobe.com,stealth=3p-auth
 @@||adobe.tt.omtrdc.net/rest/v1/delivery?client=adobe&sessionId=$domain=acrobat.adobe.com
 @@||adobeactivators.blogspot.com^$generichide
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
@@ -2717,10 +2719,8 @@
 @@||cbsistatic.com/fly/bundles/flyjs/js/managers/clicktale-1.0.js$domain=cbsnews.com
 @@||cbsistatic.com/fly/js/libs/ads/bidbarrel-*.js$domain=cnet.com
 @@||cbsistatic.com/scripts/NativeAdManager.js^$domain=cbsnews.com
-@@||cc-collab.adobe.io^$stealth=3p-auth
 @@||cc.zorores.com/ad/*.vtt$domain=rapid-cloud.co
 @@||ccb.com^*^ad
-@@||cchome.adobe.io^$stealth=3p-auth
 @@||ccllaa.com^$generichide
 @@||ccna6.com^$generichide
 @@||ccnav6.com^$generichide
@@ -2800,6 +2800,7 @@
 @@||cdn.ampproject.org/v0.js$domain=amp.fakty.ua
 @@||cdn.ampproject.org^$script,domain=rocketnews24.com|soranews24.com|youpouch.com,stealth
 @@||cdn.anilife.*/assets/img/cover/$domain=anilife.*,stealth=referrer
+@@||cdn.anilife.live/assets/img/$stealth=referrer,image,domain=anilife.*
 @@||cdn.antenne.de/antenne-de/uploads^
 @@||cdn.appdynamics.com/adrum$domain=cvs.com
 @@||cdn.apple-cloudkit.com^$domain=apple.com,stealth=referrer
@@ -7320,7 +7321,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=zee5.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=zoomtventertainment.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$important,domain=digi24.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|insideedition.com|mais.sbt.com.br|pch.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|insideedition.com|pch.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=cbssports.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=maxpreps.com
