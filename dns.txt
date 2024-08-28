@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-28 09:25:40（北京时间）
+! Version: 2024-08-28 20:38:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99881
+! Total count: 99895
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2889,6 +2889,7 @@
 ||933aee6e12.3e6072834f.com^
 ||934tgg.sosqboh85.com^
 ||935ft4j96.com^
+||93692zubo66936.com^
 ||9383.k3718qw08.com^
 ||93859e8ebb.978c7cc4d9.com^
 ||938az.xyz^
@@ -10184,6 +10185,7 @@
 ||adspot.tfgapps.com^
 ||adspredictiv.com^
 ||adspsp.com^
+||adspublicidades.agency^
 ||adspy.javrank.com^
 ||adspyglass.com^
 ||adsqqclick.qq.com^
@@ -13430,6 +13432,7 @@
 ||ap.ansilumbar.com^
 ||ap.bouncelargo.com^
 ||ap.delfi.ee^
+||ap.dongqiudi.com^
 ||ap.frarychazan.com^
 ||ap.hibbett.com^
 ||ap.quadient.com^
@@ -16808,6 +16811,7 @@
 ||baiduvjsbvjknlsvsv.com^
 ||baifaphoa.com^
 ||baifen.music.baidu.com^
+||baijs010.shop^
 ||baijs010.xyz^
 ||baijs011.xyz^
 ||baijs02.shop^
@@ -25160,6 +25164,7 @@
 ||crrepo.com/ban^
 ||crrepo.com^
 ||crrm.onjoyri.de^
+||crrvuqgvkwffd.com^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
 ||crs.actonservice.com^
@@ -30213,6 +30218,7 @@
 ||douhooke.net^
 ||doujs01.shop^
 ||doujs01.xyz^
+||doujs010.shop^
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
@@ -45108,6 +45114,7 @@
 ||insights.sport1.de^
 ||insights.squintopera.com^
 ||insights.v3.decathlon.net^
+||insights.zennioptical.com^
 ||insights.zinio.com^
 ||insightseries.redbull.racing^
 ||insigit.com^
@@ -61342,6 +61349,7 @@
 ||ohimunpracticalw.info^
 ||ohjfacva.com^
 ||ohjhsopp.com^
+||ohjlghirnbkosdh.com^
 ||ohjrxj.personalizationmall.com^
 ||ohkahfwumd.com^
 ||ohkdsplu.com^
@@ -69645,6 +69653,7 @@
 ||report.meituan.com^
 ||report.qq.com^
 ||report.seznamzpravy.cz^
+||report.tv.kohesport.qq.com^
 ||report.vip.qq.com^
 ||report.vnay.vn^
 ||report1.biz^
@@ -71333,6 +71342,7 @@
 ||ry.melindacst.com^
 ||ry.seceshogam.com^
 ||ry0.rythmefm.com^
+||ryads.xyz^
 ||ryan.aomg5bzv7.com^
 ||ryanfrqxjl.com^
 ||ryauzo.xyz^
@@ -72433,6 +72443,7 @@
 ||santtacklingallaso.com^
 ||santuao.xyz^
 ||sapfailedfelon.com^
+||sapi.tremendous.com^
 ||saplvvogahhc.xyz^
 ||sapphire-api.target.com^
 ||sappmetrics.sprint.com^
@@ -81146,7 +81157,6 @@
 ||static.wlct-one.de^
 ||staticads.btopenworld.com^
 ||statics.woozooo.com^
-||staticsns.cdn.bcebos.com^
 ||staticz.hotpornfile.org^
 ||stationspire.com^
 ||statis.dsp.vn^
@@ -85340,6 +85350,7 @@
 ||tevjso.konesso.pl^
 ||tevzas.autoscout24.fr^
 ||tewisg.monster.fi^
+||tewruti.top^
 ||tewsdnka35.xyz^
 ||texacosimkin.com^
 ||text-link-ads.com^
@@ -85383,6 +85394,7 @@
 ||tfoyfx.dukefotografia.com^
 ||tfpeev.chanluu.com^
 ||tfqrqdpgarskxv.com^
+||tfqvxyajkqu.xyz^
 ||tfsqxdc.com^
 ||tfsxszw.com^
 ||tftran.shop^
@@ -90386,6 +90398,7 @@
 ||tuesdayfetidlit.com^
 ||tufcum.margaretha.se^
 ||tuffoonincaged.com^
+||tuftoawoo.xyz^
 ||tufzdj.xyz^
 ||tugngs.tui.com^
 ||tuhwjkesxo.com^
@@ -91000,7 +91013,6 @@
 ||ufewhistug.net^
 ||ufgkypfhervr.com^
 ||ufiledsit.com^
-||ufiler-pro.ru^
 ||ufiler-pro2.ru^
 ||ufinkln.com^
 ||ufjslit.top^
@@ -95168,6 +95180,7 @@
 ||whranc.cn^
 ||whreqyvajeer.com^
 ||whubouzees.com^
+||whudroots.net^
 ||whugeestauva.com^
 ||whugesto.net^
 ||whuhough.xyz^
@@ -98389,6 +98402,7 @@
 ||yhjgjk.wemakeup.it^
 ||yhjhjwy.com^
 ||yhkeqboz.com^
+||yhklljct.xyz^
 ||yhlpshi.xyz^
 ||yhlzadr.xyz^
 ||yhmhbnzz.com^
