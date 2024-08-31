@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-31 09:26:12（北京时间）
+! Version: 2024-08-31 20:35:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100028
+! Total count: 100059
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12742,6 +12742,7 @@
 ||analytics.pipelife.si^
 ||analytics.pixels.ai^
 ||analytics.plaid.com^
+||analytics.plasmic.app^
 ||analytics.plex.tv^
 ||analytics.plumbworld.co.uk^
 ||analytics.pnc.com^
@@ -13220,6 +13221,7 @@
 ||annulmentequitycereals.com^
 ||annulmentsmallest.com^
 ||annwwu.guitarcenter.com^
+||annxwustakf.com^
 ||anomalousdisembroildisembroilamy.com^
 ||anomalousmelt.com^
 ||anomalousporch.com^
@@ -15869,6 +15871,7 @@
 ||aunsaick.com^
 ||aunstollarinets.com^
 ||auntdrawing.com^
+||auntishmilty.com^
 ||auntlyseniors.top^
 ||auobxpvjej.xyz^
 ||auoehd.liebscher-bracht.com^
@@ -20838,6 +20841,7 @@
 ||capybara.civicsoftwarefoundation.org^
 ||capybara.kylewinton.com^
 ||capybara.randyhamiltonelectric.com^
+||caqreg.xyz^
 ||car-a8.tabirai.net^
 ||car-bidpush.net^
 ||car-cra.sh^
@@ -20913,6 +20917,7 @@
 ||carnivorouswordsroute.com^
 ||caroakitab.com^
 ||carolina.actonservice.com^
+||carousepygopod.com^
 ||carp.acda.app^
 ||carp.amespacios.com^
 ||carp.pbncontent.com^
@@ -21470,6 +21475,7 @@
 ||cdn.quagfa.com^
 ||cdn.rapolok.com^
 ||cdn.rausfml.com^
+||cdn.ravm.tv^
 ||cdn.rawqel.com^
 ||cdn.read.html5.qq.com^
 ||cdn.responsiq.com^
@@ -22199,6 +22205,7 @@
 ||chocohjuanfhdhf.com^
 ||chocolatebushbunny.com^
 ||chocolatesingconservative.com^
+||chocolatine.apexlegendsstatus.com^
 ||choconart.com^
 ||choiceencounterjackson.com^
 ||choicesvendace.top^
@@ -22209,6 +22216,7 @@
 ||cholatetapalos.com^
 ||chong-wu.net^
 ||choocmailt.com^
+||choocmee.com^
 ||choogeet.net^
 ||choomsiesurvey.top^
 ||choongou.com^
@@ -23964,6 +23972,7 @@
 ||connect.abm.netapp.com^
 ||connect.acams.org^
 ||connect.acspubs.org^
+||connect.airfrance.com/ach/api/event^
 ||connect.arkadin.com^
 ||connect.aucmed.edu^
 ||connect.azulseven.com^
@@ -30120,6 +30129,7 @@
 ||donemagbuy.live^
 ||donescaffold.com^
 ||donfailrank.live^
+||donferiae.click^
 ||donghua.asia^
 ||donglogs.com^
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
@@ -34932,6 +34942,7 @@
 ||faultspiano.com^
 ||fauneeptoaso.com^
 ||fausothaur.com^
+||fauvekintra.com^
 ||fauwhoocoa.com^
 ||fauzxn.hairlavie.com^
 ||favaqo.xyz^
@@ -37206,6 +37217,7 @@
 ||g12083144435.co^
 ||g12281228770.co^
 ||g1584674682.co^
+||g1584674684.co^
 ||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
@@ -37512,6 +37524,7 @@
 ||gbc27.online^
 ||gbddeyjekkixrn.com^
 ||gbfedashb4.fun^
+||gbgedashb8.fun^
 ||gbiyigdsgu.com^
 ||gbl.radware.com^
 ||gblcdn.com^
@@ -46419,6 +46432,7 @@
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
 ||jdipsuma.top^
+||jditera.top^
 ||jdjxjelhrxy.com^
 ||jdkmbvbyy.com^
 ||jdlmjessy.com^
@@ -49660,6 +49674,7 @@
 ||lewhrzv.xyz^
 ||lewiooz.cn^
 ||lewis.gct.com^
+||lewrutl.top^
 ||lexicoggeegaw.website^
 ||lexip.4pcdn.de^
 ||lexvek.gap.ae^
@@ -51069,6 +51084,7 @@
 ||lleo.top^
 ||llkdiu.chacos.com^
 ||llksja.com^
+||lllshkre.com^
 ||llmeocaptainh.com^
 ||llmxt.fun^
 ||llntrack.messe-duesseldorf.de^
@@ -54629,6 +54645,7 @@
 ||marshalembeddedtreated.com^
 ||marshinsurance.actonservice.com^
 ||marshwhisper.com^
+||marsoonlayup.com^
 ||marspearelct.com^
 ||marsupial.dbcontractingltd.ca^
 ||marsupial.kymellis.co^
@@ -54820,6 +54837,7 @@
 ||maysunown.live^
 ||mayule.xyz^
 ||maz.zba.jp^
+||mazdeangastrea.com^
 ||mazefoam.com^
 ||mazu.3g.qq.com^
 ||mazu.m.qq.com^
@@ -58230,6 +58248,7 @@
 ||motorsports.locktonaffinity.net^
 ||motsardi.net^
 ||motsjnv.cn^
+||mouesdefaces.click^
 ||moulterrouses.top^
 ||moumstetjk.com^
 ||mounaiwu.net^
@@ -58679,6 +58698,7 @@
 ||musicid.samsungcloudsolution.com^
 ||musicnote.info^
 ||musicsometimes.com^
+||musieblolly.com^
 ||muskox.appital.io^
 ||muskurahat.com^
 ||muskurahatmusic.com^
@@ -60134,6 +60154,7 @@
 ||nnxijkdigwywla.com^
 ||no.resailslemures.com^
 ||no2veeamggaseber.com^
+||no88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noa.yahoo.com^
 ||noa0.compteczam.fr^
@@ -61206,6 +61227,7 @@
 ||octopusiron.com^
 ||octopusnewsmagazine.com^
 ||octopuspop.com^
+||octotracking.com^
 ||octrol.com^
 ||ocular.dealabs.com^
 ||ocular.mydealz.de^
@@ -64301,7 +64323,6 @@
 ||perf.hsforms.com^
 ||perf.mouser.com^
 ||perfb.com^
-||perfdrive.com^
 ||perfectaudience.com^
 ||perfectflowing.com^
 ||perfectionministerfeasible.com^
@@ -66519,6 +66540,7 @@
 ||prod.nitrosniffer.ottogroup.io^
 ||prod.one.lt^
 ||prod.report.nacustomerexperience.citi.com^
+||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||prod.tracking.refinitiv.com^
 ||prod.untd.com^
 ||prodaddkarl.com^
@@ -70687,6 +70709,7 @@
 ||romivapsi.com^
 ||romiyee.icu^
 ||romotur.actonservice.com^
+||romperspardesi.com^
 ||rompishvariola.com^
 ||romtheoth.work^
 ||ronm.top^
@@ -71739,6 +71762,7 @@
 ||s.usenix.org^
 ||s.utop.vn^
 ||s.valuemedia-ltd.com^
+||s.vibe.co^
 ||s.vlink6.com^
 ||s.vucko.co^
 ||s.vws4brkfst.com^
@@ -74002,6 +74026,7 @@
 ||senlvg.secretsdujeu.com^
 ||sennaalopeke.top^
 ||senonsiatinus.com^
+||senorasdatchas.com^
 ||sensationnominatereflect.com^
 ||sense.cliexa.com^
 ||sensefifth.com^
@@ -79536,6 +79561,7 @@
 ||sp.newsleader.com^
 ||sp.northjersey.com^
 ||sp.pal-item.com^
+||sp.pcoptimum.ca^
 ||sp.pnj.com^
 ||sp.portclintonnewsherald.com^
 ||sp.postcrescent.com^
@@ -84349,6 +84375,7 @@
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
 ||tag.nifty.com^
+||tag.pearldiver.io^
 ||tag.pprl.io^
 ||tag.regieci.com^
 ||tag.rightmessage.com^
@@ -90348,7 +90375,6 @@
 ||try.postmuseapp.com^
 ||try.tableau.com^
 ||try.tableausoftware.com^
-||trycloudflare.com^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
 ||trymysadoroh.site^
@@ -95073,6 +95099,7 @@
 ||wh.giftd.tech^
 ||wh.ipaddress.com^
 ||whaacgqzyaz.com^
+||whachaun.net^
 ||whackresolved.com^
 ||whadupsi.net^
 ||whagrolt.com^
@@ -95955,6 +95982,7 @@
 ||wpgobx.feber.se^
 ||wpgobx.marcusoscarsson.se^
 ||wph2.destinia.us^
+||wpiajkniqnty.com^
 ||wpihekqpm.xyz^
 ||wpinfnyp.com^
 ||wpjhenqutmdzd.com^
@@ -97189,6 +97217,7 @@
 ||x.sexhd.pics^
 ||x.sumikai.com^
 ||x.timesunion.com^
+||x.trvdp.com^
 ||x.weather.com^
 ||x.xtar.io^
 ||x.xxxbf.tv^
@@ -99287,6 +99316,7 @@
 ||zapunited.com^
 ||zaqxwnwwtx.com^
 ||zarame.uno^
+||zarebasdezaley.com^
 ||zarpop.com^
 ||zationservantas.info^
 ||zationsuchasr.com^
@@ -99679,6 +99709,7 @@
 ||zmwbrza.com^
 ||zmyjessp.com^
 ||zmyopn.babadotop.com.br^
+||zmysashrep.com^
 ||zmzkyj.agrieuro.com^
 ||zn.glucinasileni.com^
 ||znaptag.com^
