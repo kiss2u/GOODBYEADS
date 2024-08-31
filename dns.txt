@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-30 20:37:02（北京时间）
+! Version: 2024-08-31 09:26:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100015
+! Total count: 100028
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -18796,6 +18796,7 @@
 ||bnc.tripcody.com^
 ||bncloudfl.com^
 ||bnczrbrhiacp.com^
+||bndxrr.xyz^
 ||bnevymqyjji.com^
 ||bnfhxszj.xyz^
 ||bnfoeabisp.com^
@@ -37612,6 +37613,7 @@
 ||geckoesdeport.top^
 ||gecl.xyz^
 ||ged46.xyz^
+||gedashb112.fun^
 ||gedozw.autoscout24.cz^
 ||geechaid.xyz^
 ||geede.info^
@@ -38281,6 +38283,7 @@
 ||gjkame6.com^
 ||gjknyqmvrluao.com^
 ||gjljde.kathmandu.co.nz^
+||gjmedashb0.fun^
 ||gjmovc.epapoutsia.gr^
 ||gjndsa.amaro.com^
 ||gjnzqdpzda.com^
@@ -39091,6 +39094,7 @@
 ||go.reach.utep.edu^
 ||go.real.co^
 ||go.redanemone.xyz^
+||go.redgifs.com^
 ||go.rex-bac-t.com^
 ||go.ridgid.emerson.com^
 ||go.riosalado.edu^
@@ -40389,6 +40393,7 @@
 ||hades.qyer.com^
 ||hadfrizzprofitable.com^
 ||hadmiredinde.info^
+||hadronid.net^
 ||hadsans.com^
 ||hadsanz.com^
 ||hadseaside.com^
@@ -42159,6 +42164,7 @@
 ||htufhvsglyoy.com^
 ||hturnshal.com^
 ||htwueeruimy.com^
+||htxwzp.xyz^
 ||hty9m.cn^
 ||htyrmacanbty.com^
 ||htysiboswaj.com^
@@ -42767,6 +42773,7 @@
 ||idioticstoop.com^
 ||idiotproprietary.com^
 ||idipsumo.top^
+||iditero.top^
 ||idjcymxwbjqxum.com^
 ||idkmgzkdhanmz.com^
 ||idkom.com^
@@ -48371,6 +48378,7 @@
 ||koaneeto.xyz^
 ||koapsout.com^
 ||koapsuha.net^
+||koauq.top^
 ||kobeden.com^
 ||kobetu.grand1corp.com^
 ||kocairdo.net^
@@ -58797,7 +58805,6 @@
 ||mxpdsu.bhv.fr^
 ||mxpl.9gag.com^
 ||mxplwkgqfvln.com^
-||mxpnl.com^
 ||mxptint.net^
 ||mxsvjc.hackers.ac^
 ||mxtads.com^
@@ -61190,6 +61197,7 @@
 ||octmikvehs.com^
 ||octobergypsydeny.com^
 ||octolinkcom.me^
+||octonewjs.com^
 ||octopidroners.com^
 ||octopod.cc^
 ||octopus.evobend.com^
@@ -65945,6 +65953,7 @@
 ||postgraduate2.smu.edu.sg^
 ||posthog.tarnkappe.info^
 ||postlnk.com^
+||postokdesk.live^
 ||postrelease.com^
 ||postthieve.com^
 ||postureunlikeagile.com^
@@ -71721,6 +71730,7 @@
 ||s.toronto.com^
 ||s.toutiao.com^
 ||s.toyotafinancial.com^
+||s.trvdp.com^
 ||s.tuoitre.vn^
 ||s.umba.com^
 ||s.union.360.cn^
@@ -75249,6 +75259,7 @@
 ||skatingpenitence.com^
 ||skatingperformanceproblems.com^
 ||skatistlollard.com^
+||skaumbp.icu^
 ||skawwebless.com^
 ||skbnfa.filorga.com^
 ||skcrtxr.com^
@@ -97091,6 +97102,7 @@
 ||wxoywtyuj.com^
 ||wxs.qq.com^
 ||wxseedslpi.com^
+||wxsicu.xyz^
 ||wxsignin.top^
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
@@ -99798,6 +99810,7 @@
 ||zrdga.cn^
 ||zrijfnmfiiaik.com^
 ||zrjllb.zeb.be^
+||zrkksps.icu^
 ||zrknjk.countrystorecatalog.com^
 ||zrktaa.cityfurniture.com^
 ||zrljzgs.xyz^

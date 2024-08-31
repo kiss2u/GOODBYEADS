@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-30 20:37:02（北京时间）
+! Version: 2024-08-31 09:26:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 14606
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10867,6 +10867,7 @@
 @@||prog.co.il^$generichide
 @@||programasvirtualespc.net^$generichide
 @@||programminggeek.in^$generichide
+@@||progress.org.uk/wp-content/plugins/adsanity-adblock-detection/public/js/ads.js$~third-party
 @@||projetomotog.blogspot.com^$generichide
 @@||promipool.com^$generichide
 @@||promo-visits.site^$generichide
@@ -13444,7 +13445,6 @@
 @@||ttsfree.com/adex.js
 @@||ttsfree.com^$generichide
 @@||ttsmp3.com^$generichide
-@@||tube.buzzoola.com$domain=anidub.com
 @@||tubeland.site^$generichide
 @@||tubeninja.net/ads.js^
 @@||tubeoffline.com/js/hot.min.js
