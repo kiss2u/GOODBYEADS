@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-01 20:35:14（北京时间）
+! Version: 2024-09-02 09:35:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 14608
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -3575,6 +3575,7 @@
 @@||comandotorrentshds.org^$generichide
 @@||comcast.net^$stealth
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
+@@||comci.net^$stealth
 @@||comeresaprensasl.tt.omtrdc.net/rest/v*/delivery$domain=elcomercio.es|eldiariomontanes.es|elcorreo.com|lasprovincias.es|hoy.es|ideal.es
 @@||comingsoon.it^$generichide
 @@||commentimemorabili.it^$generichide
@@ -6622,7 +6623,6 @@
 @@||healthcare.gov/marketplace/*/clear.gif?
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||healthspiritbody.com^$generichide
-@@||healthyadvertising.es^$~third-party
 @@||healthytotal.net^$generichide
 @@||heardaccumulatebeans.com/*/*/*/*.js$domain=vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz|go-streamer.net
 @@||heartyhosting.com^$domain=muscleandfitness.com
