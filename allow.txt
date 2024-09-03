@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-03 09:25:51（北京时间）
+! Version: 2024-09-03 20:38:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14554
+! Total count: 14555
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -960,6 +960,7 @@
 @@||adblock.adguard.com^
 @@||adblockanalytics.com/ads.js|
 @@||adblockanalytics.com/wp-banners.js|
+@@||adblockanalytics.com/|$xmlhttprequest,domain=ontools.net
 @@||adblockanalytics.com/|$xmlhttprequest,domain=store.asus.com
 @@||adblockanalytics.com^$xmlhttprequest,domain=chd4.com
 @@||adblockanalytics.com^|$domain=pearos.xyz
