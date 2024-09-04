@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-04 09:33:56（北京时间）
+! Version: 2024-09-04 20:38:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14549
+! Total count: 14559
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -2815,6 +2815,7 @@
 @@||cdn.clerk.io/clerk.js$domain=dehardloopwinkel.nl
 @@||cdn.clerk.io/clerk.js$domain=garmont.com
 @@||cdn.clerk.io/clerk.js$domain=globaltools.dk|globaltools.no|globaltools.se
+@@||cdn.clerk.io/clerk.js$domain=industrivarer.no
 @@||cdn.cloudflare.net^$stylesheet,script,xmlhttprequest,domain=cocomanga.com|cocomanga.com
 @@||cdn.cnn.com/ads/adfuel/adfuel-*.min.js$domain=arabic.cnn.com
 @@||cdn.cnn.com/ads/adfuel/ais/*/cnngo-ais.min.js$domain=go.cnn.com
@@ -2935,6 +2936,7 @@
 @@||cdn.krxd.net/controltag/*.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||cdn.lib.getjad.io/library/$domain=purepeople.com
 @@||cdn.lib.getjad.io/prebid/$domain=purepeople.com
+@@||cdn.livechatinc.com/tracking.js$domain=bitdefender.com
 @@||cdn.livechatinc.com/tracking.js$domain=freedompop.com
 @@||cdn.lsicloud.net/kendall/Images/AD/$domain=shop.kendallelectric.com
 @@||cdn.mangaeden.com/js/ad/advertisement.js
@@ -5775,6 +5777,7 @@
 @@||googleads.g.doubleclick.net/pagead/id$xmlhttprequest,domain=sanoybonito.club
 @@||googleads.g.doubleclick.net/pagead/images/abg$domain=lolalytics.com
 @@||googleads.g.doubleclick.net/pagead/interaction/$domain=starkroboticsfrc.com|cryptednews.space|seoliv.com|waezg.xyz|blackwoodacademy.org|lifgam.online|crypto-radio.eu|tiktokcounter.net
+@@||googleads.g.doubleclick.net/pagead/js/adsbygoogle.js$xmlhttprequest,domain=werfgt.fun
 @@||googleads.g.doubleclick.net^$domain=fplstatistics.com
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$domain=mako.co.il
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$domain=rmfmaxxx.pl
@@ -9486,6 +9489,7 @@
 @@||p30download.ir^$stealth=dpi
 @@||pagead2.googleadservices.com^$domain=sportshub.to
 @@||pagead2.googleadservices.com^|$domain=sportfacts.net|topsporter.net
+@@||pagead2.googleadservices.com^|$xmlhttprequest,domain=werfgt.fun
 @@||pagead2.googlesyndication.com/favicon.ico$domain=hacksnation.com
 @@||pagead2.googlesyndication.com/getconfig/sodar$domain=forum.release-apk.com
 @@||pagead2.googlesyndication.com/getconfig/sodar$domain=freemcserver.net
@@ -12298,6 +12302,7 @@
 @@||ssl.google-analytics.com/ga_exp.js$domain=hvg.hu
 @@||ssl.google-analytics.com^$domain=sportshub.to
 @@||ssl.google-analytics.com^|$domain=sportfacts.net|topsporter.net
+@@||ssl.google-analytics.com^|$xmlhttprequest,domain=werfgt.fun
 @@||ssl.kaptcha.com/collect/$domain=auth.wyze.com
 @@||ssl.kaptcha.com/collect/$domain=balance.vanillagift.com
 @@||ssl.kaptcha.com/collect/$domain=mybalancenow.com
@@ -12438,6 +12443,7 @@
 @@||static.clmbtech.com/ad/commons/js/colombia_v2.js$domain=indiatimes.com
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||static.cloudflareinsights.com/beacon.min.js$domain=sportfacts.net|topsporter.net
+@@||static.cloudflareinsights.com/beacon.min.js$xmlhttprequest,domain=werfgt.fun
 @@||static.cloudflareinsights.com/beacon.min.js^$domain=sportshub.to
 @@||static.criteo.net/images/pixel.gif$domain=diariodenavarra.es
 @@||static.criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
@@ -12495,6 +12501,7 @@
 @@||static.leaddyno.com/js$script,domain=s4l.us
 @@||static.media.net^$domain=sportshub.to
 @@||static.media.net^|$domain=sportfacts.net|topsporter.net
+@@||static.media.net^|$xmlhttprequest,domain=werfgt.fun
 @@||static.mediav.com/js/feed_ts.js$domain=jianshu.com
 @@||static.mega.co.nz/*/html/pdf$extension,jsinject,elemhide,content
 @@||static.mega.nz/*/html/*.html$document
@@ -12566,6 +12573,7 @@
 @@||stats.g.doubleclick.net^$domain=sportshub.to
 @@||stats.g.doubleclick.net^|$app=com.nttdocomo.android.danimeapp
 @@||stats.g.doubleclick.net^|$domain=sportfacts.net|topsporter.net
+@@||stats.g.doubleclick.net^|$xmlhttprequest,domain=werfgt.fun
 @@||stats.jtvnw.net/crossdomain.xml
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
@@ -12573,6 +12581,7 @@
 @@||stats.wnba.com/templates/angular/tables/events/$~third-party
 @@||stats.wp.com^$domain=sportshub.to
 @@||stats.wp.com^|$domain=sportfacts.net|topsporter.net
+@@||stats.wp.com^|$xmlhttprequest,domain=werfgt.fun
 @@||staty.portalradiowy.pl/wstats/$script,third-party
 @@||stbemuprocode.com^$generichide
 @@||stc.cdncache.xyz/*/*.css$domain=streamz.ws
@@ -13181,6 +13190,7 @@
 @@||top.list.ru/jump?from=$domain=pvo.guns.ru
 @@||top1porn.com^$generichide
 @@||topdanet.me^$generichide
+@@||topembed.pw^$stealth=referrer
 @@||topflix.tv^$generichide
 @@||tophostingapp.com^$generichide
 @@||toplay.biz/log_event$~third-party,xmlhttprequest

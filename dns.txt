@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-04 09:33:56（北京时间）
+! Version: 2024-09-04 20:38:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100027
+! Total count: 100036
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2004,7 +2004,6 @@
 ||55726zubo56686.com^
 ||5581.4puuqeh41.com^
 ||558ao12sqrok.top^
-||558c41c6ef.com^
 ||5596.34gwl8v1a.com^
 ||55fa118139.2ffabf3b1d.com^
 ||5600.cosmicnewspulse.com^
@@ -2290,7 +2289,6 @@
 ||669fb3128e4b4.com^
 ||66ac068b15.5500a1052e.com^
 ||66av.cc^
-||66fb5240da.com^
 ||66jo.societegenerale.fr^
 ||670d3773bc.bf4f3dc283.com^
 ||671c.pandasuite.io^
@@ -8460,7 +8458,6 @@
 ||ad.jeune-independant.net^
 ||ad.jibunde-esute.com^
 ||ad.jorte.com^
-||ad.jp.ap.g.valuecommerce.com^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.juksy.com^
 ||ad.kaskus.co.id^
@@ -8547,7 +8544,6 @@
 ||ad.serv1for.pro^
 ||ad.services.tvn.pl^
 ||ad.shinjuku-mens-chuoh.com^
-||ad.sigortagundem.biz^
 ||ad.simgames.net^
 ||ad.simpledesign.ltd^
 ||ad.smaad.jp^
@@ -9755,7 +9751,6 @@
 ||ads.jewishfriendfinder.com^
 ||ads.jianchiapp.com^
 ||ads.jobsite.co.uk^
-||ads.jp.ap.g.valuecommerce.com^
 ||ads.justhungry.com^
 ||ads.kaktuz.net^
 ||ads.kelbymediagroup.com^
@@ -9805,7 +9800,6 @@
 ||ads.nghenhinvietnam.vn^
 ||ads.nguoiduatin.vn^
 ||ads.nhadatmoi.net^
-||ads.nicovideo.jp^
 ||ads.nj.com^
 ||ads.nola.com^
 ||ads.nordichardware.com^
@@ -11257,6 +11251,7 @@
 ||aigenstud.com^
 ||aigheebsu.net^
 ||aigneloa.com^
+||aigniltosesh.net^
 ||aigretenew.top^
 ||aigsgwowkb.com^
 ||aihoasso.net^
@@ -17770,7 +17765,6 @@
 ||belgium.wolterskluwer.com^
 ||belgrekblackad.com^
 ||belia-glp.com^
-||belicimo.pw^
 ||belickitungchan.com^
 ||beliefnormandygarbage.com^
 ||believableboy.com^
@@ -21629,6 +21623,7 @@
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdnweb2analytics.com^
 ||cdnweb3.pages.dev^
 ||cdnwidget.com^
 ||cdojukbtib.com^
@@ -22960,7 +22955,6 @@
 ||clknrtrg.pro^
 ||clkofafcbk.com^
 ||clkrev.com^
-||clkromtor.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
 ||clkwnl.xyz^
@@ -24810,6 +24804,7 @@
 ||cpabeyond.com^
 ||cpaclicks.com^
 ||cpaconvtrk.net^
+||cpacrack.com^
 ||cpactions.com^
 ||cpalabtracking.com^
 ||cpalead.com^
@@ -27015,6 +27010,7 @@
 ||d8c5y8fq3znwi.cloudfront.net^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d8dcj5iif1uz.cloudfront.net^
+||d8f0d7e2c9.com^
 ||d8fd54c4c5.7807091956.com^
 ||d8xy39jrbjbcq.cloudfront.net^
 ||d90z5o386dhs7.cloudfront.net^
@@ -27742,6 +27738,7 @@
 ||data.t.worldvision.ca^
 ||data.tc.jetstar.com^
 ||data.thepointsguy.com^
+||data.tm-awx.com^
 ||data.tmail.northeast.aaa.com^
 ||data.torry.io^
 ||data.transaction.giftcards.com^
@@ -30179,6 +30176,7 @@
 ||doppler-reporting.cbsivideo.com^
 ||doprinplupr.com^
 ||doptik.ru^
+||dopub.site^
 ||doraikouor.com^
 ||dorangesource.alicdn.com^
 ||dorasuther.top^
@@ -35262,6 +35260,7 @@
 ||ffcclqkmmlmecf.xyz^
 ||ffdafx.xyz^
 ||ffe390afd658c19dcbf707e0597b846d.de^
+||ffe3ca7ae5.com^
 ||ffesutnkrvy.com^
 ||fffbd1538e.com^
 ||ffffff0000ff.com^
@@ -37511,6 +37510,7 @@
 ||gctnkqjelwnwlcx.com^
 ||gcudsn.tradetested.co.nz^
 ||gcumgu.xyz^
+||gcvcdashb2.fun^
 ||gcvgedashb3.fun^
 ||gcw*.2liang.cn^
 ||gcwubi.happypancake.fi^
@@ -37594,6 +37594,7 @@
 ||geiybze.com^
 ||gejusherstertithap.info^
 ||gejzgq.gehaltsvergleich.com^
+||gekeebsirs.com^
 ||gekkocondo.top^
 ||gekroome.com^
 ||gelatineabstainads.com^
@@ -44116,6 +44117,7 @@
 ||influenzathumphumidity.com^
 ||influxtabloidkid.com^
 ||influxtravellingpublicly.com^
+||infnexhjihlxyhf.xyz^
 ||info-fsi.stanford.edu^
 ||info-pacific.marsh.com^
 ||info-trek.actonservice.com^
@@ -45604,6 +45606,7 @@
 ||ipv4-cs.intsig.net.iberostar.com^
 ||ipv4.gdt.qq.com^
 ||ipv4.kkmh.com^
+||ipvertnet.com^
 ||ipyjxs.chowsangsang.com^
 ||ipzolkgn.com^
 ||iq.intellicyt.com^
@@ -60305,6 +60308,7 @@
 ||notionfoggy.com^
 ||notionsshrivelcustomer.com^
 ||notionstayed.com^
+||notix.io^
 ||notjdyincro.com^
 ||notmining.org^
 ||notonthebedsheets.com^
@@ -60474,6 +60478,7 @@
 ||nrjcur.pomelofashion.com^
 ||nrnma.com^
 ||nrnmsqpjghj.com^
+||nrqjoxar.com^
 ||nrqppdgnhaagjq.com^
 ||nrquff.supurgemarket.com^
 ||nrrgyk.hair-gallery.it^
@@ -63506,6 +63511,7 @@
 ||painlightly.com^
 ||painsdire.com^
 ||paintednarra.top^
+||paintejuke.com^
 ||paintersusainc.actonservice.com^
 ||paintwandering.com^
 ||paipsuto.com^
@@ -65608,6 +65614,7 @@
 ||pointsconcedecasual.com^
 ||pointyenrapturetheological.com^
 ||poiseacacialaw.com^
+||poisegel.com^
 ||poisism.com^
 ||poisom.com^
 ||poisonencouragement.com^
@@ -68260,6 +68267,7 @@
 ||quensillo.com^
 ||queresspurdie.com^
 ||querulous-type.com^
+||query1.petametrics.com^
 ||queryaccidentallysake.com^
 ||queryhookczar.com^
 ||querylead.com^
@@ -75134,7 +75142,6 @@
 ||sitamedal2.online^
 ||sitamedal3.online^
 ||sitamedal4.online^
-||sitaopiqure.com^
 ||site-azp.slgnt.eu^
 ||site-config.com^
 ||site-kaiseki-tool.com^
@@ -84543,6 +84550,7 @@
 ||taprtopcldfb.co^
 ||tapsell.ir^
 ||tapsense.com^
+||tapwhigwy.com^
 ||tarantula.emotionalbaking.com^
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
@@ -85545,6 +85553,7 @@
 ||thanstruggling.com^
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
+||thargookroge.net^
 ||thatbeefysit.com^
 ||thatmonkeybites3.com^
 ||thauckeesse.net^
@@ -86385,7 +86394,6 @@
 ||tmlwvxae.xyz^
 ||tmnsstf.com^
 ||tmoclbf.icu^
-||tmozs.com^
 ||tmpbr.getgifted.com^
 ||tmrhpl.nurse-agent.com^
 ||tmrjaghtledm.com^
@@ -92010,6 +92018,7 @@
 ||urueuah.cn^
 ||uruftio.com^
 ||uruswan.com^
+||urutvnct.top^
 ||urvgwij.com^
 ||urxbvw.tui.nl^
 ||us-api.samsungyosemite.com^
@@ -93164,7 +93173,6 @@
 ||viiioktg.com^
 ||viiith.com^
 ||viiithia.com^
-||viiithiang.com^
 ||viiithical.com^
 ||viiithin.com^
 ||viiithinks.com^
@@ -95282,6 +95290,7 @@
 ||whuhough.xyz^
 ||whujoagh.net^
 ||whukroal.net^
+||whulrima.xyz^
 ||whulsaux.com^
 ||whunpainty.com^
 ||whupsoza.xyz^
