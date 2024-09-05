@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-04 20:38:43（北京时间）
+! Version: 2024-09-05 09:34:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100036
+! Total count: 100057
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -599,6 +599,7 @@
 ||1558334541.rsc.cdn77.org^
 ||155zn.com^
 ||157.90.183.248^
+||1588341617.rsc.cdn77.org^
 ||1589.5clo0xmbf.com^
 ||1593.79j68qav2.com^
 ||1595.79j68qav2.com^
@@ -8381,7 +8382,6 @@
 ||ad.belleeau.jp^
 ||ad.bench.utorrent.com^
 ||ad.bitmedia.io^
-||ad.bizo.com^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
 ||ad.bondage.com^
@@ -10726,6 +10726,7 @@
 ||ae0ab46046.6ce02869b9.com^
 ||ae1a1e258b8b016.com^
 ||ae2a82cf20.62ca04e27a.com^
+||ae2f6a33e6.com^
 ||aeace15a82.com^
 ||aeaw.cn^
 ||aeb92e4b9d.com^
@@ -11208,6 +11209,7 @@
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||ahporntube.com^
 ||ahpphkc.xyz^
+||ahqovxli.com^
 ||ahqpqpdjpj.com^
 ||ahscdn.com^
 ||ahsxot.meaningfulbeauty.com^
@@ -13276,6 +13278,7 @@
 ||ans.yesnetwork.com^
 ||anseisjulus.com^
 ||anselmbowwows.com^
+||ansilumbar.com^
 ||ansusalina.com^
 ||answeredthechi.org^
 ||answerroad.com^
@@ -16787,6 +16790,7 @@
 ||backwardkneesencroach.com^
 ||bacmordijy.net^
 ||baconbedside.com^
+||baculatowser.com^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||badeldestarticulate.com^
 ||badgeclodvariable.com^
@@ -22301,6 +22305,7 @@
 ||chullohagrode.com^
 ||chultoux.com^
 ||chumsaft.com^
+||chunderrepiner.com^
 ||chunkstoreycurled.com^
 ||chunmiaosh.com^
 ||chuptuwais.com^
@@ -22924,7 +22929,6 @@
 ||clisatf.top^
 ||cliv2508.com^
 ||cliwxuqjbhg.xyz^
-||clix.vn^
 ||clixcrafts.com^
 ||clixforads.com^
 ||clixgalore.com^
@@ -23398,6 +23402,7 @@
 ||coinblocktyrusmiram.com^
 ||coinhive.com^
 ||coinio.cc^
+||coinsmanning.com^
 ||coinverti.com^
 ||cojvur.icu^
 ||cokepompositycrest.com^
@@ -24591,6 +24596,7 @@
 ||cosmicnewspulse.com^
 ||cosmicpartially.com^
 ||cosmo001.top^
+||cosouy.xyz^
 ||costaquire.com^
 ||costarg.com^
 ||costco-adbutler.com^
@@ -27738,7 +27744,6 @@
 ||data.t.worldvision.ca^
 ||data.tc.jetstar.com^
 ||data.thepointsguy.com^
-||data.tm-awx.com^
 ||data.tmail.northeast.aaa.com^
 ||data.torry.io^
 ||data.transaction.giftcards.com^
@@ -28031,6 +28036,7 @@
 ||dcs.espritshop.pl^
 ||dcs.plussizetech.com^
 ||dcs.reiseversicherung.de^
+||dcsewjll.com^
 ||dcsqim.socialdeal.nl^
 ||dcsxv.com^
 ||dct.mango-office.ru^
@@ -28420,7 +28426,6 @@
 ||delivery49.com^
 ||delivery51.com^
 ||deliverydom.com^
-||deliveryengine.adswizz.com^
 ||deliverymod.com^
 ||deliverymodo.com^
 ||deliverytrafficnews.com^
@@ -30598,6 +30603,7 @@
 ||drubbersestia.com^
 ||drublylamboy.top^
 ||druggedforearm.com^
+||druggertruckle.com^
 ||drugtest.questdiagnostics.com^
 ||druguniverseinfected.com^
 ||drulilqe8wg66.cloudfront.net^
@@ -34675,7 +34681,6 @@
 ||fadssystems.com^
 ||fadszone.com^
 ||fadtetbwsmk.xyz^
-||fadverdirect.com^
 ||fae46gussylvatica.com^
 ||faecesjazies.top^
 ||faefibdom.top^
@@ -36911,7 +36916,6 @@
 ||funnelserv.systems^
 ||funneltourdreams.com^
 ||funnysack.com^
-||funpageexchange.com^
 ||funsoups.com^
 ||funtoday.info^
 ||funyarewesbegi.com^
@@ -37342,6 +37346,7 @@
 ||gandmotivatin.info^
 ||gandrad.org^
 ||ganehangmen.com^
+||gangerburler.com^
 ||ganglia.aomg5bzv7.com^
 ||gangsterpracticallymist.com^
 ||gangsterstillcollective.com^
@@ -37573,6 +37578,7 @@
 ||geckoesdeport.top^
 ||gecl.xyz^
 ||ged46.xyz^
+||gedafdshb7.fun^
 ||gedashb112.fun^
 ||gedozw.autoscout24.cz^
 ||geechaid.xyz^
@@ -39496,6 +39502,7 @@
 ||gougersorrier.top^
 ||gouheethsurvey.space^
 ||goulbap287evenost.com^
+||gounevou.net^
 ||gourgoldpieceso.com^
 ||gousouse.com^
 ||gousy11.top^
@@ -39573,6 +39580,7 @@
 ||gqtnjdflx.com^
 ||gqubkbuinx.com^
 ||gqusbheifyoqubu.com^
+||gqwwshbdd1.fun^
 ||gr-business.vodafone.com^
 ||gr-go.experian.com^
 ||gr.a23.in^
@@ -41036,6 +41044,7 @@
 ||herringlife.com^
 ||herslenderw.info^
 ||herynore.com^
+||hesads.akamaized.net^
 ||hesatinaco.com^
 ||hesatinacorne.org^
 ||hesconet.actonservice.com^
@@ -42637,6 +42646,7 @@
 ||icalnormaticalacyc.info^
 ||icas.ikea.com^
 ||icas.ikea.net^
+||icasmarbor.com^
 ||icaubf.casamundo.de^
 ||iccjkn.icu^
 ||icdirect.com^
@@ -42848,6 +42858,7 @@
 ||ifqirmnkrlv.com^
 ||ifqtfo.rugsusa.com^
 ||iframe.lachainemeteo.com^
+||iframe.porndudegirls.com^
 ||iframes.pornprosnetwork.com^
 ||ifrjnpv.com^
 ||ifs.tanx.com^
@@ -43744,6 +43755,7 @@
 ||imglnke.com^
 ||imgmail.mediasetpremium.it^
 ||imgopen.vip^
+||imgoss1380.top^
 ||imgoss2255.top^
 ||imgoss511.top^
 ||imgoss820.top^
@@ -45673,6 +45685,7 @@
 ||iresandal.info^
 ||irfiqx.babyneeds.ro^
 ||irgvfdwicqerqfy.com^
+||irgxwk.xyz^
 ||irhpzbrnoyf.com^
 ||iridizemohegan.com^
 ||irisaffectioneducate.com^
@@ -47901,6 +47914,7 @@
 ||kflybplr.xyz^
 ||kfngvuu.com^
 ||kfpicimage.xyz^
+||kfpljakmiousajl.com^
 ||kfpnqug.cn^
 ||kfqizu.cn^
 ||kftfhp.furusato-tax.jp^
@@ -49005,6 +49019,7 @@
 ||lalokdocwl.com^
 ||lalqyyxorytp.com^
 ||lam.promo.skf.com^
+||lambda-url.eu-west-1.on.aws^
 ||lambingsyddir.com^
 ||lamburnsay.live^
 ||lame7bsqu8barters.com^
@@ -63481,6 +63496,7 @@
 ||pageviews.tray.com.br^
 ||paginaseloqua.unisabana.edu.co^
 ||pagnehmfxah.xyz^
+||pagodaskeeker.com^
 ||pagtvmcbfjafj.com^
 ||pahbasqibpih.com^
 ||pahccuafbom.com^
@@ -63540,6 +63556,7 @@
 ||paletteoverjoyed.com^
 ||palibs.tech^
 ||palibzh.tech^
+||paliercleaned.com^
 ||pallonenuda.top^
 ||pallorirony.com^
 ||palmcodliverblown.com^
@@ -65336,7 +65353,6 @@
 ||player-telemetry.vimeo.com^
 ||player.4shares.live/*/img^
 ||player.anyclip.com^
-||player.stats.live-video.net^
 ||playeranyd.org^
 ||playeranydwo.info^
 ||playerseo.club^
@@ -67764,6 +67780,7 @@
 ||qd.x4399.com^
 ||qdaawkgdaiwlh.com^
 ||qdcxia.xyz^
+||qdeduzaixe.com^
 ||qdibvllqu.com^
 ||qdicel.marymaxim.com^
 ||qdipsumy.top^
@@ -70214,6 +70231,7 @@
 ||rgjeqr.europcar.fr^
 ||rgjlpgkzagf.com^
 ||rglxzqlqcp.com^
+||rgmmeff.icu^
 ||rgmseo.thejewellershop.com^
 ||rgpqgasbmqere.com^
 ||rgqhamkhnoex.xyz^
@@ -81745,6 +81763,7 @@
 ||stats.lippeshirts.de^
 ||stats.literacysomerset.org^
 ||stats.literaturkreis.online^
+||stats.live-video.net^
 ||stats.lmdsp.com^
 ||stats.localmetravel.com^
 ||stats.lord.io^
@@ -92915,6 +92934,7 @@
 ||vfvad.top^
 ||vfvcxv.naturhaeuschen.de^
 ||vfvdsati.com^
+||vfvrld.xyz^
 ||vfvvhywsdons.com^
 ||vfxrpl.xyz^
 ||vfzqtgr.com^
@@ -93038,6 +93058,7 @@
 ||videoaccess.xyz^
 ||videoad.cz^
 ||videoads-cloud.rovio.com^
+||videoads.hotstar.com^
 ||videobaba.xyz^
 ||videocampaign.co^
 ||videocdnmetrika.com^
@@ -93404,7 +93425,6 @@
 ||vivaciousbudget.pro^
 ||vividcortex.actonservice.com^
 ||viviendoefelizz.online^
-||vivud.com/eb/api.php^
 ||vivuple.xyz^
 ||viwjsp.info^
 ||viwvamotrnu.com^
@@ -99362,6 +99382,7 @@
 ||zebjlmmejbzlb.top^
 ||zebrinanoteman.top^
 ||zebusentour.com^
+||zeddjv.xyz^
 ||zedo.com^
 ||zedxknzlwyofh.com^
 ||zeebaith.xyz^
