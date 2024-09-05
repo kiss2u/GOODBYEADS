@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-05 09:34:04（北京时间）
+! Version: 2024-09-05 20:38:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14551
+! Total count: 14550
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1832,6 +1832,7 @@
 @@||api.splice.com/www/advertisement/community-explore$domain=splice.com
 @@||api.spotify.com/*?ids=$xmlhttprequest,stealth=3p-auth
 @@||api.spotify.com/v1/playlists/$xmlhttprequest,stealth=3p-auth
+@@||api.sprig.com/sdk/$domain=paypal.com
 @@||api.surfeasy.com/*/geo_lookup$stealth
 @@||api.taboola.com/2.0/json/*/recommendations.$domain=azby.fmworld.net
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
@@ -2982,11 +2983,6 @@
 @@||cdn.performax.cz/ads|$domain=idnes.cz|novinky.cz
 @@||cdn.permutive.app/*-web.js$domain=theglobeandmail.com
 @@||cdn.permutive.com/*-web.js$domain=independent.co.uk
-@@||cdn.petametrics.com/*-nbc.js$domain=thestar.com|thespec.com|therecord.com|thepeterboroughexaminer.com|stcatharinesstandard.ca|niagarafallsreview.ca|wellandtribune.ca|bramptonguardian.com|caledonenterprise.com|cambridgetimes.ca|durhamregion.com|flamboroughreview.com|guelphmercury.com|hamiltonnews.com|insidehalton.com|insideottawavalley.com|mississauga.com|muskokaregion.com|mykawartha.com|newhamburgindependent.ca|niagarathisweek.com|northbaynipissing.com|northumberlandnews.com|orangeville.com|ourwindsor.ca|parrysound.com|sachem.ca|simcoe.com|theifp.ca|toronto.com|waterloochronicle.ca|yorkregion.com|legacy.com|edition.pagesuite-professional.co.uk|hub.metroland.com
-@@||cdn.petametrics.com/*.js$domain=lanacion.com.ar
-@@||cdn.petametrics.com/*.js$domain=ranker.com
-@@||cdn.petametrics.com^$domain=techgenix.com
-@@||cdn.petametrics.com^$domain=telegraph.co.uk
 @@||cdn.playwire.com/bolt/js/zeus/embed.js$domain=abcya.com
 @@||cdn.plyr.io/*/plyr.svg$domain=akwam.*
 @@||cdn.plyr.io/*/plyr.svg$domain=mp4upload.com
@@ -3837,6 +3833,7 @@
 @@||d.line-scdn.net/*/torimochi.js/*/torimochi.js$script,domain=line.me
 @@||d.line-scdn.net/*/torimochi.js/public/v1/release/stable/min/torimochi.js$domain=pointclub-portal.landpress.line.me
 @@||d.line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+@@||d.socdm.com/adsv/*/tver_splive$xmlhttprequest,domain=imasdk.googleapis.com
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||d0000d.com^$generichide
 @@||d000d.com^$generichide
@@ -12962,6 +12959,7 @@
 @@||teralink.me^$generichide
 @@||terashare.me^$generichide
 @@||terrarium.com.pl^$generichide
+@@||tesco.com^$stealth=ip
 @@||test.profitsfly.com/wp-content/uploads/*/bg-h2-pattern.png$domain=starkroboticsfrc.com|cryptednews.space|seoliv.com|waezg.xyz|blackwoodacademy.org|lifgam.online|crypto-radio.eu|tiktokcounter.net
 @@||testufo.com/*.html$jsinject,elemhide
 @@||testufo.com/*.html$jsinject,elemhide,extension
@@ -14366,6 +14364,7 @@
 @@||yandex.com/search/?$generichide
 @@||yandex.ru/ads/system/adsdk.js$domain=gisher.org
 @@||yandex.ru/ads/system/adsdk.js$domain=kino.tricolor.tv
+@@||yandex.ru/ads/system/adsdk.js$domain=rutube.ru
 @@||yandex.ru/ads/system/context.js$domain=investing.com
 @@||yandex.ru/ads/system/context.js$domain=mathdf.com
 @@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru
