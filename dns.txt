@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-05 20:38:33（北京时间）
+! Version: 2024-09-06 09:33:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100218
+! Total count: 100254
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -554,6 +554,7 @@
 ||1337x.vpnonly.site^
 ||1339.79j68qav2.com^
 ||13453765871837679316.googlegroups.com^
+||1363394706.rsc.cdn77.org^
 ||136cb85b18.ebb174824f.com^
 ||137kfj65k.de^
 ||13b3403320.com^
@@ -722,6 +723,7 @@
 ||19035955.loyalty.tajawal.com^
 ||19035955.mktg.tajawal.com^
 ||1909a8.satofull.jp^
+||1918837748.rsc.cdn77.org^
 ||1919f4eccf.08031fef00.com^
 ||192.luyouwang.com^
 ||193bde9ab1.com^
@@ -1379,6 +1381,7 @@
 ||305f5127dc.5e1b8e9d68.com^
 ||3070.terranewsblast.com^
 ||3071caa5ff.com^
+||307ea19306.com^
 ||307i6i7do.de^
 ||308d13be14.com^
 ||30986g8ab.de^
@@ -13168,6 +13171,7 @@
 ||anelerheen.top^
 ||anemenzemkwkm.top^
 ||anemenznnkaka.top^
+||anentsyshrug.com^
 ||aneorwd.com^
 ||anesthesiaos.actonservice.com^
 ||anet.abphotos.link^
@@ -16077,6 +16081,7 @@
 ||aversionworkingthankful.com^
 ||avertium.actonservice.com^
 ||avevofipnqobi.com^
+||avfqvyuqsdph.com^
 ||avgive3431.fun^
 ||avglfookdjuj.com^
 ||avhduwvirosl.com^
@@ -17386,6 +17391,7 @@
 ||bc34.wijnvoordeel.nl^
 ||bc6dc48b743dc5d01.clicknplay.to^
 ||bc84617c73.com^
+||bcaakxxuf.com^
 ||bcae944449.com^
 ||bcanl.bca-autoveiling.nl^
 ||bcaquzxajka.com^
@@ -18906,6 +18912,7 @@
 ||bnster.com^
 ||bnutnr.landandfarm.com^
 ||bnvsjg.hometogo.de^
+||bnwmyguuzvk.com^
 ||bnxiorj2a.com^
 ||bnxydwdgr.com^
 ||bnzkua.trussardi.com.br^
@@ -20408,6 +20415,7 @@
 ||c.ixi.to^
 ||c.janged.online^
 ||c.keltis.com^
+||c.kkraw.com^
 ||c.kuaiduizuoye.com^
 ||c.l.qq.com^
 ||c.live.com^
@@ -20902,6 +20910,7 @@
 ||capture.condenastdigital.com^
 ||capture.norm0care.com^
 ||captureleaderdigestion.com^
+||capturescaldsomewhat.com^
 ||capwilyunseen.com^
 ||capybara.civicsoftwarefoundation.org^
 ||capybara.kylewinton.com^
@@ -20911,6 +20920,7 @@
 ||car-bidpush.net^
 ||car-cra.sh^
 ||car.qcmrjx.com^
+||carackirish.shop^
 ||caradonna.actonservice.com^
 ||caraganaarborescenspendula.com^
 ||carambo.la^
@@ -28871,6 +28881,7 @@
 ||dfnetwork.link^
 ||dfprljx.xyz^
 ||dfpstitialtag.com^
+||dfptcslvqbn.com^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfr.deloitte.com^
 ||dfryzh.xyz^
@@ -30781,6 +30792,7 @@
 ||dthechildren.org^
 ||dtheharityhild.info^
 ||dthepeoplewhoc.org^
+||dthipkts.com^
 ||dtjpihv.xyz^
 ||dtkhbsictxpu.com^
 ||dtkmflxaqwobno.com^
@@ -31863,6 +31875,7 @@
 ||edodtfnyfpf.com^
 ||edoshbw.top^
 ||edoumeph.com^
+||edpl9v.pro^
 ||edpsmart.edpcomunicacao.com.br^
 ||edrevenuedur.xyz^
 ||edriving.actonservice.com^
@@ -34703,6 +34716,7 @@
 ||f9755640df.5eef1ed9ac.com^
 ||fa3f4c916c.com^
 ||fa77756437.com^
+||faabaytsrygcbvs.com^
 ||faaqgje.icu^
 ||fabricwaffleswomb.com^
 ||fabriczigzagpercentage.com^
@@ -34758,6 +34772,7 @@
 ||fae46gussylvatica.com^
 ||faecesjazies.top^
 ||faefibdom.top^
+||faencepuggy.com^
 ||faeryreified.com^
 ||faestara.com^
 ||faf796d2a3.969604b4a3.com^
@@ -35002,6 +35017,7 @@
 ||fbcdn2.com^
 ||fbd077ad20.fee2ceeee7.com^
 ||fbebmgbiou.com^
+||fbfedemjbpungf.com^
 ||fbffdfproxwqi.com^
 ||fbfrbt.xyz^
 ||fbgdc.com^
@@ -37660,6 +37676,7 @@
 ||ged46.xyz^
 ||gedafdshb7.fun^
 ||gedashb112.fun^
+||geddsashb3.fun^
 ||gedozw.autoscout24.cz^
 ||gedxssashb8.fun^
 ||geechaid.xyz^
@@ -39860,6 +39877,7 @@
 ||gresteedoong.net^
 ||gretaith.com^
 ||gretnsassn.com^
+||grewash1b.fun^
 ||greworganizer.com^
 ||grewquartersupporting.com^
 ||greystripe.com^
@@ -40498,6 +40516,7 @@
 ||haithalaneroid.com^
 ||haithoaz.net^
 ||haitingshospi.info^
+||haixomz.xyz^
 ||hajilijnemo.com^
 ||hajoopteg.com^
 ||haksaigho.com^
@@ -41262,6 +41281,7 @@
 ||hhiswingsandm.info^
 ||hhit.xyz^
 ||hhjow.com^
+||hhju87yhn7.top^
 ||hhklc.com^
 ||hhkld.com^
 ||hhmako.cloud^
@@ -41935,6 +41955,7 @@
 ||hotapi-va.isnssdk.com^
 ||hotbedssmarmy.digital^
 ||hotboys.biz^
+||hotbqzlchps.com^
 ||hotcontent.tsmt5revp.com^
 ||hotcontentnew.tsmt5revp.com^
 ||hotdeskbabes.pro^
@@ -45973,6 +45994,7 @@
 ||itkdlu.equideow.com^
 ||itlitleoan.com^
 ||itmamoswineer.com^
+||itnhosioqb.com^
 ||itnijtcvjb.xyz^
 ||itnuzleafan.com^
 ||itop.cz^
@@ -48870,6 +48892,7 @@
 ||kyvpze.vidaxl.co.uk^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzasoaub.com^
+||kzcayec.icu^
 ||kzcdgja.com^
 ||kzdxpcn.com^
 ||kzelzfnj.xyz^
@@ -59561,6 +59584,7 @@
 ||neocounter.neoworx-blog-tools.net^
 ||neoffic.com^
 ||neoftheownouncillo.info^
+||neogallery.xyz^
 ||neoncsr21.net.anwalt.de^
 ||neopowerlab.com^
 ||neosllc.actonservice.com^
@@ -59578,6 +59602,7 @@
 ||nerolsdraymen.com^
 ||neropolicycreat.com^
 ||nervegus.com^
+||nerveheels.com^
 ||nervingbensh.com^
 ||nervousclangprobable.com^
 ||nervoustolsel.com^
@@ -69302,6 +69327,7 @@
 ||reclearsaulge.com^
 ||reclod.com^
 ||recmd.html5.qq.com^
+||recmwgis.com^
 ||recognisepeaceful.com^
 ||recognisetorchfreeway.com^
 ||recollectionchicken.com^
@@ -70408,6 +70434,7 @@
 ||rhouseoyopers.info^
 ||rhoxnc.studentuniverse.com^
 ||rhpjzjqhgz.com^
+||rhrim.com^
 ||rhsorga.com^
 ||rhsy174op.com^
 ||rhtysfkaqle.com^
@@ -70817,7 +70844,6 @@
 ||romperspardesi.com^
 ||rompishvariola.com^
 ||romtheoth.work^
-||roncetshowman.life^
 ||ronm.top^
 ||roobetaffiliates.com^
 ||roodleswauls.com^
@@ -79118,6 +79144,7 @@
 ||solfafrate.top^
 ||soliads.io^
 ||soliads.net^
+||soliads.online^
 ||solicitorlaptopfooting.com^
 ||solicitorquite.com^
 ||solicitorviewer.com^
@@ -83765,6 +83792,7 @@
 ||syenergyflexibil.com^
 ||syeniteexodoi.com^
 ||syetmpdktjeor.com^
+||syfroecxkn.com^
 ||syfwnf.society6.com^
 ||syh-imp.cdnjtzy.com^
 ||syinga.com^
@@ -87130,6 +87158,7 @@
 ||tq.starvalue-3.online^
 ||tq.starvalue-4.online^
 ||tqbdio.medicare.pt^
+||tqbrnd.xyz^
 ||tqeobp89axcn.com^
 ||tqgrrfssodfo.com^
 ||tqhosting.actonservice.com^
@@ -91210,6 +91239,7 @@
 ||udd1i5.zhihu.com^
 ||udegepq.com^
 ||udeghaipekr.com^
+||udeias.xyz^
 ||udetqwj.com^
 ||udfwwbkxremv.xyz^
 ||udgpjfdzxrvecn.com^
@@ -93692,6 +93722,7 @@
 ||vnrherdsxr.com^
 ||vnrvss.com^
 ||vns86.oss-*.aliyuncs.com^
+||vnte9urn.click^
 ||vntsm.com^
 ||vntsm.io^
 ||vnvbqpqjgsy.com^
@@ -94037,6 +94068,7 @@
 ||vwegihahkos.com^
 ||vweixinthumb.tc.qq.com^
 ||vwhnfwdbf.com^
+||vwhwspngk.com^
 ||vwiind.beautyforever.com^
 ||vwinagptucpa.com^
 ||vwl7kia4fzz6.com^
@@ -97256,6 +97288,7 @@
 ||wximg.wxs.qq.com^
 ||wxl0gfw.icu^
 ||wxmicgwfzqekj.com^
+||wxmmji.xyz^
 ||wxmxbvuwj.com^
 ||wxnxau.air-r.jp^
 ||wxoywtyuj.com^
@@ -98031,6 +98064,7 @@
 ||xml1.adsimilate.com^
 ||xml3.danarimedia.com^
 ||xmladserver.com^
+||xmlap.com^
 ||xmlapiclickredirect.com^
 ||xmlapiclickredirect10102022.com^
 ||xmlfusion.com^
@@ -99191,6 +99225,7 @@
 ||yuhliqltbtv.com^
 ||yuhqeim.com^
 ||yuhuads.com^
+||yuintbradshed.com^
 ||yujmyt.theiconic.co.nz^
 ||yukkedrodmen.top^
 ||yukonearshot.com^
@@ -100218,6 +100253,7 @@
 ||zztsxepxumxoyw.com^
 ||zztxfj.xyz^
 ||zzux.com^
+||zzwuouqz.com^
 ||zzyjpmh.com^
 ||zzzjvqzkmqjlo.top^
 ||zzzjvqzkmqjyb.top^

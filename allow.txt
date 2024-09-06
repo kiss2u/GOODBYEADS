@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-05 20:38:33（北京时间）
+! Version: 2024-09-06 09:33:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14550
+! Total count: 14537
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1862,7 +1862,6 @@
 @@||apkmaza.net^$generichide
 @@||apkmb.com^$generichide
 @@||apkmirror.com^$generichide
-@@||apkpure.com^$generichide
 @@||aplayer.xyz/player/watch.php^$stealth
 @@||apmebf.com/ad/$domain=betfair.com
 @@||apnetv.me^$generichide
@@ -2262,7 +2261,6 @@
 @@||beanfun.com/ADClient/
 @@||beardycast.com/reklama/
 @@||beatthetraffic.com/traffic/?partner=$subdocument
-@@||bebi.com/js/plugins.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
 @@||bedavapdf.com^$generichide
 @@||beelink.in/ad/advertisement.js
 @@||beermoneyforum.com^$generichide
@@ -2811,6 +2809,7 @@
 @@||cdn.broadstreetads.com/init.js$domain=thebatavian.com
 @@||cdn.cervell.io^$domain=cildimveben.com
 @@||cdn.cizgifilmlerizle.com/cizgi/*.mp4^$popup
+@@||cdn.clarip.com^$stealth=useragent,domain=jcrew.com
 @@||cdn.clerk.io/clerk.js$domain=apotera.no
 @@||cdn.clerk.io/clerk.js$domain=batteribyen.dk|batterionline.no|batterionline.se
 @@||cdn.clerk.io/clerk.js$domain=dehardloopwinkel.nl
@@ -7571,6 +7570,7 @@
 @@||jawcloud.co/embed$stealth
 @@||jbprogramnotes.com^$generichide
 @@||jccsmart.com^$stealth
+@@||jcrew.com^$stealth=useragent
 @@||jd.com/adclick?$popup,~third-party
 @@||jd.com/adclick?$~third-party
 @@||jd.com/setCookie?
@@ -7757,7 +7757,6 @@
 @@||kayixin.com^*/advert
 @@||kbjrecord.com/e/*.html$subdocument,stealth=referrer
 @@||kblognext.com^$generichide
-@@||kc.linksgen.com^$subdocument,~third-party
 @@||kcjervis.github.io/jervis/static/media/src/images/ships/banner/
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$script,domain=10co.xyz|10co.me
@@ -7798,7 +7797,6 @@
 @@||kikupload.xyz^$generichide
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
-@@||kimcartoon.li^$subdocument,~third-party
 @@||kimcartoon.to/*Bookmark$other,xmlhttprequest
 @@||kimcartoon.to/Content/ui-lightness/jquery.ui.progressbar.css
 @@||kimcartoon.to/Register/GetCaptcha
@@ -7822,7 +7820,6 @@
 @@||kisscartoon.ac/ajax/$popup
 @@||kisscartoon.ac/cdn-cgi/l/chk_jschl?jschl_vc=$popup
 @@||kisscartoon.ac/themes/vast/videojs.ads.min.js
-@@||kisscartoon.se^$subdocument,~third-party
 @@||kissjav.com^$generichide
 @@||kissorg.net^$stealth
 @@||kit.fontawesome.com$stealth=referrer,domain=androidacy.com
@@ -9790,7 +9787,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=k12reader.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=k2radio.com|kowb1290.com|koel.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kawarthanow.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kdbhbd.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=keralatelecom.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
@@ -9984,7 +9980,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=subtitle.one
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sudoku-topical.com|sudoku-aktuell.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=supermarches.ca
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=supreme-gamers.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=svetandroida.cz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sydroid.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=syriancivilwarmap.com
@@ -10551,7 +10546,6 @@
 @@||plantswith.com^$generichide
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform-eu.cloud.coveo.com^$stealth,domain=fiskars.com
-@@||platform.bidgear.com/pubbidgear-ad.js$xmlhttprequest,domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.*
 @@||platform.cloud.coveo.com^$stealth=3p-auth,domain=intel.*
 @@||platform.foremedia.net/code/*/analytics$domain=techydino.net
 @@||platform.twitter.com/$domain=discovery.com
@@ -10827,8 +10821,6 @@
 @@||promods.net/ads.js
 @@||promotionbasis.de^$generichide
 @@||promovies.pro^$generichide
-@@||propellerads.com/wp-content/plugins/radiantthemes-addons/tabs/js/radiantthemes-tab-element-four.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
-@@||propellerads.com/wp-content/themes/Zephyr/framework/js/jquery.simpleplaceholder.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
 @@||propellerads.com/wp-content/themes/propeller/assets/js/app.min.js^$domain=linkneverdie.net
 @@||proper.io/*?proper_uid=$domain=salon.com
 @@||proper.io/embed/$domain=explosm.net
@@ -10921,8 +10913,6 @@
 @@||publicwww.com^$generichide
 @@||publisher-network.com/publisher/evrensel/$domain=evrensel.net
 @@||publisher.adservice.com^$document
-@@||pubmatic.com/wp-content/plugins/pardot/js/asyncdc.min.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
-@@||pubmatic.com/wp-content/themes/pubmatic/js/jquery.alignHeight.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
 @@||pubscholar.cn/static/common/fingerprint.js$script,~third-party
 @@||pudelek.pl^$generichide
 @@||puma.112.2o7.net^
@@ -13540,7 +13530,6 @@
 @@||unimedsorocaba.coop.br^$stealth=dpi
 @@||unionmanga.xyz^$generichide
 @@||unique-tutorials.info^$generichide
-@@||units.mgid.com/common.js$domain=kc.linksgen.com|kisscartoon.se|kimcartoon.li|kissorg.net|kissasian.sh|kissasian.lu
 @@||unity3diy.blogspot.com^$generichide
 @@||universalfreecourse.com/ads-prebid.js
 @@||universeguide.com/abdetect.js
@@ -14363,8 +14352,6 @@
 @@||yandex.*/clck/jsredir?from=yandex.*%3Bsearch%2F%3Bweb%3B%3B$~third-party,~xmlhttprequest,~image,~other
 @@||yandex.com/search/?$generichide
 @@||yandex.ru/ads/system/adsdk.js$domain=gisher.org
-@@||yandex.ru/ads/system/adsdk.js$domain=kino.tricolor.tv
-@@||yandex.ru/ads/system/adsdk.js$domain=rutube.ru
 @@||yandex.ru/ads/system/context.js$domain=investing.com
 @@||yandex.ru/ads/system/context.js$domain=mathdf.com
 @@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru
