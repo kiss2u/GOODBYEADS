@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-07 09:25:37（北京时间）
+! Version: 2024-09-07 20:34:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100332
+! Total count: 100344
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1006,6 +1006,7 @@
 ||2121.4puuqeh41.com^
 ||2122aaa0e5.com^
 ||21270a5ec2.a48d53647a.com^
+||212ehae.fun^
 ||212fea9f61.com^
 ||2132dfd3.fsseeewzz.lol^
 ||2137dc12f9d8.com^
@@ -8032,6 +8033,7 @@
 ||acdref117.cn^
 ||acdrewrf711.cn^
 ||acdwef114.cn^
+||ace-adserver.com^
 ||ace.naver.com^
 ||acecapprecarious.com^
 ||acediscover.com^
@@ -19832,6 +19834,7 @@
 ||bruteknack.com^
 ||brutestayer.top^
 ||brutishlylifevoicing.com^
+||brutvncv.top^
 ||brvallsrentacar.eccocar.com^
 ||brvelocity.eccocar.com^
 ||brvkzwjrjznaw.top^
@@ -20834,6 +20837,7 @@
 ||canadamarketing.travelsavers.com^
 ||canadianbedevil.com^
 ||canarystarkcoincidence.com^
+||cancriberths.com^
 ||candid.zone^
 ||candidate.response.ingenovishealth.com^
 ||candiedguilty.com^
@@ -24667,6 +24671,7 @@
 ||cortellisconnections.thomsonreuters.com^
 ||corveseiren.com^
 ||coryljanty.cam^
+||cosedluteo.com^
 ||cosesgabbles.top^
 ||cosiequiapo.com^
 ||cosignpresentlyarrangement.com^
@@ -26850,7 +26855,6 @@
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3da127b69.com^
-||d3div1mtym39ic.cloudfront.net^
 ||d3dpet1g0ty5ed.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
@@ -29365,6 +29369,7 @@
 ||dimlmhowvkrag.xyz^
 ||dimlyconfidential.com^
 ||dimmestlasts.top^
+||dimnaamebous.com^
 ||dimnatriazin.com^
 ||dimnessinvokecorridor.com^
 ||dimnessslick.com^
@@ -30733,6 +30738,7 @@
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsa22.com^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dsaewew21.fun^
 ||dsas.danawa.com^
 ||dsb.yahoo.co.jp^
 ||dsb6jelx4yhln.cloudfront.net^
@@ -63049,6 +63055,7 @@
 ||ousseghu.net^
 ||oussouveem.com^
 ||oustoope.com^
+||out.betforce.io^
 ||out.information.maileva.com^
 ||out.slutroulette.com^
 ||out.velpa.pl^
@@ -75378,6 +75385,7 @@
 ||sireundermineoperative.com^
 ||sirius.aomg5bzv7.com^
 ||sirmianow.top^
+||siruperunlinks.com^
 ||sis.facesittingbbw.com^
 ||sis8.premieremoisson.com^
 ||sisdtb.climatempo.com.br^
@@ -81689,6 +81697,7 @@
 ||stats.changelog.com^
 ||stats.chomp.haus^
 ||stats.christianpost.com^
+||stats.chromatone.center^
 ||stats.chronoslabs.net^
 ||stats.cinqsecondes.fr^
 ||stats.citizenos.com^
@@ -94383,6 +94392,7 @@
 ||wagtelly.com^
 ||wahile.com^
 ||wahoha.com^
+||waigepsap.net^
 ||waigriwa.xyz^
 ||wailedfrosty.com^
 ||waioowcadhw.xyz^
@@ -95159,6 +95169,7 @@
 ||weeklideals.com^
 ||weemofee.com^
 ||ween.bid^
+||weensnandow.com^
 ||weepauza.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
@@ -99324,6 +99335,7 @@
 ||yupfiles.net^
 ||yuppads.com^
 ||yuppyads.com^
+||yuqmok.xyz^
 ||yuqyihkyk.com^
 ||yuriembark.com^
 ||yurobl.rw-co.com^
