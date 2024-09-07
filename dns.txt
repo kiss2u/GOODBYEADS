@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-06 20:37:12（北京时间）
+! Version: 2024-09-07 09:25:37（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100331
+! Total count: 100332
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15667,7 +15667,6 @@
 ||athbzeobts.com^
 ||athecsz.cn^
 ||atheegrun.net^
-||atheismannect.com^
 ||atheismcard.com^
 ||atheismperplex.com^
 ||athena-ads.wikia.com^
@@ -16082,7 +16081,6 @@
 ||avenueinvoke.com^
 ||avenuewalkerchange.com^
 ||average-champion.pro^
-||aversenicky.com^
 ||aversionatrocious.com^
 ||aversionmast.com^
 ||aversionwives.com^
@@ -16510,6 +16508,7 @@
 ||azclip.co.ua^
 ||azcoct.bikkembergs.com^
 ||azejckiv.com^
+||azenco.xyz^
 ||azenka.one^
 ||azeriondigital.com^
 ||azflce.fragrances.bg^
@@ -18113,6 +18112,7 @@
 ||beyond.bluewolf.com^
 ||beyourxfriend.com^
 ||bezuka.xyz^
+||bezwtpxx.com^
 ||bf-ad.net^
 ||bf34714db5.eafb9d5abc.com^
 ||bf3572595c.com^
@@ -18415,7 +18415,6 @@
 ||birdnavy.com^
 ||birgga.top^
 ||birglucy.xyz^
-||birlinnlaissez.com^
 ||biroads.com^
 ||birqmiowxfh.com^
 ||birthday3452.fun^
@@ -19250,7 +19249,6 @@
 ||bowlpromoteintimacy.com^
 ||bowlsolicitor.com^
 ||bowoprf.icu^
-||bowsingchilkat.click^
 ||box.anchorfree.net^
 ||box.bossdata.be^
 ||box1.aomg5bzv7.com^
@@ -19833,6 +19831,7 @@
 ||brutebaalite.top^
 ||bruteknack.com^
 ||brutestayer.top^
+||brutishlylifevoicing.com^
 ||brvallsrentacar.eccocar.com^
 ||brvelocity.eccocar.com^
 ||brvkzwjrjznaw.top^
@@ -28851,6 +28850,7 @@
 ||dextersolutions.actonservice.com^
 ||deybshwg.com^
 ||deyubo.uno^
+||dezaleyarmless.com^
 ||df-long.cn^
 ||df.huya.com^
 ||df.tanx.com^
@@ -30166,7 +30166,6 @@
 ||dollargrimlytommy.com^
 ||dollarsurvey365.org^
 ||dollartopsail.top^
-||dolliersophic.com^
 ||dollinwurleys.com^
 ||dollsdeclare.com^
 ||dolohen.com^
@@ -31110,6 +31109,7 @@
 ||dxtsqgnwn.com^
 ||dxtv1.com^
 ||dxuuvxweynac.com^
+||dxwksqa.icu^
 ||dxz454z33ibrc.cloudfront.net^
 ||dy.araucangozell.com^
 ||dy10000.net^
@@ -33012,6 +33012,7 @@
 ||encompassreport.elliemae.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
+||encounterponder.com^
 ||encouragedrealityirresponsible.com^
 ||encouragedunrulyriddle.com^
 ||encourageshock.com^
@@ -35314,6 +35315,7 @@
 ||ferret.linksoftwarellc.com^
 ||ferret.tailgraph.com^
 ||ferriesendless.com^
+||ferrmidline.com^
 ||ferrycontinually.com^
 ||fertilecalfawelessaweless.com^
 ||fertilestared.com^
@@ -36587,6 +36589,7 @@
 ||fpmleqdb.com^
 ||fpninv.xyz^
 ||fpnpmcdn.net^
+||fppcrl.xyz^
 ||fpptmv.mrmarvis.co.uk^
 ||fpssl-monitor-dal.omniture.com^
 ||fpt.inxinternational.com^
@@ -37025,6 +37028,7 @@
 ||fundraising.centuryresources.com^
 ||funestjacket.shop^
 ||fungalqueller.com^
+||fungiaoutfame.com^
 ||fungus.online^
 ||funiooboqifnku.com^
 ||funjoobpolicester.info^
@@ -37280,6 +37284,7 @@
 ||g11686975765.co^
 ||g1188506010.co^
 ||g11885060100.co^
+||g11edashb1.fun^
 ||g12083144435.co^
 ||g12281228770.co^
 ||g1584674682.co^
@@ -38557,7 +38562,6 @@
 ||globetrotting-culture.ru^
 ||globlemath.com^
 ||globo-ab.globo.com^
-||globrioted.com^
 ||globwo.online^
 ||globxaxqp.com^
 ||glochatuji.com^
@@ -39486,7 +39490,6 @@
 ||gone.pronhub.fun^
 ||goneawaytogy.info^
 ||goneryacked.top^
-||gonethyrsus.click^
 ||gontent.powzers.lol^
 ||gonzalodaemon.top^
 ||goo-access-analytics.appspot.com^
@@ -46372,6 +46375,7 @@
 ||jatdticl.com^
 ||jatflh.pharmamarket.be^
 ||jatfugios.com^
+||jatobaviruela.com^
 ||jatomayfair.life^
 ||jatosbathkol.com^
 ||jatpmv.megacolchoes.com.br^
@@ -46652,7 +46656,6 @@
 ||jergocast.com^
 ||jerimpob.net^
 ||jerkisle.com^
-||jermdyslogy.com^
 ||jeroud.com^
 ||jerusalemcurve.com^
 ||jerusalemstatedstill.com^
@@ -52578,6 +52581,7 @@
 ||lzvwxy.hometogo.pl^
 ||lzwxzz.chintaistyle.jp^
 ||lzxdx24yib.com^
+||lzzqfj.xyz^
 ||m-game.book.qq.com^
 ||m-m.actonservice.com^
 ||m-rtb.com^
@@ -59977,6 +59981,7 @@
 ||ngegas.files.im^
 ||ngeoziadiyc4hi2e.com^
 ||ngfruitiesmatc.info^
+||ngfycrwwd.com^
 ||ngghll.me.co.kr^
 ||ngineet.cfd^
 ||nginxxx.xyz^
@@ -63709,7 +63714,6 @@
 ||paichaus.com^
 ||paid.outbrain.com^
 ||paidlemirkily.com^
-||paidsnows.click^
 ||paiena.xyz^
 ||paigarohauja.com^
 ||paiglumousty.net^
@@ -64395,6 +64399,7 @@
 ||pejzeexukxo.com^
 ||pekcbuz.com^
 ||pekroace.net^
+||pekseerdune.xyz^
 ||pelageforgers.com^
 ||pelamydlours.com^
 ||pelargiunmelt.top^
@@ -65859,7 +65864,6 @@
 ||polarmobile.com^
 ||polaronveldt.guru^
 ||polepole.cn^
-||polewigsuperb.com^
 ||polhvf.bootbarn.com^
 ||police.aomg5bzv7.com^
 ||policeair.com^
@@ -67197,6 +67201,7 @@
 ||ptaiceckir.net^
 ||ptaicoamt.com^
 ||ptaicoul.xyz^
+||ptailadsol.net^
 ||ptaimpeerte.com^
 ||ptaissud.com^
 ||ptaixout.net^
@@ -69148,6 +69153,7 @@
 ||rcgi.video.qq.com^
 ||rcgwej.lights.co.uk^
 ||rchkup.com^
+||rchmupnlifo.xyz^
 ||rcm.shinobi.jp^
 ||rcmjs.rambler.ru^
 ||rcnithgm.xyz^
@@ -69460,6 +69466,7 @@
 ||reddestgramash.com^
 ||redditstream.arborapps.io^
 ||reddleops.pro^
+||reddockbedman.com^
 ||reddwarf.till-sanders.de^
 ||redebitapedom.com^
 ||redefine.hit.stat24.com^
@@ -72804,7 +72811,6 @@
 ||satisfactorilyfigured.com^
 ||satisfactoryhustlebands.com^
 ||satisfied-tour.pro^
-||sativasnailed.com^
 ||satlockspa.live^
 ||satmon.neekstore.com^
 ||satoripedary.com^
@@ -73161,6 +73167,7 @@
 ||scornfulabsorbploy.com^
 ||scornphiladelphiacarla.com^
 ||scorpion.clare.ink^
+||scotergushing.com^
 ||scotianosed290noelind.com^
 ||scotizeoperae.com^
 ||scotsmaut.top^
@@ -75320,7 +75327,6 @@
 ||simplyscepticaltoad.com^
 ||simpunok.com^
 ||simscale.actonservice.com^
-||sinatraquonset.click^
 ||sincalled.com^
 ||sincenturypro.org^
 ||sinceregarden.sincere-garden.jp^
@@ -82706,7 +82712,6 @@
 ||stoaphalti.com^
 ||stoashou.net^
 ||stoat.death-to-ie11.com^
-||stoatersmutty.com^
 ||stoawugluce.net^
 ||stockbook-ads.firebaseapp.com^
 ||stockbook-ads.firebaseio.com^
@@ -83072,7 +83077,6 @@
 ||subbandapodan.top^
 ||subcom.uiiumovie.com^
 ||subdatejutties.com^
-||subdebsrelent.click^
 ||subdo.torrentlocura.com^
 ||subdo.torrentrapid.com^
 ||subduealec.com^
@@ -83187,7 +83191,6 @@
 ||sudserspial.click^
 ||sudsguidon.com^
 ||sudvclh.com^
-||suededtubbed.shop^
 ||sueivypeg.com^
 ||suescollum.com^
 ||suesuspiciousin.com^
@@ -96062,7 +96065,6 @@
 ||woodstock.viessmann.com.au^
 ||woodtipvpnrh.com^
 ||woodtone.actonservice.com^
-||woodycoarct.com^
 ||woodygloatneigh.com^
 ||woodymotherhood.com^
 ||woogoust.com^
@@ -98590,7 +98592,6 @@
 ||yardianalytics.com^
 ||yardr.net^
 ||yarlnk.com^
-||yarningeddic.shop^
 ||yarnsperwick.top^
 ||yasg114.com^
 ||yashi.com^
