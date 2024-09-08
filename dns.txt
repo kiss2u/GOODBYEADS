@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-07 20:34:35（北京时间）
+! Version: 2024-09-08 09:40:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100344
+! Total count: 100347
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -9827,6 +9827,7 @@
 ||ads.nghenhinvietnam.vn^
 ||ads.nguoiduatin.vn^
 ||ads.nhadatmoi.net^
+||ads.nicovideo.jp^
 ||ads.nj.com^
 ||ads.nola.com^
 ||ads.nordichardware.com^
@@ -15683,7 +15684,6 @@
 ||athletethrong.com^
 ||athlg.com^
 ||athoaphu.xyz^
-||atholdpunchy.com^
 ||atholicncesispe.info^
 ||athostouco.com^
 ||athumiaspuing.click^
@@ -29104,6 +29104,7 @@
 ||diedpractitionerplug.com^
 ||diedstubbornforge.com^
 ||diench.com^
+||diendh.xyz^
 ||dieriresowed.guru^
 ||dietarydecreewilful.com^
 ||dietarygroomchar.com^
@@ -30737,6 +30738,7 @@
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsa22.com^
+||dsad234.fun^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsaewew21.fun^
 ||dsas.danawa.com^
@@ -30965,7 +30967,6 @@
 ||durgahsursize.com^
 ||durike.com^
 ||durith.com^
-||durocvacuous.click^
 ||dursocoa.com^
 ||durst-group.actonservice.com^
 ||durynslg.xyz^
@@ -51450,6 +51451,7 @@
 ||log.bigroundass.net^
 ||log.bitauto.com^
 ||log.bizlive.vn^
+||log.bloodppressure.info^
 ||log.bloodsugars.live^
 ||log.btopenworld.com^
 ||log.bunjang.co.kr^
@@ -57767,6 +57769,7 @@
 ||mlb.did.ijinshan.com^
 ||mlbanners.misrlinks.com^
 ||mlc.martela.se^
+||mlcbgw.xyz^
 ||mldfckinkpyhwk.com^
 ||mldxqrntd.xyz^
 ||mldzwmt.xyz^
