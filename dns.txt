@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-08 09:40:08（北京时间）
+! Version: 2024-09-08 20:35:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100347
+! Total count: 100368
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1548,6 +1548,7 @@
 ||38ds89f8.de^
 ||38fbsbhhg0702m.shop^
 ||38kmute.xyz^
+||39013e61823.com^
 ||3923.5clo0xmbf.com^
 ||39236100.lotre.io^
 ||39268ea911.com^
@@ -2479,6 +2480,7 @@
 ||74202b8bcc.2e55a2d58f.com^
 ||74264bd2c8.com^
 ||7437.k3718qw08.com^
+||743fa12700.com^
 ||7452c605e9.02ea6adc36.com^
 ||745f5eafee.04cb2afab7.com^
 ||7478.4puuqeh41.com^
@@ -3164,6 +3166,7 @@
 ||a-api.skz.dev^
 ||a-b-c-d.xyz^
 ||a-counter.kiev.ua^
+||a-da.invideo.io^
 ||a-delivery.rmbl.ws^
 ||a-m-s.adnonstop.com^
 ||a-mo.net^
@@ -11078,6 +11081,7 @@
 ||afwpc.com^
 ||afxjwyg.com^
 ||afxncq.com^
+||afy.agency^
 ||afywhecpi.com^
 ||ag.palmtube.net^
 ||ag.qq.com^
@@ -30751,6 +30755,7 @@
 ||dscex7u1h4a9a.cloudfront.net^
 ||dsdjbj.abracadabra.com.br^
 ||dsdordering.kdrp.com^
+||dsdsg44.fun^
 ||dsethimdownthmo.com^
 ||dsfe19.madeindesign.com^
 ||dsfjhfhyry2hh8jo09.com^
@@ -31825,6 +31830,7 @@
 ||ed9605fe75.7b2ca39378.com^
 ||eda153603c.com^
 ||edaciousedaciousflaxalso.com^
+||edaciousedacioushandkerchiefcol.com^
 ||edaciousedaciousindexesbrief.com^
 ||edacityedacitycorrespondence.com^
 ||edacityedacityhandicraft.com^
@@ -33225,6 +33231,7 @@
 ||engageru2.3mrussia.ru^
 ||engagesrvr.filefactory.com^
 ||engaolnagual.com^
+||engdhnfrc.com^
 ||engine-pmbk.ligastavok.ru^
 ||engine.aomg5bzv7.com^
 ||engine.eroge.com^
@@ -34028,6 +34035,7 @@
 ||events.audiate.me^
 ||events.auth.gid.ru^
 ||events.avaya.com^
+||events.baselime.io^
 ||events.bendigotafe.edu.au^
 ||events.betterhelp.com^
 ||events.blackboard.com^
@@ -37727,6 +37735,7 @@
 ||geethaihoa.com^
 ||geethaiw.xyz^
 ||geethoap.com^
+||geewdashb3.fun^
 ||geewooheene.net^
 ||geezersrecusal.website^
 ||gefkkw.cyberport.de^
@@ -38122,6 +38131,7 @@
 ||geumhuzzy.com^
 ||gevmrjok.com^
 ||gewqashbwq.fun^
+||gexitesfpx.com^
 ||geygin.bonprix.ch^
 ||geystikigonia.openapp.link^
 ||gf7t.cheques-cadeaux-culturels.fr^
@@ -48370,6 +48380,7 @@
 ||klonedaset.org^
 ||kloperd.com^
 ||kloynfsag.com^
+||klpgmansuchcesu.com^
 ||klqlmg.mitchellandness.com^
 ||klrnhhzh.com^
 ||klsdee.com^
@@ -49299,6 +49310,7 @@
 ||laridaetrionfo.top^
 ||lark.pollie.dev^
 ||larkenjoyedborn.com^
+||larnaxhexact.click^
 ||larontale.com^
 ||laronwinepot.top^
 ||larrenpicture.pro^
@@ -51117,6 +51129,7 @@
 ||lj5s1u8ct5vz.app.chatpay.dev^
 ||ljb0.assuronline.com^
 ||ljbpfe.notino.es^
+||ljbrbz.xyz^
 ||ljbwzlmzlzbkm.top^
 ||ljcsrrrhvu.com^
 ||ljdofz.xyz^
@@ -52861,7 +52874,6 @@
 ||mage98rquewz.com^
 ||magento-recs-sdk.adobe.net^
 ||magetrigla.com^
-||magev6.if.qidian.com^
 ||maggieeatstheangel.com^
 ||maggotpolity.com^
 ||maghoutwell.com^
@@ -58582,6 +58594,7 @@
 ||mrtlisx.top^
 ||mrtnsvr.com^
 ||mrtxtrq.xyz^
+||mrutvncx.top^
 ||mrvio.com^
 ||mrwdgugoie.com^
 ||mryinerg.com^
@@ -65164,6 +65177,7 @@
 ||pixel.bullion.media^
 ||pixel.byspotify.com^
 ||pixel.cdnwidget.com^
+||pixel.clutter.com^
 ||pixel.coccoc.com^
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
@@ -67736,6 +67750,7 @@
 ||pw.wpu.sh^
 ||pw2ct1.asia^
 ||pwaarkac.com^
+||pwbffdsszgkv.com^
 ||pwbuhb.xyz^
 ||pwcegau.icu^
 ||pwddhc.xyz^
@@ -70952,6 +70967,7 @@
 ||roovs.xyz^
 ||ropablegaliot.top^
 ||ropeanresu.com^
+||ropeanresultanc.com^
 ||ropebrains.com^
 ||ropedm.com^
 ||ropemoon.com^
@@ -81431,6 +81447,7 @@
 ||static-tracking.klaviyo.com^
 ||static.100conversions.com^
 ||static.accesstrade.vn^
+||static.ad.libimseti.cz^
 ||static.ad.logic-prod.viasat.io^
 ||static.adconnect.vn^
 ||static.ads-twitter.com^
@@ -93061,6 +93078,7 @@
 ||velopedsever.com^
 ||velopedseveralmef.info^
 ||velti.com^
+||veltoleb.com^
 ||velvetneutralunnatural.com^
 ||vemflutuartambem.com^
 ||vempozah.net^
@@ -93577,6 +93595,7 @@
 ||violindealtcynical.com^
 ||violinmode.com^
 ||vionito.com^
+||viowrel.com^
 ||vioytuituunmsr.com^
 ||vioyugo.cn^
 ||vip-datings.life^
@@ -96175,6 +96194,7 @@
 ||worst-zone.pro^
 ||worstgoodnightrumble.com^
 ||worstideatum.com^
+||worstspotchafe.com^
 ||worthconesquadron.com^
 ||worthless-living.pro^
 ||worthlessanxiety.pro^
@@ -99702,6 +99722,7 @@
 ||zemydreamsa.info^
 ||zemydreamsauk.com^
 ||zemywwm.com^
+||zenal.xyz^
 ||zenam.xyz^
 ||zenaot.xyz^
 ||zenaps.com^
