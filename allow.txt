@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-09 09:36:51（北京时间）
+! Version: 2024-09-09 20:39:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14535
+! Total count: 14537
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -3405,7 +3405,7 @@
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$script,domain=gamebox.gesoten.com
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com/analytics?$domain=cloudflare.com
-@@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|injora.com|myair.resmed.com
+@@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|injora.com|kiichin.com|myair.resmed.com
 @@||cloudflare.com^$script,domain=rule34hentai.net
 @@||cloudflare.com^$script,stylesheet,domain=canyoublockit.com
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
@@ -5907,6 +5907,7 @@
 @@||googletagmanager.com/gtag/js?id=$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
 @@||googletagmanager.com/gtag/js?id=$domain=chainreactioncycles.com
 @@||googletagmanager.com/gtag/js?id=$domain=cnbctv18.com
+@@||googletagmanager.com/gtag/js?id=$domain=dvdmax.pl
 @@||googletagmanager.com/gtag/js?id=$domain=freesolana.top
 @@||googletagmanager.com/gtag/js?id=$domain=health.confused.com
 @@||googletagmanager.com/gtag/js?id=$domain=inforesist.org
@@ -6794,7 +6795,7 @@
 @@||i.onthe.io^$script,image,stylesheet,domain=nur.kz
 @@||i.pl^$generichide
 @@||i.postimg.cc/*/banner*.png$domain=scandal-heaven.com
-@@||i.pximg.net/*/img/$stealth,domain=pixiv.net
+@@||i.pximg.net^$stealth=referrer,domain=pixiv.net|pixivision.net
 @@||i.snssdk.com/log/sentry/$domain=lv.ulikecam.com
 @@||i.snssdk.com/slardar/sdk$domain=ixigua.com
 @@||i.tmgrup.com.tr^$script,stealth
@@ -8168,6 +8169,7 @@
 @@||login.live.com/ppsecure/$document
 @@||login.live.com^$stealth
 @@||login.microsoftonline.com^$stealth
+@@||login.mobywatel.gov.pl^$stealth
 @@||login.nvgs.nvidia.com^$stealth
 @@||login.nvidia.com^$stealth
 @@||login.uid.me^$domain=ucoz.ru
@@ -10090,7 +10092,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=3dtuning.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=4fuk.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=99corporates.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aii.sh|tii.la|oko.sh|tpi.li
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aii.sh|tii.la|oko.sh|tpi.li|oii.la
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=alfred.camera
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=amritadrino.com|bhojpuritop.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=apkandroidhub.in
@@ -10123,7 +10125,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=facciabuco.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fastssh.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=flixscans.*
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fooak.com|plknu.com|nexnoo.com|simana.online|efhjd.com|upfilesurls.com|falpus.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fooak.com|plknu.com|nexnoo.com|simana.online|efhjd.com|upfilesurls.com|falpus.com|upfiles-urls.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=forasm.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=forexit.online
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=freetvsports.xyz|poscishd.online
