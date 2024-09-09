@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-08 20:35:19（北京时间）
+! Version: 2024-09-09 09:36:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100368
+! Total count: 100377
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -569,6 +569,7 @@
 ||1437953666.rsc.cdn77.org^
 ||1438976156.recolution.de^
 ||144e93bbf0.com^
+||1450691516.rsc.cdn77.org^
 ||1455.seponews.com^
 ||1459.cosmicnewspulse.com^
 ||1472.79j68qav2.com^
@@ -614,6 +615,7 @@
 ||15huhu.cn^
 ||16-merchant-s.com^
 ||16.y2sysv81v.com^
+||1607162747.rsc.cdn77.org^
 ||16134024.artcollection.io^
 ||161779.publy.co^
 ||162.252.214.4^
@@ -2844,7 +2846,6 @@
 ||8cc5ff581a88.bitsngo.net^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
-||8coins.ru^
 ||8d07a.xyz^
 ||8d1dce99ab.com^
 ||8d4b.pandasuite.io^
@@ -10284,7 +10285,6 @@
 ||adsrvr.org^
 ||adss.video.qq.com^
 ||adstarget.net^
-||adstargets.com^
 ||adstat.4u.pl^
 ||adstatic.kozoom.com^
 ||adstatistics.av380.net^
@@ -29098,7 +29098,6 @@
 ||dictseconal.com^
 ||dictumstortil.com^
 ||dicyiish.com^
-||diddledleveret.com^
 ||diddylinable.top^
 ||didmakingby.xyz^
 ||didna.io^
@@ -29347,6 +29346,7 @@
 ||dii4.zooplus.ro^
 ||dii4.zooplus.se^
 ||diingsinspiri.com^
+||diixqvrpoqs.com^
 ||dikeaxillas.com^
 ||diken.xyz^
 ||dikhsb.vividseats.com^
@@ -32081,7 +32081,6 @@
 ||effacedefend.com^
 ||effaceecho.com^
 ||effacerevealing.com^
-||effad.ru^
 ||effateuncrisp.com^
 ||effect.habr.com^
 ||effectedscorch.com^
@@ -36625,6 +36624,7 @@
 ||fq01.shop^
 ||fq02.shop^
 ||fq03.shop^
+||fq04.shop^
 ||fq67.top^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqbjzj.xyz^
@@ -37892,6 +37892,7 @@
 ||gesanbarrat.com^
 ||gesdxashb1.fun^
 ||gesfdashb5.fun^
+||gessdashb6.fun^
 ||gestiondocumentaire.ricoh.fr^
 ||gesvfvfhhb6.fun^
 ||geswarpkansan.com^
@@ -40739,6 +40740,7 @@
 ||harvesttheory.com^
 ||harzpzbsr.com^
 ||hasdarot.info^
+||hasdarot.vip^
 ||hasdjksndjk.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
@@ -47653,6 +47655,7 @@
 ||jy01.shop^
 ||jy04.shop^
 ||jy05.shop^
+||jy06.shop^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
 ||jybnuw.mudah.my^
@@ -58824,6 +58827,7 @@
 ||murkymouse.online^
 ||murphydrying.com^
 ||murreyequate.com^
+||murtbgab.com^
 ||muscatscurls.click^
 ||muscledarcysilly.com^
 ||musclehaulse.top^
@@ -65261,6 +65265,7 @@
 ||pj.uptraceforlore.com^
 ||pjagilteei.com^
 ||pjbncv.ode.co.kr^
+||pjcijbv.icu^
 ||pjdthz.xyz^
 ||pjgaez.autouncle.at^
 ||pjh7.us.chantelle.com^
@@ -65846,6 +65851,7 @@
 ||pogyreflush.com^
 ||pohsoneche.info^
 ||poi3d.space^
+||poiejdhmkjcnd.top^
 ||poignantsensitivenessforming.com^
 ||poilloiter.top^
 ||poinct.com^
@@ -70421,6 +70427,7 @@
 ||rewinedropshop.info^
 ||rewriteadoption.com^
 ||rewriteworse.com^
+||rewrwrt4.fun^
 ||rewwlzjmj.com^
 ||rexadvert.xyz^
 ||rexbucks.com^
@@ -74534,6 +74541,7 @@
 ||sexclic.com^
 ||sexcounter.com^
 ||sexdatingsite.pro^
+||sexemulator.tube-sexs.com^
 ||sexfg.com^
 ||sexfree314.935ft4j96.com^
 ||sexidude.com^
@@ -86942,7 +86950,6 @@
 ||toovoala.net^
 ||top-casting-termine.de^
 ||top-fwz1.mail.ru^
-||top-js-metrics.top.my.ua^
 ||top-offers1.com^
 ||top-performance.best^
 ||top-performance.club^
@@ -90709,6 +90716,7 @@
 ||ttbm.com^
 ||ttcu-union.actonservice.com^
 ||ttdmrvck.com^
+||ttdpxh.xyz^
 ||ttfpil.2dehands.be^
 ||ttgbnmk.top^
 ||ttgmjfgldgv9ed10.com^
@@ -92544,6 +92552,7 @@
 ||uu22662.com^
 ||uu3192uu.com^
 ||uu8811uu.com^
+||uuajq.top^
 ||uuboos.com^
 ||uucfeebvz.com^
 ||uudbvq.skuola.net^
@@ -95775,7 +95784,6 @@
 ||wingstoesassemble.com^
 ||wingsurf.cn^
 ||winkexpandingsleigh.com^
-||winline.rambler.ru^
 ||winneradsmedia.com^
 ||winnersolutions.net^
 ||winningorphan.com^
@@ -99442,6 +99450,7 @@
 ||yx-ads6.com^
 ||yx1.managershare.com^
 ||yxajqsrsij.com^
+||yxamkm.xyz^
 ||yxcrcc.xyz^
 ||yxeqahmgyxqdid.com^
 ||yxfqar.trendhim.com.au^
