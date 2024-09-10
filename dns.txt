@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-10 09:35:29（北京时间）
+! Version: 2024-09-10 20:39:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100488
+! Total count: 100508
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2113,6 +2113,7 @@
 ||592fd0d4b9.70be76b98c.com^
 ||5934.5clo0xmbf.com^
 ||5944.4puuqeh41.com^
+||595image.com^
 ||5980.5clo0xmbf.com^
 ||5981397f6e.63f2778501.com^
 ||5984927702.3071caa5ff.com^
@@ -2507,6 +2508,7 @@
 ||73-j-pinnable.com^
 ||7325.79j68qav2.com^
 ||7326.sosqboh85.com^
+||73336zubo25326.com^
 ||7345023508.fxm9485766783.com^
 ||7345023508.fxmconnect.com^
 ||7349.cosmicnewspulse.com^
@@ -12994,7 +12996,6 @@
 ||analytics.theinstitutes.org^
 ||analytics.themarketiq.com^
 ||analytics.thenest.com^
-||analytics.thenewslens.com^
 ||analytics.theta360.com^
 ||analytics.threedeepmarketing.com^
 ||analytics.ticinolibero.ch^
@@ -17216,6 +17217,7 @@
 ||banterteeserving.com^
 ||bantygoozle.top^
 ||baobabsruesome.com^
+||bapa215.top^
 ||bapages.carte-gr.total.fr^
 ||bapdvtk.com^
 ||bappeewit.top^
@@ -17323,7 +17325,6 @@
 ||bass.siterig.io^
 ||bassarazit.top^
 ||bassoonavatara.com^
-||bastardgrab.com^
 ||bastardminims.com^
 ||bastarduponupon.com^
 ||baste-znl.com^
@@ -17336,6 +17337,7 @@
 ||bat.heelix.be^
 ||bat.maydream.com^
 ||batatasendere.top^
+||bataviforsee.com^
 ||batchhermichermicsecondly.com^
 ||batcrack.icu^
 ||batebalmy.com^
@@ -19715,6 +19717,7 @@
 ||brillianceherewife.com^
 ||brimmallow.com^
 ||brimmedbryozoa.com^
+||bringchukker.com^
 ||bringclockwise.com^
 ||bringg.actonservice.com^
 ||bringglacier.com^
@@ -23786,6 +23789,7 @@
 ||comihon.com^
 ||comilar-efferiff.icu^
 ||comitalmows.com^
+||comityunvoid.com^
 ||coml.be^
 ||comm.toro.com^
 ||commamarrock.top^
@@ -32364,6 +32368,7 @@
 ||elasticmujeres.com^
 ||elasticstuffyhideous.com^
 ||elastoproxy.actonservice.com^
+||elatedynast.com^
 ||elaterconditing.info^
 ||elb.the-ozone-project.com^
 ||elbowfixes.com^
@@ -36039,6 +36044,7 @@
 ||fleraprt.com^
 ||fleshlightcash.com^
 ||flewroundandro.info^
+||flewvisto.click^
 ||flexbanner.com^
 ||flexcheekadversity.com^
 ||flexibleplan.actonservice.com^
@@ -36982,6 +36988,7 @@
 ||fscareers.epoise.com^
 ||fscareerstest.epoise.com^
 ||fsccafstr.com^
+||fsdf45.fun^
 ||fse.net.anwalt.de^
 ||fsegfy.lepoint.fr^
 ||fseotgcigbrq.com^
@@ -37130,6 +37137,7 @@
 ||funtoday.info^
 ||funyarewesbegi.com^
 ||fuooms.aetrex.com^
+||fuphekaur.net^
 ||fuphugccgowp.com^
 ||furded.com^
 ||furlhp.kango.mynavi.jp^
@@ -40023,6 +40031,7 @@
 ||griksoud.net^
 ||grillcheekunfinished.com^
 ||grilledcolmars.top^
+||grillvaleria.com^
 ||grimacecalumny.com^
 ||grimdeplorable.com^
 ||grimsecretary.com^
@@ -41015,6 +41024,7 @@
 ||hde1.repentignychevrolet.com^
 ||hdfdsdaw.com^
 ||hdfoweey.com^
+||hdickeu.top^
 ||hdicsm.autoscout24.be^
 ||hdipsumu.top^
 ||hdjfeed.top^
@@ -42706,6 +42716,7 @@
 ||hystericalpotprecede.com^
 ||hystersister.com^
 ||hyt.comp.360os.com^
+||hyth74.fun^
 ||hytxg2.com^
 ||hyusnisu.top^
 ||hyuwkbu.top^
@@ -48076,7 +48087,6 @@
 ||kelownajapers.top^
 ||kelreesh.xyz^
 ||kelticsully.guru^
-||kelyphafe.com^
 ||kemas.top^
 ||kemaz.xyz^
 ||kendosliny.com^
@@ -59543,7 +59553,6 @@
 ||navigationconcept.com^
 ||navigator-analytics.tweakwise.com^
 ||navigator.io^
-||navoultu.com^
 ||navrcholu.cz^
 ||navywilyoccur.com^
 ||nawabsalkenes.top^
@@ -66510,6 +66519,7 @@
 ||predictivadvertising.com^
 ||predictivdisplay.com^
 ||predominanttamper.com^
+||preeditreviler.com^
 ||prefaceanything.com^
 ||prefecturecagesgraphic.com^
 ||prefecturesolelysadness.com^
@@ -68667,7 +68677,6 @@
 ||quinelarumored.com^
 ||quinst.com^
 ||quintag.com^
-||quintessential-telephone.pro^
 ||quiresraviney.com^
 ||quirklogic.actonservice.com^
 ||quisma.com^
@@ -68974,6 +68983,7 @@
 ||rac.ruutu.fi^
 ||raccoon.jaronheard.com^
 ||racecadettyran.com^
+||racedinvict.com^
 ||racemanager-app.sapsailing.com^
 ||racepaddlesomewhere.com^
 ||racesundermine.com^
@@ -81710,6 +81720,7 @@
 ||stats.albert-kropp-gmbh.de^
 ||stats.alibhai.co^
 ||stats.alleaktien.de^
+||stats.allenai.org^
 ||stats.alocreativa.com^
 ||stats.am.ai^
 ||stats.amaeya.media^
@@ -90839,7 +90850,12 @@
 ||ttzmedia.com^
 ||tu.tantrumslab.com^
 ||tu.zx110.org^
+||tu1500919341.cc^
 ||tu2024020388.com^
+||tu3168509469.cc^
+||tu3921276844.cc^
+||tu4038097360.cc^
+||tu6767109513.cc^
 ||tuagol.gartenmoebel.de^
 ||tubberlo.com^
 ||tubbyconversation.pro^
@@ -91617,6 +91633,7 @@
 ||uiiepofl.xyz^
 ||uijciz.gunze.jp^
 ||uilfmzzzu.com^
+||uilogging.tcdevops.com^
 ||uilwmi.coop.nl^
 ||uilzwzx.com^
 ||uim.tifbs.net^
@@ -92021,6 +92038,7 @@
 ||unknownhormonesafeguard.com^
 ||unknowntray.com^
 ||unlawedimaret.top^
+||unleash.livepix.gg^
 ||unlesscooler.com^
 ||unlika.com^
 ||unlikelymoscow.com^
@@ -95586,6 +95604,7 @@
 ||whichcandiedhandgrip.com^
 ||whickazoxy.top^
 ||whickgiunta.com^
+||whidribsiheg.net^
 ||whileinferioryourself.com^
 ||whilieesrogs.top^
 ||whilroacix.com^
@@ -96194,6 +96213,7 @@
 ||woodiessnirl.digital^
 ||woodlandsmonthlyelated.com^
 ||woodlandsveteran.com^
+||woodlotrubato.com^
 ||woodpecker.binario11.de^
 ||woodpecker.ember.ly^
 ||woodpecker.mikehalliday.com^
