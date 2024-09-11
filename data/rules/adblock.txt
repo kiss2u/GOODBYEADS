@@ -806,6 +806,8 @@ zb.zhaobiao.cn##div.box:nth-child(5) > div.advertisement.box:nth-child(2)
 123pan.com##.banner_all_wrap
 !哔咔漫画
 ||*.diwodiwo.xyz^
+!ofiii
+||proxy.svc.litv.tv^
 !其它补充
 ###vid_overlay
 ##.modalJS_object

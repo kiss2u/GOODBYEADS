@@ -38,3 +38,6 @@
 @@||data.sec.miui.com^
 !腾讯游戏登录
 @@||ap6.ssl.msdk.qq.com^
+!ofiii
+@@||cdi.ofiii.com^
+@@||fino.svc.litv.tv^
