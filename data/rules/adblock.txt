@@ -808,6 +808,8 @@ zb.zhaobiao.cn##div.box:nth-child(5) > div.advertisement.box:nth-child(2)
 ||*.diwodiwo.xyz^
 !ofiii
 ||proxy.svc.litv.tv^
+ofiii.com##div.nonlinear_image_container.ad_impression
+ofiii.com##.jsx-126687236
 !其它补充
 ###vid_overlay
 ##.modalJS_object
