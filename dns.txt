@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-11 09:34:12（北京时间）
+! Version: 2024-09-11 20:07:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99949
+! Total count: 99946
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -229,7 +229,6 @@
 ||0870.79j68qav2.com^
 ||0875.sosqboh85.com^
 ||088.y2sysv81v.com^
-||0881dd11d9.com^
 ||0890.4puuqeh41.com^
 ||0898.79j68qav2.com^
 ||08c1d4cfd6.f2f4b08b25.com^
@@ -1126,6 +1125,7 @@
 ||249.bestinterestings.com^
 ||2491may2024.com^
 ||2495may2024.com^
+||2497may2024.com^
 ||2499may2024.com^
 ||249c9885c1.com^
 ||24ac8b188b.5b3fbababb.com^
@@ -1215,6 +1215,7 @@
 ||289931.com^
 ||289ae6a5fa.6ac78725fd.com^
 ||28e096686b.com^
+||28t1ya.cn^
 ||2910.5clo0xmbf.com^
 ||291hkcido.de^
 ||2920.5clo0xmbf.com^
@@ -12179,7 +12180,6 @@
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
-||ampower.me^
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
 ||ampugi334f.com^
 ||ampxchange.com^
@@ -12858,7 +12858,6 @@
 ||analytics.query.yahoo.com^
 ||analytics.qushad.com^
 ||analytics.radiatemedia.com^
-||analytics.raenonx.cc^
 ||analytics.rambla.be^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
@@ -31263,7 +31262,6 @@
 ||e2s77vndh.com^
 ||e30a86a427.com^
 ||e33f322d88.f5b34517b9.com^
-||e36699730a.com^
 ||e36e2058e8.com^
 ||e3b00aa283.973652004b.com^
 ||e3dfcd5df0.4e26d342b8.com^
@@ -34637,7 +34635,6 @@
 ||f2fcd50c02.db2a85c464.com^
 ||f2svgmvts.com^
 ||f3.aomg5bzv7.com^
-||f3533a7f60.com^
 ||f35f2cf082.721ffc3ec5.com^
 ||f361.wvtm13.com^
 ||f362.nola.com^
@@ -35329,7 +35326,6 @@
 ||ffawfa.cn^
 ||ffawwuagvom.com^
 ||ffb7c5bd32.05951bf6a3.com^
-||ffba7aab82.com^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffbvhlc.com^
 ||ffc661579f.c2dffe940b.com^
@@ -35602,6 +35598,7 @@
 ||filtertopplescream.com^
 ||filthybudget.com^
 ||filthysignpod.com^
+||fimrg.ajscdn.com^
 ||fimserve.com^
 ||fimyxg.bloomberght.com^
 ||fimyxg.haberturk.com^
@@ -36820,7 +36817,6 @@
 ||frownfirsthand.com^
 ||frowzlynecklet.top^
 ||frqbff.hedleyandbennett.com^
-||frrrerolls22.monster^
 ||frstlead.com^
 ||frtnqps358.shop^
 ||frtnqpw837.shop^
@@ -39887,6 +39883,7 @@
 ||groguzoo.net^
 ||groininsightclaimed.com^
 ||groinopposed.com^
+||groleepugny.net^
 ||gromore.pangolin-sdk-toutiao.com^
 ||grondrens.com^
 ||gronsoad.com^
@@ -40027,7 +40024,6 @@
 ||gsspcln.jp^
 ||gsupplyair.carte-gr.total.fr^
 ||gsurihy.com^
-||gsurl.in^
 ||gsurl.me^
 ||gsuwrjqqfm.com^
 ||gsuxyg.xyz^
@@ -42775,6 +42771,7 @@
 ||idhad.com^
 ||idiafix.com^
 ||idianw.warmteservice.nl^
+||idickeo.top^
 ||idiothungryensue.com^
 ||idioticskinner.com^
 ||idioticstoop.com^
@@ -51771,7 +51768,6 @@
 ||lovely-sing.pro^
 ||lovelybingo.com^
 ||lovemateforyou.com^
-||loveofffer.com^
 ||loverevenue.com^
 ||loverfellow.com^
 ||loversarrivaladventurer.com^
@@ -66762,6 +66758,7 @@
 ||proxy.ads.canalplus-bo.net^
 ||proxy.advp.apple.com^
 ||proxy.dzeio.com^
+||proxy.svc.litv.tv^
 ||proxy.trysavvy.com^
 ||proxy.vidazoo.com^
 ||prplad.com^
@@ -79803,7 +79800,6 @@
 ||sponsors.salesforceben.com^
 ||sponsors.stateofdigitalpublishing.com^
 ||sponsors.teethtalkgirl.com^
-||sponsors.thoughtsmedia.com^
 ||sponsors.vuejs.org^
 ||sponsors.vvng.com^
 ||spontaneousleave.com^
@@ -92848,6 +92844,7 @@
 ||vfchm.cyou^
 ||vfcsesjgbj.com^
 ||vfd2dyn.vodafone.de^
+||vfdvdg67.fun^
 ||vfeeopywioabi.xyz^
 ||vfgajrk.cn^
 ||vfghc.com^

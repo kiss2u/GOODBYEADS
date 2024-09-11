@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-11 09:34:12（北京时间）
+! Version: 2024-09-11 20:07:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14549
+! Total count: 14553
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -743,8 +743,9 @@
 @@||a.magsrv.com/ad-provider.js$domain=jembut.us
 @@||a.magsrv.com/ad-provider.js$domain=reshare.pm
 @@||a.magsrv.com/ad-provider.js$domain=rule34porn.net
-@@||a.magsrv.com/ad-provider.js$domain=veev.to
+@@||a.magsrv.com/ad-provider.js$xmlhttprequest,domain=veev.to
 @@||a.magsrv.com/video-slider.js$domain=daemonanime.net
+@@||a.orbsrv.com/ad-provider.js$xmlhttprequest,domain=veev.to
 @@||a.poki.com/prebid/$script,domain=poki-gdn.com|repuls.io
 @@||a.pub.network/core/pubfig/cls.css$domain=vrcmods.com
 @@||a.pub.network/crewbase-net/pubfig.min.js$script,domain=allcryptoz.net|crewbase.net|crewus.net|shinchu.net|thumb8.net|thumb9.net|uniqueten.net
@@ -2707,6 +2708,7 @@
 @@||cd.connatix.com/connatix.playspace.js$domain=theverge.com
 @@||cda.pl/video/$subdocument,domain=szukajka.tv
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
+@@||cdi.ofiii.com^
 @@||cdn*-player.com^$stealth
 @@||cdn*.*.pw/*p_*.jpg$stealth=referrer,domain=vidload.lol
 @@||cdn*.anicdn.net/appsd*.mp4$stealth=referrer
@@ -4200,6 +4202,7 @@
 @@||dosgamezone.com/ads/banner1.gif
 @@||dostats.info^$generichide
 @@||dostavista.ru^$stealth
+@@||dosyaload.com/embed/$stealth=referrer
 @@||dosyayukle.biz^$generichide
 @@||dot.ro^$generichide
 @@||dota2freaks.com^$generichide
@@ -4823,6 +4826,7 @@
 @@||fingerprintjs.com^$generichide
 @@||finishline.com^$stealth
 @@||finn.no/*/ad.html
+@@||fino.svc.litv.tv^
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
