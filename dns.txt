@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-12 09:34:32（北京时间）
+! Version: 2024-09-12 20:38:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99951
+! Total count: 99941
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1016,7 +1016,6 @@
 ||2122aaa0e5.com^
 ||21270a5ec2.a48d53647a.com^
 ||212ehae.fun^
-||212fea9f61.com^
 ||2132dfd3.fsseeewzz.lol^
 ||2137dc12f9d8.com^
 ||2138.79j68qav2.com^
@@ -1513,7 +1512,6 @@
 ||351c3606b8.77ce6b9dca.com^
 ||352131387c.1f84e33459.com^
 ||3534.ogrt80r65.com^
-||35494de512.com^
 ||3562wsgkbcm.xyz^
 ||3565433061881492849.academyofconsciousleadership.com^
 ||357dbd24e2.com^
@@ -2971,7 +2969,6 @@
 ||925.lt^
 ||9253.79j68qav2.com^
 ||9287.4puuqeh41.com^
-||928fab1d1d.com^
 ||92934e7e2b.fc9d8824d4.com^
 ||92by17snes4.cc^
 ||92c04d81dd.com^
@@ -9987,7 +9984,6 @@
 ||ads.web.de^
 ||ads.webmasterpoint.org^
 ||ads.webme.com^
-||ads.websiteservices.com^
 ||ads.wetpussy.sexy^
 ||ads.whoishostingthis.com^
 ||ads.wiezoekje.nl^
@@ -9999,7 +9995,6 @@
 ||ads.xedoisong.vn^
 ||ads.xemtivisohd.net^
 ||ads.xhamster.com^
-||ads.xlxtra.com^
 ||ads.xtra.ca^
 ||ads.xtra.co.nz^
 ||ads.yahoo.com^
@@ -16091,7 +16086,6 @@
 ||aversionwives.com^
 ||aversionworkingthankful.com^
 ||avertium.actonservice.com^
-||avevofipnqobi.com^
 ||avfqvyuqsdph.com^
 ||avgive3431.fun^
 ||avglfookdjuj.com^
@@ -16484,7 +16478,6 @@
 ||aymobi.online^
 ||aymwiq.xyz^
 ||aynhlxbr0.com^
-||aynhnrgxjxfv.com^
 ||aynufyns.xyz^
 ||ayorks.com^
 ||aypahalndxrxon.com^
@@ -18907,6 +18900,7 @@
 ||bnpmtoazgw.com^
 ||bnr.sys.lv^
 ||bnrdom.com^
+||bnrk7esglquispx2lsluttlm.xyz^
 ||bnrs.esexa.online^
 ||bnrs.it^
 ||bnrsis.com^
@@ -20189,7 +20183,6 @@
 ||buyer.dspx.tv^
 ||buyer.okiela.com^
 ||buyfrightencheckup.com^
-||buyhitscheap.com^
 ||buylnk.com^
 ||buysellads.com^
 ||buyseoblog.com^
@@ -27079,7 +27072,6 @@
 ||d82c09157a.25eaeccf95.com^
 ||d830x8j3o1b2k.cloudfront.net^
 ||d84e37ab9e.e55971de17.com^
-||d870307884.com^
 ||d871f74395.com^
 ||d8a69dni6x2i5.cloudfront.net^
 ||d8bb72d31d.com^
@@ -33043,7 +33035,6 @@
 ||enews10.yxlady.net^
 ||enfantbroll.top^
 ||enframetump.com^
-||enfreine.com^
 ||enftvgnkylijcp.xyz^
 ||engage-emea.jll.com^
 ||engage.3m.co.cr^
@@ -35930,6 +35921,7 @@
 ||flippantguilt.com^
 ||flipt.actonservice.com^
 ||flirtatiousconsultyoung.com^
+||flirtclickmatches.life^
 ||flirtfusiontoys.toys^
 ||flitespashka.top^
 ||flixdot.com^
@@ -36850,6 +36842,7 @@
 ||fseotgcigbrq.com^
 ||fsfwetubfgd.com^
 ||fsgiosi.com^
+||fsijngnfsfk.com^
 ||fsm.lapresse.ca^
 ||fsm2.spiegel.de^
 ||fsotrmshy.com^
@@ -37289,7 +37282,6 @@
 ||ga.nsimg.net^
 ||ga.webdigi.co.uk^
 ||ga1.3dmgame.com^
-||ga87z2o.com^
 ||gaafbi.fashiondays.hu^
 ||gaana.com/ajax/loaddfp^
 ||gabaritevict.top^
@@ -37386,7 +37378,6 @@
 ||gamefowl.nonprofit.foundation^
 ||gamehouse.com^
 ||gameleads.ru^
-||gamemaxxxx.fun^
 ||gameplanfinancial.actonservice.com^
 ||gamer.mmohuts.com^
 ||gamergirl.pro^
@@ -45305,7 +45296,6 @@
 ||intellipopup.com^
 ||intellitxt.com^
 ||intelpartneralliance.intel.com^
-||intelserviceupdate.com^
 ||intelstqkt.com^
 ||intendedeasiestlost.com^
 ||intendedoutput.com^
@@ -46413,6 +46403,7 @@
 ||jdgtgb.weser-kurier.de^
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
+||jdickea.top^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdkmbvbyy.com^
@@ -91149,6 +91140,7 @@
 ||uhrmzgp.com^
 ||uhrsek.shoemarker.co.kr^
 ||uhsmmaq4l2n5.com^
+||uhuf56.fun^
 ||ui.aomg5bzv7.com^
 ||ui.belboon.com^
 ||ui.marchesbragged.com^
@@ -91298,7 +91290,6 @@
 ||ultimatumloftyharvest.com^
 ||ultimatumrelaxconvince.com^
 ||ultmjevd.xyz^
-||ultraadserver.com^
 ||ultrabetas.com^
 ||ultracdn.top^
 ||ultraclassmate.com^
@@ -94795,7 +94786,6 @@
 ||webtrafficsource.com^
 ||webtraxx.de^
 ||webtrendr.com^
-||webtrendslive.com^
 ||webts.adac.de^
 ||webview.unityads.unity3d.com^
 ||webvisor.org^
