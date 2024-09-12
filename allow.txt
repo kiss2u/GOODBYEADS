@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-11 20:39:07（北京时间）
+! Version: 2024-09-12 09:34:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14553
+! Total count: 14555
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -8103,6 +8103,7 @@
 @@||live.primis.tech/content/$domain=manchestereveningnews.co.uk
 @@||live.primis.tech/live/liveVideo.php$domain=manchestereveningnews.co.uk
 @@||live.primis.tech/live/liveView.php$domain=manchestereveningnews.co.uk
+@@||live.primis.tech/live/liveView.php$xmlhttprequest,domain=work.ink
 @@||live.primis.tech^$script,domain=eurogamer.net|klaq.com|loudwire.com|screencrush.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
@@ -14113,6 +14114,7 @@
 @@||widgets.outbrain.com/nanoWidget/externals/obFrame/obFrame.htm$jsinject,elemhide
 @@||widgets.outbrain.com/outbrain.js$domain=apkmirror.com,stealth
 @@||widgets.outbrain.com/outbrain.js$domain=elcorreo.com
+@@||widgets.outbrain.com/outbrain.js$xmlhttprequest,domain=work.ink
 @@||widgets.outbrain.com^*/comScore/comScore.htm
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
 @@||wikia.nocookie.net/*/css/*.scss$domain=fandom.com
