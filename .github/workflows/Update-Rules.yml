@@ -10,14 +10,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
           
-      - name: Update Rules
+      - name: Download Rules
         continue-on-error: true
         run: |
-          bash ./data/script/update-rules.sh
+          python ./data/python/dl.py
           
-      - name: Update ReadMe
+      - name: Merge Rules
         run: |
-          bash ./data/script/clean-readme.sh
+          python ./data/python/merge.py
+          
+      - name: Filter dns
+        run: |
+          python ./data/python/filter-dns.py
+
+      - name: Update Title&ReadMe
+        run: |
+          python ./data/python/title.py
+          python ./data/python/clean-readme.py
 
       - name: Git push assets to Github
         run: |
