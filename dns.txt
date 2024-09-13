@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-13 20:37:24（北京时间）
+! Version: 2024-09-14 00:14:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99960
+! Total count: 99967
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -79,7 +79,6 @@
 ||0153.4puuqeh41.com^
 ||0157.l5eamr17d.com^
 ||0159.ogrt80r65.com^
-||0165672dd6.com^
 ||016e6eadad.com^
 ||0172.5clo0xmbf.com^
 ||0176.cosmicnewspulse.com^
@@ -429,6 +428,7 @@
 ||101com.com^
 ||101flag.ru^
 ||101m3.com^
+||1026750852.rsc.cdn77.org^
 ||1028images.com^
 ||10298198.arch.sofi.org^
 ||10298198.info.sofi.org^
@@ -436,6 +436,7 @@
 ||10298198.o.sofi.org^
 ||102d.pandasuite.io^
 ||103092804.com^
+||1047430889.rsc.cdn77.org^
 ||1048.5clo0xmbf.com^
 ||1062.5clo0xmbf.com^
 ||107e9a08a8.com^
@@ -578,6 +579,7 @@
 ||1455.seponews.com^
 ||1459.cosmicnewspulse.com^
 ||1472.79j68qav2.com^
+||1478004088.rsc.cdn77.org^
 ||147cd49082.05e11c9f6f.com^
 ||1480.79j68qav2.com^
 ||1482.5clo0xmbf.com^
@@ -2646,7 +2648,6 @@
 ||7e52bb0df7.c5ab629aba.com^
 ||7e77e49c84.com^
 ||7e839b3296.98f68cf54e.com^
-||7ecd70404f.com^
 ||7ee4c0f141.com^
 ||7f1aefd20d.5e1d98ec8c.com^
 ||7f3adt.com^
@@ -2855,6 +2856,7 @@
 ||8cc5ff581a88.bitsngo.net^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
+||8coins.ru^
 ||8d07a.xyz^
 ||8d1dce99ab.com^
 ||8d4b.pandasuite.io^
@@ -13220,6 +13222,7 @@
 ||angularconstitution.com^
 ||anidianskirts.com^
 ||aniede.xyz^
+||anijhatiqseeob.com^
 ||anijjm.winkelstraat.nl^
 ||animadulte.com^
 ||animal-drawings.com^
@@ -25583,7 +25586,6 @@
 ||currepush.com^
 ||curriculture.com^
 ||curryoxygencheaper.com^
-||curseaprilsnow.com^
 ||cursecrap.com^
 ||cursedspytitanic.com^
 ||cursegro.com^
@@ -31019,6 +31021,7 @@
 ||dwnm2295blvjq.cloudfront.net^
 ||dwp3ce9c.top^
 ||dwq661.biz^
+||dwqjaehnk.com^
 ||dwr3zytn850g.cloudfront.net^
 ||dwrlwx.polo-motorrad.de^
 ||dwtkuzo.cn^
@@ -32016,6 +32019,7 @@
 ||effacedefend.com^
 ||effaceecho.com^
 ||effacerevealing.com^
+||effad.ru^
 ||effateuncrisp.com^
 ||effect.habr.com^
 ||effectedscorch.com^
@@ -36544,6 +36548,7 @@
 ||fq02.shop^
 ||fq03.shop^
 ||fq04.shop^
+||fq05.shop^
 ||fq67.top^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqbjzj.xyz^
@@ -39850,6 +39855,7 @@
 ||grizzlies30.fun^
 ||grizzling33.fun^
 ||grkhhdxsimfif.com^
+||grkucmja.com^
 ||grkuikqvpmqnla.com^
 ||grmtas.com^
 ||grn.openapp.link^
@@ -41156,6 +41162,7 @@
 ||hfpwcx.supermercadosmas.com^
 ||hfqnbrrutmyqlo.com^
 ||hfr67jhqrw8.com^
+||hftohrepdtz.com^
 ||hfufkifmeni.com^
 ||hfugukhcea.com^
 ||hfvura.noriel.ro^
@@ -47469,6 +47476,7 @@
 ||jy04.shop^
 ||jy05.shop^
 ||jy06.shop^
+||jy07.shop^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
 ||jybnuw.mudah.my^
@@ -57708,7 +57716,6 @@
 ||mnwor.xuanlishi.com^
 ||mnzznvpktnqtmm.com^
 ||mo-tuo.com^
-||mo.freeindoapp.com^
 ||mo.gushiji.cc^
 ||mo3i5n46.de^
 ||mo9jr8ie6sier3an.com^
@@ -84862,6 +84869,7 @@
 ||tbiwkjomju.com^
 ||tbjasp.cyrillus.de^
 ||tbknig.ecc.jp^
+||tblnreehmapc.com^
 ||tbm.snssdk.com^
 ||tbmgyz.centerparcs.de^
 ||tbmwkwbdcryfhb.xyz^
@@ -86607,6 +86615,7 @@
 ||toovoala.net^
 ||top-casting-termine.de^
 ||top-fwz1.mail.ru^
+||top-js-metrics.top.my.ua^
 ||top-offers1.com^
 ||top-performance.best^
 ||top-performance.club^
@@ -97177,7 +97186,6 @@
 ||xait.actonservice.com^
 ||xajibur.ru^
 ||xajqhrrrnxmy.com^
-||xakfdicg.com^
 ||xalienstreamx.com^
 ||xambxhihx.com^
 ||xameleonads.com^
@@ -99963,4 +99971,3 @@
 ||zzyjpmh.com^
 ||zzzjvqzkmqjlo.top^
 ||zzzjvqzkmqjyb.top^
-||zzztest.oisd.nl^

@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-13 20:37:24（北京时间）
+! Version: 2024-09-14 00:14:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14558
+! Total count: 14560
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -430,6 +430,7 @@
 @@5.148.189.205:443$network
 @@://*.ico$domain=livenewschat.eu
 @@://*.xuk.ru^$stealth
+@@://0.0.0.0$generichide
 @@://10.0.0.$generichide
 @@://10.1.1.$generichide
 @@://127.0.0.1$generichide
@@ -504,7 +505,7 @@
 @@|http://*$domain=fmovies.to,~third-party
 @@|http://*.theinquirer.net/$script
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org[Adblock Plus 2.1]
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@|https://$xmlhttprequest,third-party,domain=socketloop.com
 @@|https:///ovh.webshark.pl/adserver/*/main_script.js?advertise_check=1
@@ -515,6 +516,7 @@
 @@||*optout$domain=smartadserver.com
 @@||*optout$domain=youronlinechoices.com
 @@||*status$domain=youronlinechoices.com
+@@||0.0.0.0/admin/admin_ad.php?$domain=0.0.0.0
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
 @@||0914.global.ssl.fastly.net/ads/*/x.$domain=cbs.com
@@ -4826,7 +4828,7 @@
 @@||fingerprintjs.com^$generichide
 @@||finishline.com^$stealth
 @@||finn.no/*/ad.html
-@@||fino.svc.litv.tv^
+@@||fino.svc.litv.tv^!
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
