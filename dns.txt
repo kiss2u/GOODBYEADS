@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-13 09:35:08（北京时间）
+! Version: 2024-09-13 19:34:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99958
+! Total count: 99960
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1714,7 +1714,6 @@
 ||4174.79j68qav2.com^
 ||4182.sosqboh85.com^
 ||41a33ffca8.com^
-||41bcf8ddc1.com^
 ||420794d6e8.4fc0ffa6ca.com^
 ||420909.cn^
 ||420a797395.95cf5beb64.com^
@@ -2150,7 +2149,6 @@
 ||5forex.ru^
 ||5gxs.org^
 ||5h3oyhv838.com^
-||5i2.net^
 ||5i68sbhin.com^
 ||5i8xkqjmqubv.top^
 ||5icim50.de^
@@ -2745,7 +2743,6 @@
 ||8432.5clo0xmbf.com^
 ||845d6bbf60.com^
 ||8461.5clo0xmbf.com^
-||84692db09f.com^
 ||847h7f51.de^
 ||8480.5clo0xmbf.com^
 ||8499583.com^
@@ -7525,7 +7522,6 @@
 ||abetpreoccupyruby.com^
 ||abetting.net^
 ||abevc.club^
-||abfb1f1f31.com^
 ||abgeobalancer.com^
 ||abgghj.moustakastoys.gr^
 ||abgligarchan.com^
@@ -10195,6 +10191,7 @@
 ||adsgroup.qq.com^
 ||adshack.com^
 ||adshare.toutiao.com^
+||adshere.online^
 ||adshmct.qq.com^
 ||adshmmsg.qq.com^
 ||adshoper.com^
@@ -11572,6 +11569,7 @@
 ||alaska.xhamster3.com^
 ||alaskan4kleeskai.com^
 ||alasvow.com^
+||alaudrup.net^
 ||alb.reddit.com^
 ||albamargroup.com^
 ||alban-mro.com^
@@ -22511,7 +22509,6 @@
 ||cjgymo.xyz^
 ||cjhkmsguxlxgy.com^
 ||cjkaihej.com^
-||cjl58f3agc.com^
 ||cjlekm.correiodopovo.com.br^
 ||cjlog.com^
 ||cjlph.com^
@@ -29073,7 +29070,6 @@
 ||differencedisinheritpass.com^
 ||differencenaturalistfoam.com^
 ||differenchi.pro^
-||differentdesk.com^
 ||differentevidence.com^
 ||differenth.com^
 ||differentlydiscussed.com^
@@ -30929,7 +30925,6 @@
 ||dustersee.com^
 ||dustratebilate.com^
 ||dustupsstekan.com^
-||dustyautoabduct.com^
 ||dustyhammer.com^
 ||dustymural.com^
 ||dustywrenchdesigned.com^
@@ -39450,6 +39445,7 @@
 ||goose.accountsjs.com^
 ||goose.markerchase.com^
 ||goosebomb.com^
+||goosierappetit.com^
 ||goosimes.com^
 ||goostist.com^
 ||goourl.me^
@@ -44979,6 +44975,7 @@
 ||inhalebrinkrush.com^
 ||inhaleecstatic.com^
 ||inhaletroubledgentle.com^
+||inhanceego.com^
 ||inheritancepillar.com^
 ||inheritedgeneralrailroad.com^
 ||inheritedgravysuspected.com^
@@ -47748,6 +47745,7 @@
 ||kdgjsf.com^
 ||kdh095.cn^
 ||kdhmzv.oculosmeninaflor.com.br^
+||kdicked.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdkatxfkxmgmbhu.xyz^
@@ -54891,6 +54889,7 @@
 ||mds.ricoh.no^
 ||mdsahkln.xyz^
 ||mdstats.info^
+||mdt.crateandbarrel.com^
 ||mdt.qq.com^
 ||mdtnjvcsdbc02-eth1-0.net.mydays.de^
 ||mdugiz.jdsports.de^
@@ -65584,6 +65583,7 @@
 ||pointed-deal.pro^
 ||pointeddifference.com^
 ||pointedmana.info^
+||pointespassage.com^
 ||pointinginexperiencedbodyguard.com^
 ||pointlesseventuallydesignate.com^
 ||pointlessmorselgemini.com^
@@ -70549,6 +70549,7 @@
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockiertaar.com^
 ||rockingfolders.com^
 ||rockmostbet.com^
 ||rockpicky.com^
@@ -71249,6 +71250,7 @@
 ||runmixed.com^
 ||runnethfumier.top^
 ||runningdestructioncleanliness.com^
+||runnionpox.click^
 ||runnyestablishment.pro^
 ||runoj.click^
 ||runpuredead.live^
@@ -74415,6 +74417,7 @@
 ||shamelessnullneutrality.com^
 ||shamepracticegloomily.com^
 ||shammesbyssin.top^
+||shamnmalcwob.com^
 ||shamtick.com^
 ||shanaurg.net^
 ||shangwenchao4.cn^
@@ -82489,7 +82492,6 @@
 ||stormwind.actonservice.com^
 ||stormyachiever.com^
 ||stormydisconnectedcarsick.com^
-||stormysponge.com^
 ||storners.com^
 ||storyblizzard.com^
 ||storyquail.com^
@@ -89711,7 +89713,6 @@
 ||trembleday.com^
 ||tremorhub.com^
 ||trendads.reactivebetting.com^
-||trendcounter.com^
 ||trenddigital.vn^
 ||trendmd.com^
 ||trendmouthsable.com^
@@ -95832,6 +95833,7 @@
 ||wormdehydratedaeroplane.com^
 ||wornie.com^
 ||wornshoppingenvironment.com^
+||worritsmahra.com^
 ||worryingonto.com^
 ||worshipstubborn.com^
 ||worst-zone.pro^
